@@ -1,3 +1,4 @@
+# server de respaldo para jugar continuamente
 # usar playit el mejor
 # 
 #
