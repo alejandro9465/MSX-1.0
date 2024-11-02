@@ -1,1 +1,1 @@
-# MS-2.5
+# Pajaland server de respaldo
