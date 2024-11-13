@@ -1,1 +1,0 @@
-# Pajaland server de respaldo
