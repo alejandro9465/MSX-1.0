@@ -4,7 +4,7 @@
 #
 #
 #
-# server en decadencia
+#
 #
 #
 #
