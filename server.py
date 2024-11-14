@@ -8,6 +8,7 @@
 #
 #
 #
+#
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
