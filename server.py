@@ -1,10 +1,6 @@
 # server de respaldo para jugar continuamente
 # usar playit el mejor
-# 
-#
-#
-#
-#
+# increible lo que me costo hacer la wewada de server y por puros errores mios
 #
 #
 #
