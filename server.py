@@ -2,10 +2,6 @@
 # usar playit el mejor
 # increible lo que me costo hacer la wewada de server y por puros errores mios
 #
-#
-#
-#
-#
 import requests,os,base64,glob,time
 if os.path.exists("servidor.py"):
 	os.remove("servidor.py")
