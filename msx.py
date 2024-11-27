@@ -1,16 +1,18 @@
+# MSX 1.0
 
-
-
-
-
-# ================
-# MSX LAUNCHER 1.0
-# ================
 # 1. Instala la extensión de Python
-# 2. Haz click al botón de arriba a la derecha (►)
+# 2. Click al botón de arriba a la derecha para iniciar el script [▶]
 
 # Si no aparece el botón, reinicia la página o cambia de navegador.
 
+# Github da 120 horas sin embargo las horas estan divididas entre la cantidad de nucleos.
+# Si seleccionamos el plan de 4 cores serian 30 horas
+# Si seleccionamos el plan de 2 cores serian 60 horas
+# Apagar el servidor al no usarlo para prolongar las horas.
+
+# Para ver las horas que te quedan, ve al siguiente link y dale a cerrar o a la [X]
+# Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
+# https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
 
 
 
@@ -32,14 +34,7 @@
 
 
 
-
-
-
-
-
-# =================================================
-# No toques nada de aquí para abajo, puedes dañarlo
-# =================================================
+#==================================================================================================#
 A='server.py'
 E=print
 import requests as F,os as B,base64 as D,glob as C,time
@@ -56,7 +51,7 @@ def J(download_path='.'):
 		if G.status_code==200:
 			J=G.json();H=J.get('latest');A=H.split('/')[-1]
 			if A in C.glob(D):return A
-			else:B.system('rm *.msx >> /dev/null 2>&1');E('Actualizando tu versión de MSX...');time.sleep(1.5)
+			else:B.system('rm *.msx >> /dev/null 2>&1');E('Actualizando versión de MSX...');time.sleep(1.5)
 			K=B.path.join(download_path,A)
 			with open(K,'wb')as L:L.write(F.get(H).content)
 			return A
