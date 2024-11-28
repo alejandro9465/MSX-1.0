@@ -18,7 +18,7 @@
 
 # Recomendado usar [playit] como servicio de ip.
 
-# Si el servidor no inicia prueba cambiando el plan de cores a 4 para la creacion de mundo.
+# Si el servidor no inicia prueba cambiando el plan de cores a 4 para el inicio del server.
 
 
 
