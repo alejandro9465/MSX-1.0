@@ -13,7 +13,7 @@
 # El script ya aguanta tener 240 minutos (4 horas) de inactividad.
 # Apagar el servidor al no usarlo para prolongar las horas.
 
-# Para ver las horas que te quedan, ve al siguiente link y dale a cerrar, o a la [X] Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
+# Para ver las horas que te quedan, ve al siguiente link y dale a cerrar [X] Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
 
 # Recomendado usar [playit] como servicio de ip.
