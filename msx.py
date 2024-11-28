@@ -8,8 +8,8 @@
 # Si no aparece el botón, reinicia la página o cambia de navegador.
 
 # Github da 120 horas sin embargo las horas estan divididas entre la cantidad de nucleos.
-# El plan de 4 cores serian 30 horas
-# El plan de 2 cores serian 60 horas
+# El plan de 4 cores 16 ram serian 30 horas
+# El plan de 2 cores 8 ram serian 60 horas
 # El script ya aguanta tener 240 minutos (4 horas) de inactividad.
 # Apagar el servidor al no usarlo para prolongar las horas.
 
