@@ -14,7 +14,7 @@
 # Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
 
-
+# Desde 1.7.10 hasta 1.21.3
 
 
 
