@@ -5,6 +5,7 @@
 # 1. Instala la extensión de Python
 # 2. Click al botón de arriba a la derecha para iniciar el script [▶]
 
+# Ahora solo es necesario estar siguiendo a Elyx.
 # Si no aparece el botón, reinicia la página o cambia de navegador.
 
 # Github da 120 horas sin embargo las horas estan divididas entre la cantidad de nucleos.
@@ -19,7 +20,6 @@
 # Recomendado usar [playit] como servicio de ip.
 
 # Si el servidor no inicia prueba cambiando el plan de cores a 4 para el inicio del server.
-
 
 
 
