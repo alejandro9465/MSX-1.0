@@ -5,13 +5,13 @@
 
 # Version desde 1.7.10 hasta 1.21.3
 
-# Github
 # Github da 120 horas sin embargo las horas estan divididas entre la cantidad de nucleos.
 # El plan de 4 cores 16 ram serian 30 horas
 # El plan de 2 cores 8 ram serian 60 horas
-# El script ya aguanta tener 240 minutos (4 horas) de inactividad.
 # Para ver las horas que te quedan, ve al siguiente link y dale a cerrar [X] Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
+
+# El script ya aguanta tener 240 minutos (4 horas) de inactividad.
 
 # Recomendaciones
 # Recomendado usar [playit] como servicio de ip.
@@ -22,6 +22,7 @@
 # Si no aparece el botón para iniciar, reinicia la página o cambia de navegador.
 # Si el servidor no inicia prueba cambiando el plan de cores a 4 para el inicio del server.
 # Si aparece el error "No X11 DISPLAY variable was set" ve al catalogo de addons, elige la opcion ForgeFix y descarga, luego ve a la opcion de addons y elige la opcion de arreglar instalacion forge.
+
 
 
 
