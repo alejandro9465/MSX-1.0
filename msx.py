@@ -19,13 +19,13 @@
 # Apagar el servidor al no usarlo para prolongar las horas.
 # Ahora solo es necesario seguir a Elyx.
 # Para eliminar el mundo borra la carpeta "servidor_minecraft"
-# Usa Mayus + Ins Antes de Ctrl + C
+# Usa [Mayus + Ins] en vez de [Ctrl + C]
 
 # Soluciones:
 # Si no aparece el botón para iniciar, reinicia la página o cambia de navegador.
 # Si el servidor no inicia prueba cambiando el plan de cores a 4 para el inicio del server.
 # Si aparece el error "No X11 DISPLAY variable was set" ve al catalogo de addons, elige la opcion ForgeFix y descarga, luego ve a la opcion de addons y elige la opcion de arreglar instalacion forge.
-# Si te pide aceptar el eula, crea manualmente un "eula.txt" dentro de "servidor_minecraft" dentro del "eula.txt" se tiene que escribir "eula=true"
+# Si te pide aceptar el eula, crea manualmente un "eula.txt" dentro de "servidor_minecraft" depues, dentro de "eula.txt" se tiene que escribir "eula=true"
 
 
 
