@@ -5,21 +5,21 @@
 
 # Version desde 1.7.10 hasta 1.21.3
 
-# Github:
+# Informacion:
 # Github da 120 horas sin embargo las horas estan divididas entre la cantidad de nucleos.
 # El plan de 4 cores 16 ram serian 30 horas
 # El plan de 2 cores 8 ram serian 60 horas
 # Para ver las horas que te quedan, ve al siguiente link y dale a cerrar [X] Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
 # El script ya aguanta tener 240 minutos (4 horas) de inactividad, aunque no no se lo cambiaria para ahorrar horas.
+# Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
 
 # Recomendaciones:
 # Usar Playit como servicio de ip.
 # Apagar el servidor al no usarlo para prolongar las horas.
 # Ahora solo es necesario seguir a Elyx.
-# Para eliminar borra la carpeta "servidor_minecraft"
+# Para eliminar el mundo borra la carpeta "servidor_minecraft"
 # Usa Mayus + Ins Antes de Ctrl + C
-# Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
 
 # Soluciones:
 # Si no aparece el botón para iniciar, reinicia la página o cambia de navegador.
