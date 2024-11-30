@@ -14,10 +14,12 @@
 # El script ya aguanta tener 240 minutos (4 horas) de inactividad, aunque no no se lo cambiaria para ahorrar horas.
 
 # Recomendaciones:
-# Recomendado usar [playit] como servicio de ip.
+# Usar Playit como servicio de ip.
 # Apagar el servidor al no usarlo para prolongar las horas.
 # Ahora solo es necesario seguir a Elyx.
-# Para eliminar el mundo es mejor borrar la carpeta "servidor_minecraft" 
+# Para eliminar borra la carpeta "servidor_minecraft"
+# Usa Mayus + Ins Antes de Ctrl + C
+# Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
 
 # Soluciones:
 # Si no aparece el botón para iniciar, reinicia la página o cambia de navegador.
@@ -32,9 +34,7 @@
 
 
 
-
-
-#==================================================================================================#
+#================================#================================#================================#================================#================================#
 A='server.py'
 E=print
 import requests as F,os as B,base64 as D,glob as C,time
