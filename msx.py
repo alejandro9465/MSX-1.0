@@ -15,6 +15,8 @@
 # Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
 
 # Recomendaciones:
+# Cambiar el modo de auto crack para en server con la opcion 3 -> 3
+# Cambiar el metodo de guardado? (No se como funciona el metodo [luna])
 # Usar Playit como servicio de ip.
 # Apagar el servidor al no usarlo para prolongar las horas.
 # Ahora solo es necesario seguir a Elyx.
