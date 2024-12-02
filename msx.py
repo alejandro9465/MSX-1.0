@@ -13,10 +13,10 @@
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
 # El script ya aguanta tener 240 minutos (4 horas) de inactividad, aunque no no se lo cambiaria para ahorrar horas.
 # Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
+# Ahora el mundo se guarda en una "branch" esto permite traspara el server cuando se acaban las horas del codespaces, para hacerlo simplemente le das a cargar respaldo y pones el link del anterior.
 
 # Recomendaciones:
 # Cambiar el modo de auto crack para en server con la opcion 3 -> 3
-# Cambiar el metodo de guardado? (No se como funciona el metodo [luna])
 # Usar Playit como servicio de ip.
 # Apagar el servidor al no usarlo para prolongar las horas.
 # Ahora solo es necesario seguir a Elyx.
@@ -28,8 +28,6 @@
 # Si el servidor no inicia prueba cambiando el plan de cores a 4 para el inicio del server.
 # Si aparece el error "No X11 DISPLAY variable was set" ve al catalogo de addons, elige la opcion ForgeFix y descarga, luego ve a la opcion de addons y elige la opcion de arreglar instalacion forge.
 # Si te pide aceptar el eula, crea manualmente un "eula.txt" dentro de "servidor_minecraft" depues, dentro de "eula.txt" se tiene que escribir "eula=true"
-
-
 
 
 
