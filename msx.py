@@ -15,6 +15,7 @@
 # Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
 # Ahora se guarda con un sistema diferente, para pasar el mundo a otro codespaces, dale a cargar respaldo y pegas el link del
 # Puedes entrar al server una ves que la terminal diga [Done (xx.xx s)! For help, type "help"]
+# Para migrar y pasar mundos es necesario cambiar la visiblidad del repositorio, solo cambialo a publico y listo.
 
 # Recomendaciones:
 # Cambiar el modo de auto crack para en server con la opcion 3 -> 3
