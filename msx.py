@@ -11,18 +11,17 @@
 # El plan de 2 cores 8 ram 60 horas.
 # Para ver las horas que te quedan, ve al siguiente link y dale a cerrar [X] Luego baja donde dice codespaces y te dira cuantas horas usaste/quedan.
 # https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
-# El script ya aguanta tener 240 minutos (4 horas) de inactividad, aunque no no se lo cambiaria para ahorrar horas.
+# El script ya aguanta tener 240 minutos (4 horas) de inactividad, aunque no no se lo cambiaria para ahorrar horas. (Dejarlo en 120)
 # Para añadir datapacks, crea una carpeta con el nombre "datapack" en "world"
-# Ahora se guarda con un sistema diferente, para pasar el mundo a otro codespaces, dale a cargar respaldo y pegas el link del
-# Puedes entrar al server una ves que la terminal diga [Done (xx.xx s)! For help, type "help"]
+# Ahora el respaldo se guarda en el repositorio, para pasar el mundo a otro codespaces, dale a cargar respaldo y pegas el link del repositorio previo.
 # Para migrar y pasar mundos es necesario cambiar la visiblidad del repositorio, solo cambialo a publico y listo.
 
 # Recomendaciones:
 # Cambiar el modo de auto crack para en server con la opcion 3 -> 3
 # Usar Playit como servicio de ip.
-# Apagar el servidor al no usarlo para prolongar las horas.
+# Apagar el servidor/codespaces al no usarlo para prolongar las horas y que no te metan un ban.
 # Ahora solo es necesario seguir a Elyx.
-# Para eliminar el mundo borra la carpeta "world"
+# Para eliminar el mundo borra la carpeta "world" 
 # Usa [Mayus + Ins] en vez de [Ctrl + C]
 
 # Soluciones:
