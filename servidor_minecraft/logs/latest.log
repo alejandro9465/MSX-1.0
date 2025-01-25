@@ -1,166 +1,45 @@
-[00:52:54] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[00:52:54] [main/INFO]: Loading 4 mods:
+[19:44:15] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[19:44:15] [main/INFO]: Loading 6 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
+	- lithium 0.6.6
 	- minecraft 1.16.5
-[00:52:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:53:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:53:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:53:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:53:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:53:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:53:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:53:00] [main/INFO]: Reloading ResourceManager: Default
-[00:53:02] [Worker-Main-2/INFO]: Loaded 7 recipes
-[00:53:02] [Worker-Main-2/INFO]: Loaded 927 advancements
-[00:53:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:53:05] [Server thread/INFO]: Loading properties
-[00:53:05] [Server thread/INFO]: Default game type: SURVIVAL
-[00:53:05] [Server thread/INFO]: Generating keypair
-[00:53:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:53:05] [Server thread/INFO]: Using epoll channel type
-[00:53:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:53:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:53:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:53:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:53:06] [Server thread/INFO]: Preparing level "world"
-[00:53:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:09] [Server thread/INFO]: Preparing spawn area: 0%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:12] [Server thread/INFO]: Preparing spawn area: 47%
-[00:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[00:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:15] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:15] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:16] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[00:53:16] [Server thread/INFO]: Preparing spawn area: 83%
-[00:53:17] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[00:53:17] [Server thread/INFO]: Preparing spawn area: 84%
-[00:53:18] [Server thread/INFO]: Preparing spawn area: 85%
-[00:53:18] [Server thread/INFO]: Preparing spawn area: 90%
-[00:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 91%
-[00:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[00:53:20] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[00:53:20] [Server thread/INFO]: Preparing spawn area: 97%
-[00:53:20] [Server thread/INFO]: Time elapsed: 14682 ms
-[00:53:20] [Server thread/INFO]: Done (14.887s)! For help, type "help"
-[00:53:51] [Server thread/INFO]: Dercsas[/127.58.54.12:33193] logged in with entity id 132 at (170.5, 77.0, 242.5)
-[00:53:51] [Server thread/INFO]: Dercsas joined the game
-[00:53:54] [Server thread/INFO]: Wladomor[/127.158.58.184:43739] logged in with entity id 225 at (153.5, 72.0, 249.5)
-[00:53:54] [Server thread/INFO]: Wladomor joined the game
-[00:54:00] [Server thread/INFO]: Och8Z[/127.27.2.94:44843] logged in with entity id 253 at (158.5, 76.0, 242.5)
-[00:54:00] [Server thread/INFO]: Och8Z joined the game
-[00:54:06] [Server thread/INFO]: peter_rola14[/127.227.82.151:39819] logged in with entity id 278 at (169.5, 75.0, 246.5)
-[00:54:06] [Server thread/INFO]: peter_rola14 joined the game
-[00:54:49] [Server thread/INFO]: Och8Z has made the advancement [Suit Up]
-[00:56:10] [Server thread/INFO]: Dercsas has made the advancement [Suit Up]
-[00:57:17] [Server thread/INFO]: Wladomor lost connection: Disconnected
-[00:57:17] [Server thread/INFO]: Wladomor left the game
-[00:57:20] [Server thread/INFO]: Wladomor[/127.158.58.184:36929] logged in with entity id 1332 at (173.85871478580745, 57.0, 274.3775344340428)
-[00:57:20] [Server thread/INFO]: Wladomor joined the game
-[00:57:29] [Server thread/INFO]: Wladomor has made the advancement [Stone Age]
-[00:57:34] [Server thread/INFO]: Wladomor has made the advancement [Getting an Upgrade]
-[00:58:08] [Server thread/INFO]: Och8Z has made the advancement [Stone Age]
-[00:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
-[00:58:38] [Server thread/INFO]: peter_rola14 has made the advancement [Stone Age]
-[00:58:50] [Server thread/INFO]: Och8Z has made the advancement [Getting an Upgrade]
-[00:59:03] [Server thread/INFO]: peter_rola14 has made the advancement [Getting an Upgrade]
-[00:59:04] [Server thread/INFO]: Wladomor has made the advancement [Acquire Hardware]
-[00:59:39] [Server thread/INFO]: Wladomor has made the advancement [Isn't It Iron Pick]
-[01:01:29] [Server thread/INFO]: Och8Z has made the advancement [Monster Hunter]
-[01:01:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:01:31] [Server thread/INFO]: ms putos todos<--[HERE]
-[01:01:38] [Server thread/INFO]: No player was found
-[01:01:51] [Server thread/INFO]: You whisper to peter_rola14: puto
-[01:02:08] [Server thread/INFO]: Och8Z was blown up by Creeper
-[01:02:27] [Server thread/INFO]: peter_rola14 has made the advancement [Monster Hunter]
-[01:03:11] [Server thread/INFO]: Och8Z was blown up by Creeper
-[01:03:19] [Server thread/INFO]: Dercsas has made the advancement [Sweet Dreams]
-[01:03:25] [Server thread/WARN]: Och8Z moved too quickly! -7.033211354082368,-1.127890238205481,7.303751347019158
-[01:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
-[01:03:57] [Server thread/INFO]: Och8Z was blown up by Creeper
-[01:06:37] [Server thread/INFO]: Wladomor has made the advancement [Suit Up]
-[01:07:52] [Server thread/INFO]: peter_rola14 has made the advancement [Acquire Hardware]
-[01:10:01] [Server thread/INFO]: <peter_rola14> lagaso
-[01:10:02] [Server thread/INFO]: peter_rola14 has made the advancement [Hot Stuff]
-[01:10:46] [Server thread/INFO]: <peter_rola14> chao
-[01:10:53] [Server thread/INFO]: peter_rola14 has made the advancement [We Need to Go Deeper]
-[01:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:11:31] [Server thread/INFO]: Och8Z has made the advancement [Acquire Hardware]
-[01:11:44] [Server thread/INFO]: Och8Z has made the advancement [Isn't It Iron Pick]
-[01:11:48] [Server thread/INFO]: peter_rola14 has made the advancement [Suit Up]
-[01:11:48] [Server thread/INFO]: peter_rola14 has made the advancement [Isn't It Iron Pick]
-[01:14:53] [Server thread/INFO]: Dercsas has made the advancement [Stone Age]
-[01:15:28] [Server thread/INFO]: Dercsas has made the advancement [Getting an Upgrade]
-[01:16:20] [Server thread/INFO]: Set the time to 4262
-[01:17:06] [Server thread/INFO]: peter_rola14 has made the advancement [Ice Bucket Challenge]
-[01:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=499, y=64, z=139} class_2338{x=500, y=63, z=138}
-[01:18:32] [Server thread/WARN]: Och8Z moved too quickly! 7.655741732388719,1.298399940729169,-6.745161758831735
-[01:18:32] [Server thread/WARN]: peter_rola14 moved too quickly! -2.3713553302886368,-0.9345854633511976,9.791715407543393
-[01:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
-[01:21:22] [Server thread/INFO]: alejandro946[/127.160.163.203:56889] logged in with entity id 12644 at (156.5, 73.0, 246.5)
-[01:21:22] [Server thread/INFO]: alejandro946 joined the game
-[01:22:24] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
-[01:22:24] [Server thread/INFO]: peter_rola14 left the game
-[01:22:27] [Server thread/INFO]: Wladomor lost connection: Disconnected
-[01:22:27] [Server thread/INFO]: Wladomor left the game
-[01:22:27] [Server thread/INFO]: peter_rola14[/127.227.82.151:43021] logged in with entity id 13646 at (-40.48929999876428, 72.0, 783.7063854501927)
-[01:22:27] [Server thread/INFO]: peter_rola14 joined the game
-[01:22:29] [Server thread/INFO]: Wladomor[/127.158.58.184:52093] logged in with entity id 13764 at (81.61787211998495, 11.0, 209.72234995990522)
-[01:22:29] [Server thread/INFO]: Wladomor joined the game
-[01:22:31] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[01:22:31] [Server thread/INFO]: alejandro946 left the game
-[01:22:37] [Server thread/INFO]: Made alejandro946 a server operator
-[01:22:40] [Server thread/INFO]: alejandro946[/127.160.163.203:42641] logged in with entity id 13944 at (142.67977601488516, 73.0, 241.20954517984723)
-[01:22:40] [Server thread/INFO]: alejandro946 joined the game
-[01:23:38] [Server thread/WARN]: Wladomor moved too quickly! 0.03825481777522555,0.0,-10.101782238628488
-[01:23:38] [Server thread/WARN]: Och8Z moved too quickly! 9.382463034205557,-2.9215999984741217,-2.5567954053506696
-[01:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
-[01:23:57] [Server thread/INFO]: peter_rola14 has made the advancement [Sweet Dreams]
-[01:23:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1100, y=65, z=-561} class_2338{x=1100, y=64, z=-560}
-[01:23:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1100, y=65, z=-561} class_2338{x=1100, y=64, z=-560}
-[01:23:59] [Server thread/INFO]: <peter_rola14> zzzz
-[01:24:04] [Server thread/INFO]: Wladomor lost connection: Disconnected
-[01:24:04] [Server thread/INFO]: Wladomor left the game
-[01:24:06] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[01:24:06] [Server thread/INFO]: alejandro946 left the game
-[01:24:08] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[01:24:08] [Server thread/INFO]: Och8Z left the game
-[01:24:16] [Server thread/INFO]: Wladomor[/127.158.58.184:60219] logged in with entity id 15170 at (81.30000001192093, 11.0, 96.86289868700473)
-[01:24:16] [Server thread/INFO]: Wladomor joined the game
-[01:24:16] [Server thread/INFO]: alejandro946[/127.160.163.203:55909] logged in with entity id 15234 at (134.49305080386185, 64.0, 29.679151752537173)
-[01:24:16] [Server thread/INFO]: alejandro946 joined the game
-[01:24:16] [Server thread/INFO]: Och8Z[/127.27.2.94:59977] logged in with entity id 15253 at (1107.300000011921, 63.0, -554.3000000119209)
-[01:24:16] [Server thread/INFO]: Och8Z joined the game
-[01:26:56] [Server thread/INFO]: Stopping server
-[01:26:56] [Server thread/INFO]: Saving players
-[01:26:57] [Server thread/INFO]: Dercsas lost connection: Internal Exception: java.lang.StackOverflowError
-[01:26:57] [Server thread/INFO]: Dercsas left the game
-[01:26:57] [Server thread/INFO]: Wladomor lost connection: Internal Exception: java.lang.StackOverflowError
-[01:26:57] [Server thread/INFO]: Wladomor left the game
-[01:26:57] [Server thread/INFO]: Och8Z lost connection: Internal Exception: java.lang.StackOverflowError
-[01:26:57] [Server thread/INFO]: Och8Z left the game
-[01:26:57] [Server thread/INFO]: Saving worlds
-[01:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:27:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+	- phosphor 0.8.0
+[19:44:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:44:16] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[19:44:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:44:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:44:28] [main/INFO]: Reloading ResourceManager: Default
+[19:44:30] [Worker-Main-2/INFO]: Loaded 7 recipes
+[19:44:30] [Worker-Main-2/INFO]: Loaded 927 advancements
+[19:44:34] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:44:34] [Server thread/INFO]: Loading properties
+[19:44:34] [Server thread/INFO]: Default game type: SURVIVAL
+[19:44:34] [Server thread/INFO]: Generating keypair
+[19:44:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:44:34] [Server thread/INFO]: Using epoll channel type
+[19:44:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:44:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:44:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:44:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:44:35] [Server thread/INFO]: Preparing level "world"
+[19:44:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:40] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:40] [Server thread/INFO]: Preparing spawn area: 0%
+[19:44:41] [Server thread/INFO]: Time elapsed: 4263 ms
+[19:44:41] [Server thread/INFO]: Done (5.655s)! For help, type "help"
+[19:45:08] [Server thread/INFO]: Och8Z[/127.27.2.94:50855] logged in with entity id 115 at (-17.597041586348173, 66.89044745325997, 801.8522074967743)
+[19:45:08] [Server thread/INFO]: Och8Z joined the game
+[19:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
