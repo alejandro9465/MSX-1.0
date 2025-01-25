@@ -61,3 +61,16 @@
 [20:58:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=10, z=77} class_2338{x=-96, y=10, z=75}
 [21:44:35] [Server thread/INFO]: Och8Z lost connection: Disconnected
 [21:44:35] [Server thread/INFO]: Och8Z left the game
+[21:48:21] [Server thread/INFO]: Stopping the server
+[21:48:21] [Server thread/INFO]: Stopping server
+[21:48:21] [Server thread/INFO]: Saving players
+[21:48:21] [Server thread/INFO]: Saving worlds
+[21:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
