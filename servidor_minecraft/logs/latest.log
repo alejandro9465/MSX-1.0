@@ -43,3 +43,14 @@
 [19:45:08] [Server thread/INFO]: Och8Z[/127.27.2.94:50855] logged in with entity id 115 at (-17.597041586348173, 66.89044745325997, 801.8522074967743)
 [19:45:08] [Server thread/INFO]: Och8Z joined the game
 [19:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[20:50:35] [Server thread/INFO]: Och8Z has made the advancement [Hidden in the Depths]
+[20:50:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-8, y=15, z=50} class_2338{x=-8, y=13, z=46}
+[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
+[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
+[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
+[20:51:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=27, y=13, z=52} class_2338{x=26, y=11, z=53}
+[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=11, z=28} class_2338{x=52, y=11, z=27}
+[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=51, y=12, z=27} class_2338{x=52, y=11, z=27}
+[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=11, z=28} class_2338{x=52, y=11, z=27}
+[20:53:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-7, y=6, z=-5} class_2338{x=-6, y=7, z=-6}
+[20:55:17] [Server thread/WARN]: Och8Z moved wrongly!
