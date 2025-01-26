@@ -3539,3 +3539,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:06:12] [Server thread/INFO]: ...k disable [file/From-The-Fog-1.20.5-1.20.6-v1.9.3-Data-Resource-Pack.zip]<--[HERE]
 [20:09:42] [Server thread/WARN]: Och8Z moved wrongly!
 [20:11:19] [Server thread/WARN]: Och8Z moved wrongly!
+[20:20:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-25, y=63, z=56} class_2338{x=-25, y=60, z=55}
+[20:21:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=47, z=55} class_2338{x=-27, y=47, z=55}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:21:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=58, z=56} class_2338{x=-22, y=58, z=58}
+[20:22:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=69, z=68} class_2338{x=-15, y=69, z=69}
