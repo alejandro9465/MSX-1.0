@@ -1,76 +1,97 @@
-[19:44:15] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[19:44:15] [main/INFO]: Loading 6 mods:
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 11
-	- lithium 0.6.6
-	- minecraft 1.16.5
-	- phosphor 0.8.0
-[19:44:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:44:16] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
-[19:44:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:44:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:44:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:44:28] [main/INFO]: Reloading ResourceManager: Default
-[19:44:30] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:44:30] [Worker-Main-2/INFO]: Loaded 927 advancements
-[19:44:34] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:44:34] [Server thread/INFO]: Loading properties
-[19:44:34] [Server thread/INFO]: Default game type: SURVIVAL
-[19:44:34] [Server thread/INFO]: Generating keypair
-[19:44:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:44:34] [Server thread/INFO]: Using epoll channel type
-[19:44:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:44:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:44:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:44:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:44:35] [Server thread/INFO]: Preparing level "world"
-[19:44:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:44:41] [Server thread/INFO]: Time elapsed: 4263 ms
-[19:44:41] [Server thread/INFO]: Done (5.655s)! For help, type "help"
-[19:45:08] [Server thread/INFO]: Och8Z[/127.27.2.94:50855] logged in with entity id 115 at (-17.597041586348173, 66.89044745325997, 801.8522074967743)
-[19:45:08] [Server thread/INFO]: Och8Z joined the game
-[19:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[20:50:35] [Server thread/INFO]: Och8Z has made the advancement [Hidden in the Depths]
-[20:50:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-8, y=15, z=50} class_2338{x=-8, y=13, z=46}
-[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
-[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
-[20:50:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=15, z=41} class_2338{x=-4, y=14, z=42}
-[20:51:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=27, y=13, z=52} class_2338{x=26, y=11, z=53}
-[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=11, z=28} class_2338{x=52, y=11, z=27}
-[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=51, y=12, z=27} class_2338{x=52, y=11, z=27}
-[20:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=11, z=28} class_2338{x=52, y=11, z=27}
-[20:53:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-7, y=6, z=-5} class_2338{x=-6, y=7, z=-6}
-[20:55:17] [Server thread/WARN]: Och8Z moved wrongly!
-[20:56:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=15, z=-7} class_2338{x=-74, y=12, z=-6}
-[20:57:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=11, z=45} class_2338{x=-99, y=10, z=45}
-[20:57:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=13, z=56} class_2338{x=-100, y=12, z=57}
-[20:57:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-99, y=13, z=56} class_2338{x=-100, y=12, z=57}
-[20:58:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=10, z=77} class_2338{x=-96, y=10, z=75}
-[21:44:35] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[21:44:35] [Server thread/INFO]: Och8Z left the game
-[21:48:21] [Server thread/INFO]: Stopping the server
-[21:48:21] [Server thread/INFO]: Stopping server
-[21:48:21] [Server thread/INFO]: Saving players
-[21:48:21] [Server thread/INFO]: Saving worlds
-[21:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:47] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[00:00:47] [Server thread/INFO]: Och8Z left the game
+[00:17:18] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[00:17:18] [Server thread/INFO]: alejandro946 left the game
+[00:17:53] [Server thread/INFO]: Och8Z[/127.27.2.94:59785] logged in with entity id 46153 at (-82.96871235151649, 68.875, 776.5567678060216)
+[00:17:53] [Server thread/INFO]: Och8Z joined the game
+[00:18:01] [Server thread/INFO]: alejandro946[/127.160.163.203:38401] logged in with entity id 46394 at (-371.9622022049952, 62.5625, 172.44960933458293)
+[00:18:01] [Server thread/INFO]: alejandro946 joined the game
+[00:18:51] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[00:18:51] [Server thread/INFO]: Och8Z left the game
+[00:25:43] [Server thread/INFO]: [alejandro946: Applied effect Saturation to alejandro946]
+[00:25:53] [Server thread/INFO]: [alejandro946: Applied effect Saturation to alejandro946]
+[00:27:12] [Server thread/INFO]: peter_rola14[/127.227.82.151:59223] logged in with entity id 49014 at (-371.35616303957886, 62.5625, 172.63337002492284)
+[00:27:12] [Server thread/INFO]: peter_rola14 joined the game
+[00:27:12] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/49013, l='ServerLevel[world]', x=-320.25, y=10.21, z=188.43]
+[00:27:41] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
+[00:27:41] [Server thread/INFO]: peter_rola14 left the game
+[00:28:38] [Server thread/INFO]: peter_rola14[/127.227.82.151:35455] logged in with entity id 49495 at (-370.30000001192093, 63.0, 173.69999998807907)
+[00:28:38] [Server thread/INFO]: peter_rola14 joined the game
+[00:34:33] [Server thread/INFO]: Och8Z[/127.27.2.94:48271] logged in with entity id 52194 at (-82.47234029651526, 68.875, 774.8966943648095)
+[00:34:33] [Server thread/INFO]: Och8Z joined the game
+[00:35:47] [Server thread/INFO]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[00:36:48] [Server thread/INFO]: <peter_rola14> zzzz
+[00:36:50] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[00:36:50] [Server thread/INFO]: alejandro946 left the game
+[00:37:17] [Server thread/INFO]: <Wladomor> zz
+[00:37:19] [Server thread/INFO]: alejandro946[/127.160.163.203:42433] logged in with entity id 53297 at (-402.69999998807907, 11.0, 182.53468010354743)
+[00:37:19] [Server thread/INFO]: alejandro946 joined the game
+[00:37:21] [Server thread/INFO]: <peter_rola14> deja de culiarme 8
+[00:37:23] [Server thread/INFO]: <peter_rola14> duerme
+[00:37:26] [Server thread/INFO]: <peter_rola14> zzz
+[00:37:27] [Server thread/INFO]: <Och8Z> perdon
+[00:37:28] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[00:37:28] [Server thread/INFO]: alejandro946 left the game
+[00:37:44] [Server thread/INFO]: alejandro946[/127.160.163.203:48999] logged in with entity id 53491 at (-406.9946784811224, 11.0, 182.5016104578928)
+[00:37:44] [Server thread/INFO]: alejandro946 joined the game
+[00:39:11] [Server thread/INFO]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[00:43:35] [Server thread/INFO]: <peter_rola14> true
+[00:43:49] [Server thread/INFO]: <peter_rola14> toi comiend
+[00:44:26] [Server thread/INFO]: Wladomor has made the advancement [Cover Me With Diamonds]
+[00:44:36] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
+[00:44:36] [Server thread/INFO]: peter_rola14 left the game
+[00:51:26] [Server thread/INFO]: <alejandro946> 💀▶️🌐🖊️🎨🐈🖼️🎪🎵🖋️🧊🧊🖋️🖋️🌐🖊️▶️💀📓✍️🐈🐈◼️🔒🔒🐈‍⬛🚯🔒🔒⭕🤨🚯🕯️😎😄😂😀😅😑😫😶‍🌫️😶‍🌫️😩🥸🥺🥺🤢🥸🥳😸😺😼💀🤖👾☠️🐨🐷🐗🐗🐸🦧🐄🦫🐉🪼🪼🪼🦢
+[00:52:40] [Server thread/INFO]: <alejandro946> ↗️↘️↙️↖️⬇️⬆️🔽➡️⬅️🔼🎦⏬⏭️⏭️⏮️⏩▶️🔢6️⃣🚮🚻♿❇️❇️🚸🚸⚠️⚠️🈯❓🔅❓⁉️💯❔💯📵🚯📵❗❗📛🚼❌⭕⭕✴️🈷️🈹🉑💮♋♌♾️♐⚕️♏☦️☪️🕳️💫💢💤💦💝💦💓🤎💝💞🕡🔶🔶🔻🔹▫️🔸🔸◻️◾
+[00:52:50] [Server thread/INFO]: peter_rola14[/127.227.82.151:43771] logged in with entity id 59445 at (-94.84342414646508, 68.0, 774.3000000119209)
+[00:52:50] [Server thread/INFO]: peter_rola14 joined the game
+[00:52:52] [Server thread/INFO]: <alejandro946> esta no es una wea
+[00:52:58] [Server thread/INFO]: <peter_rola14> zzz
+[00:53:09] [Server thread/INFO]: <peter_rola14> zzzz
+[00:54:06] [Server thread/INFO]: <peter_rola14> zzzzz
+[00:54:19] [Server thread/INFO]: <peter_rola14> zzzz
+[00:54:49] [Server thread/INFO]: Och8Z lost connection: Kicked by an operator
+[00:54:49] [Server thread/INFO]: Och8Z left the game
+[00:54:49] [Server thread/INFO]: [alejandro946: Kicked Och8Z: Kicked by an operator]
+[00:54:49] [Server thread/WARN]: handleDisconnection() called twice
+[00:54:53] [Server thread/INFO]: Och8Z[/127.27.2.94:58261] logged in with entity id 60170 at (-14.652502220228673, 64.0, 797.3000000119209)
+[00:54:53] [Server thread/INFO]: Och8Z joined the game
+[00:55:28] [Server thread/INFO]: alejandro946 has made the advancement [A Seedy Place]
+[00:57:46] [Server thread/INFO]: <alejandro946> ban
+[00:58:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-387, y=66, z=182} class_2338{x=-386, y=66, z=183}
+[00:58:47] [Server thread/INFO]: peter_rola14 has made the advancement [A Seedy Place]
+[01:07:25] [Server thread/INFO]: <peter_rola14> zzzz
+[01:07:36] [Server thread/INFO]: <peter_rola14> zzzzzzzzzzzzzzzzzzzz
+[01:07:39] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[01:07:39] [Server thread/INFO]: Och8Z left the game
+[01:07:45] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[01:07:45] [Server thread/INFO]: alejandro946 left the game
+[01:07:50] [Server thread/INFO]: <peter_rola14> zzzzzzzzzzzzzzzz
+[01:07:51] [Server thread/INFO]: alejandro946[/127.160.163.203:45051] logged in with entity id 65254 at (-375.8942492754371, 62.0, 171.32750144346502)
+[01:07:51] [Server thread/INFO]: alejandro946 joined the game
+[01:07:54] [Server thread/INFO]: <peter_rola14> god
+[01:07:58] [Server thread/INFO]: Och8Z[/127.27.2.94:49793] logged in with entity id 65292 at (-15.699999988079071, 65.0, 798.5205169720073)
+[01:07:58] [Server thread/INFO]: Och8Z joined the game
+[01:10:42] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
+[01:10:42] [Server thread/INFO]: peter_rola14 left the game
+[01:10:54] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[01:10:54] [Server thread/INFO]: Och8Z left the game
+[01:11:34] [Server thread/INFO]: Dercsas lost connection: Disconnected
+[01:11:34] [Server thread/INFO]: Dercsas left the game
+[01:11:35] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[01:11:35] [Server thread/INFO]: alejandro946 left the game
+[01:12:25] [Server thread/INFO]: * Server avisa si te desconectas
+[01:12:36] [Server thread/INFO]: Wladomor lost connection: Disconnected
+[01:12:36] [Server thread/INFO]: Wladomor left the game
+[01:12:43] [Server thread/INFO]: Stopping the server
+[01:12:43] [Server thread/INFO]: Stopping server
+[01:12:43] [Server thread/INFO]: Saving players
+[01:12:43] [Server thread/INFO]: Saving worlds
+[01:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
