@@ -3555,3 +3555,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:53:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-9, y=62, z=851} class_2338{x=-8, y=62, z=851}
 [21:07:02] [Server thread/INFO]: Och8Z lost connection: Disconnected
 [21:07:02] [Server thread/INFO]: Och8Z left the game
+[21:54:46] [Server thread/INFO]: Och8Z[/127.27.2.94:43291] logged in with entity id 10178 at (-88.75578976183138, 73.0, 753.5812405234223)
+[21:54:46] [Server thread/INFO]: Och8Z joined the game
+[21:55:57] [Server thread/INFO]: Och8Z lost connection: Disconnected
+[21:55:57] [Server thread/INFO]: Och8Z left the game
