@@ -281,12 +281,6 @@
     },
     "done": true
   },
-  "watching:events/sleep": {
-    "criteria": {
-      "requirement": "2025-01-26 20:31:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 01:05:26 +0000"
