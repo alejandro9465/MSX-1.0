@@ -127,3 +127,38 @@
 [03:47:45] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
 [03:47:51] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.kickBed] for #sleep_messages (now -1)]
 [03:47:56] [Server thread/INFO]: Villager class_1646['Villager'/23143, l='ServerLevel[world]', x=-715.37, y=71.00, z=-3842.72] died, message: 'Villager suffocated in a wall'
+[03:48:52] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 2)]
+[03:49:00] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
+[03:49:01] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
+[03:49:11] [Server thread/INFO]: [alejandro946: Added 1111111 to [ops.sleep] for #sleep_message (now 1111112)]
+[03:49:16] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
+[03:49:28] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 0)]
+[03:49:57] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
+[03:49:59] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 1)]
+[03:50:01] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
+[03:50:03] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 4)]
+[03:50:07] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 4)]
+[03:50:10] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 3)]
+[03:50:11] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 0)]
+[03:50:17] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
+[03:50:19] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 4)]
+[03:50:21] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 6)]
+[03:50:27] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 6)]
+[03:50:28] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 3)]
+[03:50:31] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 3)]
+[03:50:32] [Server thread/INFO]: [alejandro946: Removed 3 from [ops.sleep] for #kick_message (now -1)]
+[03:50:35] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 1)]
+[03:50:38] [Server thread/INFO]: [alejandro946: Removed 3 from [ops.sleep] for #kick_message (now 0)]
+[03:50:59] [Server thread/INFO]: Wladomor lost connection: Disconnected
+[03:50:59] [Server thread/INFO]: Wladomor left the game
+[03:51:01] [Server thread/INFO]: Wladomor[/127.6.187.21:51997] logged in with entity id 25158 at (-487.19239465237024, 74.0, -3622.1075746389056)
+[03:51:01] [Server thread/INFO]: Wladomor joined the game
+[03:51:33] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[03:51:33] [Server thread/INFO]: alejandro946 left the game
+[03:51:34] [Server thread/INFO]: alejandro946[/127.160.163.203:45177] logged in with entity id 25558 at (-85.52744175004169, 68.0, 767.5474316615655)
+[03:51:34] [Server thread/INFO]: alejandro946 joined the game
+[03:53:15] [Server thread/INFO]: alejandro946 lost connection: Disconnected
+[03:53:15] [Server thread/INFO]: alejandro946 left the game
+[03:54:35] [Server thread/INFO]: alejandro946[/127.160.163.203:50851] logged in with entity id 28124 at (-65.49611200037126, 68.0, 777.5577564894235)
+[03:54:35] [Server thread/INFO]: alejandro946 joined the game
+[03:57:54] [Server thread/INFO]: Villager class_1646['Librarian'/29572, l='ServerLevel[world]', x=-12.74, y=69.64, z=94.74] died, message: 'Librarian was slain by Och8Z'

@@ -945,7 +945,8 @@
       "minecraft:skeleton": "2025-01-25 02:11:56 +0000",
       "minecraft:spider": "2025-01-25 01:49:03 +0000",
       "minecraft:creeper": "2025-01-25 23:31:14 +0000",
-      "minecraft:zombie": "2025-01-25 01:54:14 +0000"
+      "minecraft:zombie": "2025-01-25 01:54:14 +0000",
+      "minecraft:drowned": "2025-01-27 03:54:46 +0000"
     },
     "done": false
   },
@@ -1804,13 +1805,18 @@
       "minecraft:taiga": "2025-01-25 03:06:03 +0000",
       "minecraft:deep_cold_ocean": "2025-01-25 03:33:28 +0000",
       "minecraft:taiga_hills": "2025-01-25 03:13:55 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-27 03:54:04 +0000",
       "minecraft:birch_forest": "2025-01-25 03:23:23 +0000",
+      "minecraft:snowy_beach": "2025-01-27 03:48:47 +0000",
       "minecraft:beach": "2025-01-25 03:32:25 +0000",
+      "minecraft:dark_forest": "2025-01-27 03:52:45 +0000",
       "minecraft:river": "2025-01-25 01:01:50 +0000",
+      "minecraft:snowy_taiga": "2025-01-27 03:49:42 +0000",
       "minecraft:birch_forest_hills": "2025-01-25 03:45:34 +0000",
       "minecraft:wooded_mountains": "2025-01-25 03:05:19 +0000",
       "minecraft:wooded_hills": "2025-01-25 01:01:36 +0000",
       "minecraft:swamp": "2025-01-25 03:27:17 +0000",
+      "minecraft:snowy_taiga_hills": "2025-01-27 03:51:17 +0000",
       "minecraft:plains": "2025-01-25 00:53:54 +0000"
     },
     "done": false

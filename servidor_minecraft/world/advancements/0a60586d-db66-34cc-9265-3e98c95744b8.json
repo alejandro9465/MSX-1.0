@@ -396,7 +396,8 @@
       "cooked_beef": "2025-01-25 03:29:54 +0000",
       "apple": "2025-01-25 02:24:19 +0000",
       "bread": "2025-01-26 00:56:27 +0000",
-      "rotten_flesh": "2025-01-27 03:20:48 +0000"
+      "rotten_flesh": "2025-01-27 03:20:48 +0000",
+      "carrot": "2025-01-27 03:55:59 +0000"
     },
     "done": false
   },
@@ -1749,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-27 03:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-25 02:24:02 +0000"
@@ -1872,6 +1879,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-25 01:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-27 03:55:56 +0000"
     },
     "done": true
   },
