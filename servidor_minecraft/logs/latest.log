@@ -113,3 +113,17 @@
 [03:36:47] [Server thread/INFO]: Loaded 7 recipes
 [03:36:47] [Server thread/INFO]: Loaded 927 advancements
 [03:37:47] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 0]
+[03:39:37] [Server thread/INFO]: alejandro946 has made the advancement [Bring Home the Beacon]
+[03:39:37] [Server thread/INFO]: Och8Z has made the advancement [Bring Home the Beacon]
+[03:42:13] [Server thread/INFO]: Och8Z has made the advancement [A Seedy Place]
+[03:42:28] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to -1]
+[03:42:40] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 1]
+[03:42:51] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to -2]
+[03:43:55] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 0]
+[03:45:36] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
+[03:45:53] [Server thread/INFO]: [alejandro946: Set [ops.kickBed] for #sleep_messages to 0]
+[03:45:56] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
+[03:47:41] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.kickBed] for #sleep_messages (now -1)]
+[03:47:45] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
+[03:47:51] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.kickBed] for #sleep_messages (now -1)]
+[03:47:56] [Server thread/INFO]: Villager class_1646['Villager'/23143, l='ServerLevel[world]', x=-715.37, y=71.00, z=-3842.72] died, message: 'Villager suffocated in a wall'
