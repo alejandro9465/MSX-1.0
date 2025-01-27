@@ -90,3 +90,26 @@
 [03:27:01] [Server thread/INFO]: alejandro946 left the game
 [03:27:03] [Server thread/INFO]: alejandro946[/127.160.163.203:47663] logged in with entity id 15891 at (-88.67443279145719, 66.0, 735.8065743471486)
 [03:27:03] [Server thread/INFO]: alejandro946 joined the game
+[03:30:09] [Server thread/INFO]: <Och8Z> -36 786
+[03:35:49] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
+[03:35:49] [Server thread/INFO]: [alejandro946: Reloading!]
+[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:35:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[03:35:49] [Server thread/INFO]: Loaded 7 recipes
+[03:35:49] [Server thread/INFO]: Loaded 927 advancements
+[03:36:28] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
+[03:36:28] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
+[03:36:46] [Server thread/INFO]: [alejandro946: Reloading!]
+[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:46] [Server thread/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
+[03:36:47] [Server thread/INFO]: Loaded 7 recipes
+[03:36:47] [Server thread/INFO]: Loaded 927 advancements
+[03:37:47] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 0]
