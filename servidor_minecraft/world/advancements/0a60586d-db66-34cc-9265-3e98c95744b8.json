@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-28 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 01:45:50 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-28 02:23:24 +0000"
     },
     "done": true
   },
@@ -683,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-28 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-25 01:46:00 +0000"
@@ -728,6 +746,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-28 02:26:55 +0000"
     },
     "done": true
   },
@@ -942,6 +966,7 @@
       "minecraft:spider": "2025-01-25 04:00:45 +0000",
       "minecraft:creeper": "2025-01-25 03:48:23 +0000",
       "minecraft:slime": "2025-01-25 02:32:29 +0000",
+      "minecraft:cave_spider": "2025-01-28 02:21:03 +0000",
       "minecraft:enderman": "2025-01-25 02:26:10 +0000",
       "minecraft:silverfish": "2025-01-28 02:17:30 +0000",
       "minecraft:zombie": "2025-01-25 04:14:02 +0000"
@@ -1937,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-28 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-25 01:47:11 +0000"
@@ -1978,6 +2009,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-01-26 00:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-28 02:23:24 +0000"
     },
     "done": true
   },
