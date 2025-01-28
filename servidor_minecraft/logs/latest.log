@@ -1,326 +1,45 @@
-[01:47:06] [main/INFO]: Loading 6 mods:
+[18:46:54] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[18:46:55] [main/INFO]: Loading 6 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
 	- lithium 0.6.6
 	- minecraft 1.16.5
 	- phosphor 0.8.0
-[01:47:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:47:07] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
-[01:47:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:47:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:47:20] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[01:47:22] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:47:23] [Worker-Main-2/INFO]: Loaded 927 advancements
-[01:47:26] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[01:47:26] [Server thread/INFO]: Loading properties
-[01:47:26] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
-[01:47:26] [Server thread/INFO]: Default game type: SURVIVAL
-[01:47:26] [Server thread/INFO]: Generating keypair
-[01:47:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:47:27] [Server thread/INFO]: Using epoll channel type
-[01:47:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:47:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:47:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:47:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:47:27] [Server thread/INFO]: Preparing level "world"
-[01:47:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[01:47:34] [Server thread/INFO]: Time elapsed: 5009 ms
-[01:47:34] [Server thread/INFO]: Done (6.742s)! For help, type "help"
-[01:47:41] [Server thread/INFO]: Och8Z[/127.27.2.94:51033] logged in with entity id 114 at (-122.56231418468366, 65.0, 810.2560220463893)
-[01:47:41] [Server thread/INFO]: Och8Z joined the game
-[01:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01:48:35] [Server thread/INFO]: Wladomor[/127.6.187.21:54733] logged in with entity id 433 at (478.7642925134339, 62.073264263420526, 208.15618361272234)
-[01:48:35] [Server thread/INFO]: Wladomor joined the game
-[01:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[01:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3577ms or 71 ticks behind
-[01:49:23] [Server thread/INFO]: Peter_rola14[/127.227.82.151:36977] logged in with entity id 985 at (160.5, 82.0, 232.5)
-[01:49:23] [Server thread/INFO]: Peter_rola14 joined the game
-[01:49:31] [Server thread/INFO]: Dercsas[/127.58.54.12:40251] logged in with entity id 1110 at (-376.348434388187, 68.0, 170.64352314683327)
-[01:49:31] [Server thread/INFO]: Dercsas joined the game
-[01:49:34] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[01:49:34] [Server thread/INFO]: Peter_rola14 left the game
-[01:49:39] [Server thread/INFO]: alejandro946[/127.160.163.203:39047] logged in with entity id 1395 at (-25.969900454468434, 72.0, 771.7613098861302)
-[01:49:39] [Server thread/INFO]: alejandro946 joined the game
-[01:51:48] [Server thread/INFO]: peter_rola14[/127.227.82.151:43919] logged in with entity id 2541 at (-97.14993945299078, 69.0, 776.4914252876002)
-[01:51:48] [Server thread/INFO]: peter_rola14 joined the game
-[01:55:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4527, l='ServerLevel[world]', x=-684.89, y=75.00, z=308.21]
-[02:01:01] [Server thread/INFO]: Dercsas has made the advancement [Cover Me With Diamonds]
-[02:01:16] [Server thread/INFO]: [peter_rola14: Triggered [ops.kickBed]]
-[02:01:21] [Server thread/INFO]: <peter_rola14> uh?
-[02:09:20] [Server thread/INFO]: peter_rola14 has made the advancement [What a Deal!]
-[02:09:29] [Server thread/INFO]: Wladomor burned to death
-[02:09:55] [Server thread/INFO]: <peter_rola14> ordenemos por dios
-[02:13:05] [Server thread/INFO]: [peter_rola14: Triggered [ops.kickBed]]
-[02:13:14] [Server thread/INFO]: <peter_rola14> que mierda eso del chat
-[02:26:55] [Server thread/INFO]: alejandro946 has made the advancement [Hot Stuff]
-[02:27:18] [Server thread/INFO]: <peter_rola14> zzzzzz
-[02:27:18] [Server thread/INFO]: <peter_rola14> zzz
-[02:27:18] [Server thread/INFO]: <peter_rola14> zz
-[02:27:19] [Server thread/INFO]: <peter_rola14> zz
-[02:27:19] [Server thread/INFO]: <peter_rola14> z
-[02:27:19] [Server thread/INFO]: <peter_rola14> z
-[02:27:19] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: <peter_rola14> z
-[02:27:20] [Server thread/INFO]: peter_rola14 lost connection: Kicked for spamming
-[02:27:20] [Server thread/INFO]: peter_rola14 left the game
-[02:27:25] [Server thread/INFO]: peter_rola14[/127.227.82.151:36865] logged in with entity id 31762 at (-84.5, 68.5625, 772.5)
-[02:27:25] [Server thread/INFO]: peter_rola14 joined the game
-[02:27:41] [Server thread/INFO]: <peter_rola14> zzz
-[02:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=73, z=57} class_2338{x=-21, y=73, z=57}
-[02:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=73, z=57} class_2338{x=-21, y=73, z=57}
-[02:33:26] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
-[02:33:26] [Server thread/INFO]: peter_rola14 left the game
-[02:35:21] [Server thread/INFO]: peter_rola14[/127.227.82.151:59969] logged in with entity id 40010 at (-371.49683552390553, 66.0, 158.66175422154268)
-[02:35:21] [Server thread/INFO]: peter_rola14 joined the game
-[02:35:42] [Server thread/INFO]: Dercsas was slain by Cave Spider
-[02:37:47] [Server thread/INFO]: <Dercsas> -344 11 190
-[02:43:52] [Server thread/INFO]: Dercsas was blown up by Creeper
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.26256666480844615
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.7638711973507952
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.2783219478526462
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.7992591536290092
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 2.323667132296805
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.5052885938589498
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.0324309417749191
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.558608857309025
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 2.081930583498818
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.49792068368452647
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.493824757542086
-[02:44:19] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.0060898216954115
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.48946423252357363
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.9980905611491441
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.48581158459995777
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.9911474631691229
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.4828704507899033
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.4822315911609394
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.4818897501109518
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.9855042811126168
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.4816089650396407
-[02:44:20] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.9837324873581488
-[02:46:40] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.32091007218210166
-[02:46:59] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[02:46:59] [Server thread/INFO]: Och8Z left the game
-[02:47:01] [Server thread/INFO]: Och8Z[/127.27.2.94:56759] logged in with entity id 50045 at (-374.7335846992504, 65.8500000178814, 164.19087285480916)
-[02:47:01] [Server thread/INFO]: Och8Z joined the game
-[02:47:48] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.3900164998127593
-[02:47:48] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.423998551695945
-[02:47:48] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.4566039504670698
-[02:47:48] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.9724889296810488
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.4492756363322314
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.8838617570770566
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 2.281312539119199
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.33645015917024884
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 0.8325244466325123
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.3264978006492512
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 1.8299294456805724
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 2.3441147620690685
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 2.866842011231802
-[02:47:49] [Server thread/WARN]: Horse (vehicle of Och8Z) moved wrongly! 3.3953352526998333
-[02:49:56] [Server thread/INFO]: alejandro946 has made the advancement [Enchanter]
-[02:52:28] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
-[02:52:28] [Server thread/INFO]: peter_rola14 left the game
-[02:53:51] [Server thread/INFO]: Peter_rola14[/127.227.82.151:54903] logged in with entity id 54370 at (160.5, 82.0, 232.5)
-[02:53:51] [Server thread/INFO]: Peter_rola14 joined the game
-[02:56:33] [Server thread/INFO]: Peter_rola14 has completed the challenge [Cover Me in Debris]
-[02:57:01] [Server thread/INFO]: Peter_rola14 has made the advancement [Acquire Hardware]
-[02:57:01] [Server thread/INFO]: Peter_rola14 has made the advancement [Ice Bucket Challenge]
-[02:58:22] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[02:58:22] [Server thread/INFO]: Peter_rola14 left the game
-[03:01:44] [Server thread/INFO]: Och8Z has made the advancement [Take Aim]
-[03:02:46] [Server thread/INFO]: Peter_rola14[/127.227.82.151:49955] logged in with entity id 58549 at (-92.91116616962412, 68.0, 765.7593714519503)
-[03:02:46] [Server thread/INFO]: Peter_rola14 joined the game
-[03:03:47] [Server thread/INFO]: [Dercsas: Set the time to 22177]
-[03:04:12] [Server thread/INFO]: <Peter_rola14> mira 8
-[03:04:40] [Server thread/INFO]: Dercsas has made the advancement [What a Deal!]
-[03:04:54] [Server thread/INFO]: <Peter_rola14> soy negro?
-[03:06:56] [Server thread/INFO]: Peter_rola14 has made the advancement [What a Deal!]
-[03:07:57] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[03:07:57] [Server thread/INFO]: Peter_rola14 left the game
-[03:09:22] [Server thread/INFO]: Peter_rola14[/127.227.82.151:34505] logged in with entity id 60624 at (-88.16427379329616, 70.0, 770.195234168723)
-[03:09:22] [Server thread/INFO]: Peter_rola14 joined the game
-[03:10:57] [Server thread/INFO]: Peter_rola14 has made the advancement [Monster Hunter]
-[03:12:51] [Server thread/INFO]: <Peter_rola14> 12
-[03:14:00] [Server thread/INFO]: <Peter_rola14> 1 poco de lapi
-[03:14:21] [Server thread/INFO]: <Peter_rola14> na
-[03:14:25] [Server thread/INFO]: <Peter_rola14> fortuna 3
-[03:14:42] [Server thread/INFO]: <Peter_rola14> teni lapi
-[03:14:49] [Server thread/INFO]: <Peter_rola14> dame
-[03:14:59] [Server thread/INFO]: <Peter_rola14> diego
-[03:15:03] [Server thread/INFO]: <Peter_rola14> dame tu epada
-[03:15:14] [Server thread/INFO]: Peter_rola14 has made the advancement [Enchanter]
-[03:16:09] [Server thread/INFO]: <Peter_rola14> si le veo skin al diego
-[03:16:11] [Server thread/INFO]: <Peter_rola14> que loco
-[03:16:32] [Server thread/INFO]: <Peter_rola14> Tlauncher goat
-[03:16:33] [Server thread/INFO]: <Peter_rola14> dea
-[03:16:41] [Server thread/INFO]: <Peter_rola14> es para el west
-[03:18:59] [Server thread/INFO]: Peter_rola14 has made the advancement [Sweet Dreams]
-[03:19:22] [Server thread/INFO]: <Peter_rola14> me falta arco
-[03:20:03] [Server thread/INFO]: <Peter_rola14> flecha tiene ?
-[03:20:21] [Server thread/INFO]: <Peter_rola14> nao
-[03:29:55] [Server thread/INFO]: Peter_rola14 has made the advancement [Eye Spy]
-[03:30:09] [Server thread/INFO]: Och8Z has made the advancement [Eye Spy]
-[03:30:12] [Server thread/INFO]: Dercsas has made the advancement [Eye Spy]
-[03:30:12] [Server thread/INFO]: Wladomor has made the advancement [Eye Spy]
-[03:30:16] [Server thread/INFO]: alejandro946 has made the advancement [Eye Spy]
-[03:36:15] [Server thread/INFO]: Dercsas was blown up by Creeper
-[03:36:37] [Server thread/INFO]: [alejandro946: Teleported Dercsas to alejandro946]
-[03:37:26] [Server thread/INFO]: Peter_rola14 has made the advancement [Stone Age]
-[03:38:24] [Server thread/INFO]: <Wladomor> -1915 26 876
-[03:38:49] [Server thread/INFO]: Peter_rola14 has made the advancement [We Need to Go Deeper]
-[03:40:48] [Server thread/INFO]: Peter_rola14 has made the advancement [The End?]
-[03:40:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[03:40:50] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[03:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[03:40:53] [Server thread/INFO]: Och8Z has made the advancement [The End?]
-[03:40:54] [Server thread/INFO]: Wladomor has made the advancement [The End?]
-[03:40:54] [Server thread/INFO]: Dercsas has made the advancement [The End?]
-[03:40:54] [Server thread/WARN]: Wladomor moved too quickly! 2016.6172140046147,20.464159374955443,-884.1000773203037
-[03:40:54] [Server thread/WARN]: Dercsas moved too quickly! 2015.8631763993978,20.464159374955443,-884.2575690828296
-[03:40:55] [Server thread/INFO]: alejandro946 has made the advancement [The End?]
-[03:42:24] [Server thread/INFO]: Peter_rola14 has made the advancement [Take Aim]
-[03:42:30] [Server thread/INFO]: Och8Z has reached the goal [You Need a Mint]
-[03:43:02] [Server thread/INFO]: Peter_rola14 fell from a high place
-[03:43:04] [Server thread/INFO]: Och8Z fell from a high place
-[03:45:08] [Server thread/INFO]: alejandro946 has made the advancement [Take Aim]
-[03:46:31] [Server thread/INFO]: Dercsas fell from a high place
-[03:47:09] [Server thread/INFO]: alejandro946 has made the advancement [Free the End]
-[03:47:10] [Server thread/INFO]: Och8Z fell from a high place
-[03:47:41] [Server thread/INFO]: Peter_rola14 has reached the goal [The Next Generation]
-[03:49:14] [Server thread/INFO]: Wladomor was slain by Enderman
-[03:49:18] [Server thread/INFO]: Peter_rola14 has made the advancement [Remote Getaway]
-[03:49:20] [Server thread/INFO]: Dercsas has made the advancement [Remote Getaway]
-[03:49:23] [Server thread/INFO]: Och8Z has made the advancement [Remote Getaway]
-[03:49:29] [Server thread/INFO]: alejandro946 has made the advancement [Remote Getaway]
-[03:50:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Chorus Fruit'/72891, l='ServerLevel[world]', x=-1065.11, y=62.00, z=531.75]
-[03:50:27] [Server thread/INFO]: Wladomor has made the advancement [Remote Getaway]
-[04:01:08] [Server thread/INFO]: alejandro946 has made the advancement [The City at the End of the Game]
-[04:01:13] [Server thread/INFO]: Wladomor has made the advancement [The City at the End of the Game]
-[04:01:13] [Server thread/INFO]: Dercsas has made the advancement [The City at the End of the Game]
-[04:08:43] [Server thread/INFO]: Peter_rola14 has made the advancement [The City at the End of the Game]
-[04:08:45] [Server thread/INFO]: Peter_rola14 has made the advancement [Not Today, Thank You]
-[04:09:20] [Server thread/INFO]: Dercsas has reached the goal [Sky's the Limit]
-[04:09:27] [Server thread/INFO]: Och8Z has made the advancement [The City at the End of the Game]
-[04:10:03] [Server thread/INFO]: Och8Z has reached the goal [Sky's the Limit]
-[04:10:36] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/78469, l='ServerLevel[world]', x=-1792.37, y=128.37, z=685.44]
-[04:11:25] [Server thread/WARN]: Och8Z moved wrongly!
-[04:11:53] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[04:11:53] [Server thread/INFO]: Och8Z left the game
-[04:11:56] [Server thread/INFO]: Och8Z[/127.27.2.94:49341] logged in with entity id 78751 at (-922.3199825614302, 129.0, 1647.8849081555356)
-[04:11:56] [Server thread/INFO]: Och8Z joined the game
-[04:12:11] [Server thread/INFO]: Peter_rola14 has made the advancement [Suit Up]
-[04:13:37] [Server thread/INFO]: Wladomor fell from a high place
-[04:14:06] [Server thread/INFO]: Peter_rola14 has made the advancement [Cover Me With Diamonds]
-[04:14:06] [Server thread/INFO]: [alejandro946: Teleported Wladomor to alejandro946]
-[04:15:11] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[04:15:11] [Server thread/INFO]: alejandro946 left the game
-[04:17:14] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[04:17:14] [Server thread/INFO]: Och8Z left the game
-[04:17:16] [Server thread/INFO]: Och8Z[/127.27.2.94:60721] logged in with entity id 80816 at (-2787.7915380195777, 98.0, 4484.300000011921)
-[04:17:16] [Server thread/INFO]: Och8Z joined the game
-[04:18:14] [Server thread/WARN]: Wladomor moved too quickly! 6.038548428977947,-25.0,-3.974900383907311
-[04:19:39] [Server thread/WARN]: Wladomor moved too quickly! 6.00615870268166,-8.0,-0.9211539931409334
-[04:25:29] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[04:25:29] [Server thread/INFO]: Och8Z left the game
-[04:25:31] [Server thread/INFO]: Och8Z[/127.27.2.94:46953] logged in with entity id 83629 at (-1169.9656859999575, 67.0, 6695.049184479759)
-[04:25:32] [Server thread/INFO]: Och8Z joined the game
-[04:30:07] [Server thread/INFO]: Peter_rola14 has reached the goal [Sky's the Limit]
-[04:31:19] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[04:31:19] [Server thread/INFO]: Och8Z left the game
-[04:31:21] [Server thread/INFO]: Och8Z[/127.27.2.94:58431] logged in with entity id 86159 at (-1919.699999988079, 26.0, 886.5780237904532)
-[04:31:21] [Server thread/INFO]: Och8Z joined the game
-[04:31:34] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[04:31:34] [Server thread/INFO]: Peter_rola14 left the game
-[04:31:37] [Server thread/INFO]: Peter_rola14[/127.227.82.151:53337] logged in with entity id 86251 at (-1913.1808735726368, 27.0, 876.3000000119209)
-[04:31:37] [Server thread/INFO]: Peter_rola14 joined the game
-[04:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[04:34:28] [Server thread/INFO]: Och8Z has completed the challenge [Hot Tourist Destinations]
-[04:38:06] [Server thread/INFO]: Peter_rola14 has made the advancement [Those Were the Days]
-[04:38:14] [Server thread/INFO]: Och8Z has made the advancement [Those Were the Days]
-[04:38:20] [Server thread/INFO]: Peter_rola14 has made the advancement [War Pigs]
-[04:38:31] [Server thread/INFO]: Och8Z has made the advancement [War Pigs]
-[04:38:37] [Server thread/INFO]: Och8Z has made the advancement [Who is Cutting Onions?]
-[04:40:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=57, z=-749} class_2338{x=-19, y=56, z=-749}
-[04:40:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=57, z=-749} class_2338{x=-19, y=56, z=-749}
-[04:41:37] [Server thread/INFO]: Villager class_1646['Fisherman'/92766, l='ServerLevel[world]', x=-15.85, y=61.00, z=794.70] died, message: 'Fisherman was slain by Zombie'
-[04:41:41] [Server thread/INFO]: Villager class_1646['Fisherman'/92793, l='ServerLevel[world]', x=-14.49, y=61.00, z=794.70] died, message: 'Fisherman was slain by Zombie'
-[04:41:43] [Server thread/INFO]: Peter_rola14 fell from a high place
-[04:41:46] [Server thread/INFO]: Villager class_1646['Farmer'/92794, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.70] died, message: 'Farmer was slain by Zombie'
-[04:41:48] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[04:41:48] [Server thread/INFO]: Peter_rola14 left the game
-[04:41:48] [Server thread/INFO]: Villager class_1646['Fisherman'/92790, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.70] died, message: 'Fisherman was slain by Zombie'
-[04:41:50] [Server thread/INFO]: Villager class_1646['Armorer'/92792, l='ServerLevel[world]', x=-15.52, y=61.00, z=794.70] died, message: 'Armorer was slain by Zombie Villager'
-[04:41:56] [Server thread/INFO]: Villager class_1646['Fletcher'/92796, l='ServerLevel[world]', x=-12.70, y=61.00, z=796.70] died, message: 'Fletcher was slain by Zombie Villager'
-[04:45:09] [Server thread/INFO]: Dercsas has made the advancement [Ice Bucket Challenge]
-[04:48:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=52, z=-798} class_2338{x=14, y=51, z=-798}
-[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-795} class_2338{x=14, y=53, z=-796}
-[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-795} class_2338{x=14, y=53, z=-796}
-[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-797} class_2338{x=14, y=53, z=-794}
-[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-797} class_2338{x=14, y=53, z=-794}
-[04:48:32] [Server thread/INFO]: Dercsas lost connection: Disconnected
-[04:48:32] [Server thread/INFO]: Dercsas left the game
-[04:52:33] [Server thread/WARN]: Wladomor moved too quickly! -2.919991227516789,-15.0,-2.434516198098663
-[04:53:41] [Server thread/INFO]: Villager class_1646['Armorer'/98263, l='ServerLevel[world]', x=-12.69, y=61.00, z=795.67] died, message: 'Armorer was slain by Zombie Villager'
-[04:53:46] [Server thread/INFO]: Villager class_1646['Fletcher'/98275, l='ServerLevel[world]', x=-11.57, y=61.92, z=789.54] died, message: 'Fletcher was slain by Zombie Villager'
-[04:53:47] [Server thread/INFO]: Villager class_1646['Librarian'/98274, l='ServerLevel[world]', x=-12.22, y=61.00, z=789.46] died, message: 'Librarian was slain by Zombie'
-[04:53:48] [Server thread/INFO]: Villager class_1646['Cleric'/98265, l='ServerLevel[world]', x=-14.08, y=61.00, z=794.70] died, message: 'Cleric was slain by Zombie'
-[04:53:52] [Server thread/INFO]: Villager class_1646['Librarian'/98216, l='ServerLevel[world]', x=-15.03, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
-[04:53:53] [Server thread/INFO]: Villager class_1646['Librarian'/98214, l='ServerLevel[world]', x=-15.26, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
-[04:53:54] [Server thread/INFO]: Villager class_1646['Librarian'/98269, l='ServerLevel[world]', x=-15.76, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
-[04:53:56] [Server thread/INFO]: Villager class_1646['Fletcher'/98215, l='ServerLevel[world]', x=-13.86, y=61.00, z=794.70] died, message: 'Fletcher was slain by Zombie Villager'
-[04:53:58] [Server thread/INFO]: Villager class_1646['Fisherman'/98264, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.23] died, message: 'Fisherman was slain by Zombie Villager'
-[04:54:14] [Server thread/WARN]: Wladomor moved too quickly! -5.160572946712591,-21.0,0.28338278179739973
-[04:58:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-41, y=75, z=873} class_2338{x=-41, y=74, z=875}
-[04:58:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=874} class_2338{x=-42, y=73, z=874}
-[04:58:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=874} class_2338{x=-42, y=73, z=874}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=75, z=874} class_2338{x=-43, y=75, z=875}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-37, y=74, z=880} class_2338{x=-36, y=74, z=880}
-[04:58:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-37, y=74, z=880} class_2338{x=-36, y=74, z=880}
-[04:58:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=70, z=862} class_2338{x=-38, y=72, z=863}
-[04:58:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-29, y=68, z=863} class_2338{x=-30, y=68, z=864}
-[04:58:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=69, z=857} class_2338{x=-33, y=69, z=858}
-[04:58:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-32, y=69, z=856} class_2338{x=-33, y=69, z=858}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[04:59:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=102, y=66, z=582} class_2338{x=101, y=65, z=583}
-[05:00:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=88, y=64, z=588} class_2338{x=87, y=62, z=591}
-[05:12:13] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[05:12:13] [Server thread/INFO]: Och8Z left the game
-[05:14:26] [Server thread/INFO]: Wladomor lost connection: Disconnected
-[05:14:26] [Server thread/INFO]: Wladomor left the game
+[18:46:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:46:56] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[18:46:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:47:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:47:10] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
+[18:47:13] [Worker-Main-2/INFO]: Loaded 7 recipes
+[18:47:13] [Worker-Main-2/INFO]: Loaded 927 advancements
+[18:47:16] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:47:16] [Server thread/INFO]: Loading properties
+[18:47:16] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[18:47:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:47:16] [Server thread/INFO]: Generating keypair
+[18:47:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:47:17] [Server thread/INFO]: Using epoll channel type
+[18:47:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:47:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:47:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:47:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:47:18] [Server thread/INFO]: Preparing level "world"
+[18:47:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:47:24] [Server thread/INFO]: Time elapsed: 4464 ms
+[18:47:24] [Server thread/INFO]: Done (5.797s)! For help, type "help"
+[18:47:50] [Server thread/INFO]: Och8Z[/127.27.2.94:39729] logged in with entity id 117 at (0.6999999880790706, 34.0, 642.5349492252948)
+[18:47:50] [Server thread/INFO]: Och8Z joined the game
