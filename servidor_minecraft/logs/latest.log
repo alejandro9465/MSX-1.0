@@ -270,3 +270,21 @@
 [04:41:48] [Server thread/INFO]: Villager class_1646['Fisherman'/92790, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.70] died, message: 'Fisherman was slain by Zombie'
 [04:41:50] [Server thread/INFO]: Villager class_1646['Armorer'/92792, l='ServerLevel[world]', x=-15.52, y=61.00, z=794.70] died, message: 'Armorer was slain by Zombie Villager'
 [04:41:56] [Server thread/INFO]: Villager class_1646['Fletcher'/92796, l='ServerLevel[world]', x=-12.70, y=61.00, z=796.70] died, message: 'Fletcher was slain by Zombie Villager'
+[04:45:09] [Server thread/INFO]: Dercsas has made the advancement [Ice Bucket Challenge]
+[04:48:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=52, z=-798} class_2338{x=14, y=51, z=-798}
+[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-795} class_2338{x=14, y=53, z=-796}
+[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-795} class_2338{x=14, y=53, z=-796}
+[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-797} class_2338{x=14, y=53, z=-794}
+[04:48:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=53, z=-797} class_2338{x=14, y=53, z=-794}
+[04:48:32] [Server thread/INFO]: Dercsas lost connection: Disconnected
+[04:48:32] [Server thread/INFO]: Dercsas left the game
+[04:52:33] [Server thread/WARN]: Wladomor moved too quickly! -2.919991227516789,-15.0,-2.434516198098663
+[04:53:41] [Server thread/INFO]: Villager class_1646['Armorer'/98263, l='ServerLevel[world]', x=-12.69, y=61.00, z=795.67] died, message: 'Armorer was slain by Zombie Villager'
+[04:53:46] [Server thread/INFO]: Villager class_1646['Fletcher'/98275, l='ServerLevel[world]', x=-11.57, y=61.92, z=789.54] died, message: 'Fletcher was slain by Zombie Villager'
+[04:53:47] [Server thread/INFO]: Villager class_1646['Librarian'/98274, l='ServerLevel[world]', x=-12.22, y=61.00, z=789.46] died, message: 'Librarian was slain by Zombie'
+[04:53:48] [Server thread/INFO]: Villager class_1646['Cleric'/98265, l='ServerLevel[world]', x=-14.08, y=61.00, z=794.70] died, message: 'Cleric was slain by Zombie'
+[04:53:52] [Server thread/INFO]: Villager class_1646['Librarian'/98216, l='ServerLevel[world]', x=-15.03, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
+[04:53:53] [Server thread/INFO]: Villager class_1646['Librarian'/98214, l='ServerLevel[world]', x=-15.26, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
+[04:53:54] [Server thread/INFO]: Villager class_1646['Librarian'/98269, l='ServerLevel[world]', x=-15.76, y=61.00, z=794.70] died, message: 'Librarian was slain by Zombie Villager'
+[04:53:56] [Server thread/INFO]: Villager class_1646['Fletcher'/98215, l='ServerLevel[world]', x=-13.86, y=61.00, z=794.70] died, message: 'Fletcher was slain by Zombie Villager'
+[04:53:58] [Server thread/INFO]: Villager class_1646['Fisherman'/98264, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.23] died, message: 'Fisherman was slain by Zombie Villager'
