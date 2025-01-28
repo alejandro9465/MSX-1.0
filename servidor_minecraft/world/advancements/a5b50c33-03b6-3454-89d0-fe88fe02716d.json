@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-28 02:57:01 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-28 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-28 03:27:25 +0000"
     },
     "done": true
   },
@@ -302,6 +314,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 02:57:01 +0000"
@@ -335,6 +359,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-28 03:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
     },
     "done": true
   },
@@ -388,10 +418,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-01-28 03:20:40 +0000",
       "minecraft:forest": "2025-01-28 01:49:23 +0000",
       "minecraft:mountains": "2025-01-28 02:55:32 +0000",
       "minecraft:taiga": "2025-01-28 02:54:58 +0000",
+      "minecraft:jungle": "2025-01-28 03:20:46 +0000",
+      "minecraft:birch_forest": "2025-01-28 03:23:00 +0000",
       "minecraft:river": "2025-01-28 02:55:25 +0000",
+      "minecraft:wooded_mountains": "2025-01-28 03:25:07 +0000",
+      "minecraft:swamp": "2025-01-28 03:24:15 +0000",
       "minecraft:plains": "2025-01-28 02:54:17 +0000"
     },
     "done": false
@@ -405,6 +440,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-28 03:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-28 03:18:59 +0000"
     },
     "done": true
   },
@@ -492,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-28 02:55:22 +0000"
@@ -513,6 +560,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-28 02:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-28 03:23:46 +0000"
     },
     "done": true
   },
@@ -641,6 +694,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 02:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-28 03:27:25 +0000"
     },
     "done": true
   },
