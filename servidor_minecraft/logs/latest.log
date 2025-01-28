@@ -89,3 +89,9 @@
 [20:33:41] [Server thread/INFO]: [alejandro946: Set own game mode to Creative Mode]
 [20:34:44] [Server thread/INFO]: CanelitaAnto has made the advancement [Stone Age]
 [20:35:29] [Server thread/INFO]: [alejandro946: Set own game mode to Survival Mode]
+[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
+[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
+[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
+[20:45:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-53, y=63, z=830} class_2338{x=-53, y=62, z=832}
+[20:45:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-53, y=63, z=830} class_2338{x=-53, y=62, z=832}
+[20:49:15] [Server thread/INFO]: Villager class_1646['Villager'/61327, l='ServerLevel[world]', x=332.30, y=67.00, z=-871.70] died, message: 'Villager suffocated in a wall'
