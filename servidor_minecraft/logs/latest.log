@@ -252,3 +252,21 @@
 [04:31:34] [Server thread/INFO]: Peter_rola14 left the game
 [04:31:37] [Server thread/INFO]: Peter_rola14[/127.227.82.151:53337] logged in with entity id 86251 at (-1913.1808735726368, 27.0, 876.3000000119209)
 [04:31:37] [Server thread/INFO]: Peter_rola14 joined the game
+[04:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04:34:28] [Server thread/INFO]: Och8Z has completed the challenge [Hot Tourist Destinations]
+[04:38:06] [Server thread/INFO]: Peter_rola14 has made the advancement [Those Were the Days]
+[04:38:14] [Server thread/INFO]: Och8Z has made the advancement [Those Were the Days]
+[04:38:20] [Server thread/INFO]: Peter_rola14 has made the advancement [War Pigs]
+[04:38:31] [Server thread/INFO]: Och8Z has made the advancement [War Pigs]
+[04:38:37] [Server thread/INFO]: Och8Z has made the advancement [Who is Cutting Onions?]
+[04:40:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=57, z=-749} class_2338{x=-19, y=56, z=-749}
+[04:40:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=57, z=-749} class_2338{x=-19, y=56, z=-749}
+[04:41:37] [Server thread/INFO]: Villager class_1646['Fisherman'/92766, l='ServerLevel[world]', x=-15.85, y=61.00, z=794.70] died, message: 'Fisherman was slain by Zombie'
+[04:41:41] [Server thread/INFO]: Villager class_1646['Fisherman'/92793, l='ServerLevel[world]', x=-14.49, y=61.00, z=794.70] died, message: 'Fisherman was slain by Zombie'
+[04:41:43] [Server thread/INFO]: Peter_rola14 fell from a high place
+[04:41:46] [Server thread/INFO]: Villager class_1646['Farmer'/92794, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.70] died, message: 'Farmer was slain by Zombie'
+[04:41:48] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
+[04:41:48] [Server thread/INFO]: Peter_rola14 left the game
+[04:41:48] [Server thread/INFO]: Villager class_1646['Fisherman'/92790, l='ServerLevel[world]', x=-17.30, y=61.00, z=796.70] died, message: 'Fisherman was slain by Zombie'
+[04:41:50] [Server thread/INFO]: Villager class_1646['Armorer'/92792, l='ServerLevel[world]', x=-15.52, y=61.00, z=794.70] died, message: 'Armorer was slain by Zombie Villager'
+[04:41:56] [Server thread/INFO]: Villager class_1646['Fletcher'/92796, l='ServerLevel[world]', x=-12.70, y=61.00, z=796.70] died, message: 'Fletcher was slain by Zombie Villager'
