@@ -1,320 +1,61 @@
-[02:47:00] [main/INFO]: Loading 6 mods:
+[01:47:06] [main/INFO]: Loading 6 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
 	- lithium 0.6.6
 	- minecraft 1.16.5
 	- phosphor 0.8.0
-[02:47:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:47:01] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
-[02:47:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:47:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:47:14] [main/WARN]: Missing data pack file/From-The-Fog-1.20.5-1.20.6-v1.9.3-Data-Resource-Pack.zip
-[02:47:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:47:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:47:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:47:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:47:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:47:15] [main/INFO]: Reloading ResourceManager: Default
-[02:47:17] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:47:18] [Worker-Main-2/INFO]: Loaded 927 advancements
-[02:47:20] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[02:47:20] [Server thread/INFO]: Loading properties
-[02:47:20] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
-[02:47:20] [Server thread/INFO]: Default game type: SURVIVAL
-[02:47:20] [Server thread/INFO]: Generating keypair
-[02:47:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:47:21] [Server thread/INFO]: Using epoll channel type
-[02:47:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:47:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:47:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:47:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:47:22] [Server thread/INFO]: Preparing level "world"
-[02:47:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:29] [Server thread/INFO]: Preparing spawn area: 0%
-[02:47:30] [Server thread/INFO]: Time elapsed: 6460 ms
-[02:47:30] [Server thread/INFO]: Done (8.042s)! For help, type "help"
-[02:47:44] [Server thread/INFO]: Wladomor[/127.6.187.21:54843] logged in with entity id 112 at (-692.4898516034068, 64.0, -5112.092984008444)
-[02:47:44] [Server thread/INFO]: Wladomor joined the game
-[02:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
-[02:48:40] [Server thread/WARN]: Ignored advancement 'watching:events/sleep' in progress file ./world/advancements/ddaaecbd-a632-3a56-bde9-db3891643eea.json - it doesn't exist anymore?
-[02:48:40] [Server thread/INFO]: Och8Z[/127.27.2.94:45783] logged in with entity id 461 at (-96.3294058530127, 68.0, 785.6102504026608)
-[02:48:40] [Server thread/INFO]: Och8Z joined the game
-[02:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[02:50:56] [Server thread/INFO]: alejandro946[/127.160.163.203:58395] logged in with entity id 1568 at (-378.02394263973935, 68.0, 170.01298770306673)
-[02:50:56] [Server thread/INFO]: alejandro946 joined the game
-[02:55:17] [Server thread/INFO]: [alejandro946: Reloading!]
-[02:55:17] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:55:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:55:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:55:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:55:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:55:17] [Server thread/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[02:55:17] [Server thread/INFO]: Loaded 7 recipes
-[02:55:17] [Server thread/INFO]: Loaded 927 advancements
-[03:16:13] [Server thread/INFO]: alejandro946 has made the advancement [What a Deal!]
-[03:23:46] [Server thread/INFO]: alejandro946 has made the advancement [Withering Heights]
-[03:23:46] [Server thread/INFO]: Och8Z has made the advancement [Withering Heights]
-[03:24:08] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:24:08] [Server thread/INFO]: alejandro946 left the game
-[03:24:09] [Server thread/INFO]: alejandro946[/127.160.163.203:55955] logged in with entity id 14512 at (-88.30000001192094, 68.875, 770.3733213879099)
-[03:24:09] [Server thread/INFO]: alejandro946 joined the game
-[03:24:33] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:24:33] [Server thread/INFO]: alejandro946 left the game
-[03:24:35] [Server thread/INFO]: alejandro946[/127.160.163.203:49583] logged in with entity id 14770 at (-65.61022513425033, 67.0, 782.9696426259429)
-[03:24:35] [Server thread/INFO]: alejandro946 joined the game
-[03:24:53] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:24:53] [Server thread/INFO]: alejandro946 left the game
-[03:24:56] [Server thread/INFO]: alejandro946[/127.160.163.203:51203] logged in with entity id 14881 at (-87.68971987355184, 71.0, 770.6441505194265)
-[03:24:56] [Server thread/INFO]: alejandro946 joined the game
-[03:25:06] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:25:06] [Server thread/INFO]: alejandro946 left the game
-[03:25:08] [Server thread/INFO]: alejandro946[/127.160.163.203:49637] logged in with entity id 14971 at (-97.57080159713817, 68.28584062504456, 775.0589744669946)
-[03:25:08] [Server thread/INFO]: alejandro946 joined the game
-[03:25:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15216, l='ServerLevel[world]', x=-46.34, y=19.74, z=780.53]
-[03:25:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15216, l='ServerLevel[world]', x=-46.34, y=19.74, z=780.53]
-[03:25:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/15236, l='ServerLevel[world]', x=-46.59, y=19.75, z=779.64]
-[03:25:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/15236, l='ServerLevel[world]', x=-46.59, y=19.75, z=779.64]
-[03:27:01] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:27:01] [Server thread/INFO]: alejandro946 left the game
-[03:27:03] [Server thread/INFO]: alejandro946[/127.160.163.203:47663] logged in with entity id 15891 at (-88.67443279145719, 66.0, 735.8065743471486)
-[03:27:03] [Server thread/INFO]: alejandro946 joined the game
-[03:30:09] [Server thread/INFO]: <Och8Z> -36 786
-[03:35:49] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
-[03:35:49] [Server thread/INFO]: [alejandro946: Reloading!]
-[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:35:49] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:35:49] [Server thread/INFO]: Reloading ResourceManager: Default
-[03:35:49] [Server thread/INFO]: Loaded 7 recipes
-[03:35:49] [Server thread/INFO]: Loaded 927 advancements
-[03:36:28] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
-[03:36:28] [Server thread/WARN]: Couldn't get pack info for: net.minecraft.class_3266: 'pack.mcmeta' in ResourcePack './world/datapacks/OnePlayerSleepV3_1 (2).zip'
-[03:36:46] [Server thread/INFO]: [alejandro946: Reloading!]
-[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:36:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:36:46] [Server thread/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[03:36:47] [Server thread/INFO]: Loaded 7 recipes
-[03:36:47] [Server thread/INFO]: Loaded 927 advancements
-[03:37:47] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 0]
-[03:39:37] [Server thread/INFO]: alejandro946 has made the advancement [Bring Home the Beacon]
-[03:39:37] [Server thread/INFO]: Och8Z has made the advancement [Bring Home the Beacon]
-[03:42:13] [Server thread/INFO]: Och8Z has made the advancement [A Seedy Place]
-[03:42:28] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to -1]
-[03:42:40] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 1]
-[03:42:51] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to -2]
-[03:43:55] [Server thread/INFO]: [alejandro946: Set [ops.sleep] for #sleep_messages to 0]
-[03:45:36] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
-[03:45:53] [Server thread/INFO]: [alejandro946: Set [ops.kickBed] for #sleep_messages to 0]
-[03:45:56] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
-[03:47:41] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.kickBed] for #sleep_messages (now -1)]
-[03:47:45] [Server thread/INFO]: [alejandro946: Triggered [ops.kickBed]]
-[03:47:51] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.kickBed] for #sleep_messages (now -1)]
-[03:47:56] [Server thread/INFO]: Villager class_1646['Villager'/23143, l='ServerLevel[world]', x=-715.37, y=71.00, z=-3842.72] died, message: 'Villager suffocated in a wall'
-[03:48:52] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 2)]
-[03:49:00] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
-[03:49:01] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
-[03:49:11] [Server thread/INFO]: [alejandro946: Added 1111111 to [ops.sleep] for #sleep_message (now 1111112)]
-[03:49:16] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
-[03:49:28] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 0)]
-[03:49:57] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
-[03:49:59] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 1)]
-[03:50:01] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
-[03:50:03] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 4)]
-[03:50:07] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 4)]
-[03:50:10] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 3)]
-[03:50:11] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 0)]
-[03:50:17] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 2)]
-[03:50:19] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 4)]
-[03:50:21] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 6)]
-[03:50:27] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 6)]
-[03:50:28] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 3)]
-[03:50:31] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 3)]
-[03:50:32] [Server thread/INFO]: [alejandro946: Removed 3 from [ops.sleep] for #kick_message (now -1)]
-[03:50:35] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now 1)]
-[03:50:38] [Server thread/INFO]: [alejandro946: Removed 3 from [ops.sleep] for #kick_message (now 0)]
-[03:50:59] [Server thread/INFO]: Wladomor lost connection: Disconnected
-[03:50:59] [Server thread/INFO]: Wladomor left the game
-[03:51:01] [Server thread/INFO]: Wladomor[/127.6.187.21:51997] logged in with entity id 25158 at (-487.19239465237024, 74.0, -3622.1075746389056)
-[03:51:01] [Server thread/INFO]: Wladomor joined the game
-[03:51:33] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:51:33] [Server thread/INFO]: alejandro946 left the game
-[03:51:34] [Server thread/INFO]: alejandro946[/127.160.163.203:45177] logged in with entity id 25558 at (-85.52744175004169, 68.0, 767.5474316615655)
-[03:51:34] [Server thread/INFO]: alejandro946 joined the game
-[03:53:15] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[03:53:15] [Server thread/INFO]: alejandro946 left the game
-[03:54:35] [Server thread/INFO]: alejandro946[/127.160.163.203:50851] logged in with entity id 28124 at (-65.49611200037126, 68.0, 777.5577564894235)
-[03:54:35] [Server thread/INFO]: alejandro946 joined the game
-[03:57:54] [Server thread/INFO]: Villager class_1646['Librarian'/29572, l='ServerLevel[world]', x=-12.74, y=69.64, z=94.74] died, message: 'Librarian was slain by Och8Z'
-[04:00:32] [Server thread/INFO]: [alejandro946: Reloading!]
-[04:00:32] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:00:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:00:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:00:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:00:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:00:32] [Server thread/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[04:00:32] [Server thread/INFO]: Loaded 7 recipes
-[04:00:32] [Server thread/INFO]: Loaded 927 advancements
-[04:01:34] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 7)]
-[04:01:37] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 7)]
-[04:01:39] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #kick_message (now 0)]
-[04:01:47] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 3)]
-[04:01:49] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #kick_message (now 3)]
-[04:01:50] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #kick_message (now -1)]
-[04:02:10] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 4)]
-[04:02:38] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 12)]
-[04:02:41] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 10)]
-[04:02:44] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 8)]
-[04:02:46] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 11)]
-[04:02:50] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 3)]
-[04:02:52] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 6)]
-[04:02:53] [Server thread/INFO]: [alejandro946: Added 3 to [ops.sleep] for #sleep_message (now 12)]
-[04:02:55] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 6)]
-[04:02:57] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 10)]
-[04:03:06] [Server thread/INFO]: [alejandro946: Added 8 to [ops.sleep] for #sleep_message (now 13)]
-[04:03:11] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 12)]
-[04:03:17] [Server thread/INFO]: [alejandro946: Added 8 to [ops.sleep] for #sleep_message (now 21)]
-[04:03:26] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 3)]
-[04:03:28] [Server thread/INFO]: [alejandro946: Added 2 to [ops.sleep] for #sleep_message (now 4)]
-[04:03:32] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 13)]
-[04:03:36] [Server thread/INFO]: [alejandro946: Added 3 to [ops.sleep] for #sleep_message (now 9)]
-[04:03:39] [Server thread/INFO]: [alejandro946: Added 7 to [ops.sleep] for #sleep_message (now 21)]
-[04:03:43] [Server thread/INFO]: [alejandro946: Added 767 to [ops.sleep] for #sleep_message (now 770)]
-[04:03:48] [Server thread/INFO]: [alejandro946: Added 1 to [ops.sleep] for #sleep_message (now 10)]
-[04:03:51] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
-[04:03:53] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 10)]
-[04:03:56] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:03:57] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 11)]
-[04:04:00] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 2)]
-[04:04:02] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 7)]
-[04:04:06] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 9)]
-[04:04:11] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 1)]
-[04:04:12] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 5)]
-[04:04:13] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:04:13] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:04:14] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:04:15] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 3)]
-[04:04:16] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 12)]
-[04:04:16] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 10)]
-[04:04:17] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:04:17] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 2)]
-[04:04:18] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 12)]
-[04:04:18] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 8)]
-[04:04:19] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 6)]
-[04:04:19] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 2)]
-[04:04:20] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 9)]
-[04:04:20] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 2)]
-[04:04:20] [Server thread/INFO]: [alejandro946: Added 0 to [ops.sleep] for #sleep_message (now 9)]
-[04:04:28] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #sleep_message (now 1)]
-[04:04:29] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #sleep_message (now 1)]
-[04:04:30] [Server thread/INFO]: [alejandro946: Removed 0 from [ops.sleep] for #sleep_message (now 3)]
-[04:04:33] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 13)]
-[04:04:36] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 4)]
-[04:04:37] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:37] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:38] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 13)]
-[04:04:38] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:39] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 0)]
-[04:04:39] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:40] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 10)]
-[04:04:40] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 4)]
-[04:04:41] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 13)]
-[04:04:41] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 10)]
-[04:04:42] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:43] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 4)]
-[04:04:43] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 2)]
-[04:04:44] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 11)]
-[04:04:44] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:45] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 0)]
-[04:04:45] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 8)]
-[04:04:46] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:47] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 13)]
-[04:04:47] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:48] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 1)]
-[04:04:48] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 9)]
-[04:04:49] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 2)]
-[04:04:49] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 10)]
-[04:04:50] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:50] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 13)]
-[04:04:50] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 6)]
-[04:04:51] [Server thread/INFO]: [alejandro946: Removed 1 from [ops.sleep] for #sleep_message (now 12)]
-[04:04:53] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 1)]
-[04:04:54] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:55] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 9)]
-[04:04:56] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 5)]
-[04:04:56] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now -1)]
-[04:04:57] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 8)]
-[04:04:58] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:04:58] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 1)]
-[04:04:58] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 8)]
-[04:04:59] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 2)]
-[04:05:00] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 9)]
-[04:05:01] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 3)]
-[04:05:01] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 11)]
-[04:05:02] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:02] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 1)]
-[04:05:03] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 10)]
-[04:05:03] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 4)]
-[04:05:04] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 0)]
-[04:05:04] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 9)]
-[04:05:05] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 6)]
-[04:05:06] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 0)]
-[04:05:06] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 8)]
-[04:05:07] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 2)]
-[04:05:07] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 10)]
-[04:05:08] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 4)]
-[04:05:08] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 12)]
-[04:05:09] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 6)]
-[04:05:09] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now -1)]
-[04:05:10] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:11] [Server thread/INFO]: <alejandro946> t
-[04:05:13] [Server thread/INFO]: <alejandro946> t
-[04:05:14] [Server thread/INFO]: <alejandro946> t
-[04:05:16] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:17] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 6)]
-[04:05:17] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 2)]
-[04:05:18] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 9)]
-[04:05:18] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 5)]
-[04:05:19] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now -1)]
-[04:05:19] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:20] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 6)]
-[04:05:21] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 0)]
-[04:05:21] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 8)]
-[04:05:22] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 2)]
-[04:05:22] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 10)]
-[04:05:23] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 3)]
-[04:05:23] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 12)]
-[04:05:24] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:24] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 3)]
-[04:05:25] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 12)]
-[04:05:25] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:26] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 3)]
-[04:05:27] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 0)]
-[04:05:27] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 10)]
-[04:05:28] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 7)]
-[04:05:28] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 3)]
-[04:05:29] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now 2)]
-[04:05:30] [Server thread/INFO]: [alejandro946: Removed 2 from [ops.sleep] for #sleep_message (now -1)]
-[04:07:00] [Server thread/INFO]: alejandro946 lost connection: Disconnected
-[04:07:00] [Server thread/INFO]: alejandro946 left the game
-[04:07:24] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[04:07:24] [Server thread/INFO]: Och8Z left the game
-[04:08:44] [Server thread/INFO]: Och8Z[/127.27.2.94:36389] logged in with entity id 35140 at (-89.38153653239073, 68.875, 770.9597852472641)
-[04:08:44] [Server thread/INFO]: Och8Z joined the game
-[04:08:55] [Server thread/INFO]: <Och8Z> -90 770
+[01:47:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:47:07] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[01:47:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:47:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:47:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:47:20] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
+[01:47:22] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:47:23] [Worker-Main-2/INFO]: Loaded 927 advancements
+[01:47:26] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:47:26] [Server thread/INFO]: Loading properties
+[01:47:26] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[01:47:26] [Server thread/INFO]: Default game type: SURVIVAL
+[01:47:26] [Server thread/INFO]: Generating keypair
+[01:47:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:47:27] [Server thread/INFO]: Using epoll channel type
+[01:47:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:47:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:47:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:47:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:47:27] [Server thread/INFO]: Preparing level "world"
+[01:47:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[01:47:34] [Server thread/INFO]: Time elapsed: 5009 ms
+[01:47:34] [Server thread/INFO]: Done (6.742s)! For help, type "help"
+[01:47:41] [Server thread/INFO]: Och8Z[/127.27.2.94:51033] logged in with entity id 114 at (-122.56231418468366, 65.0, 810.2560220463893)
+[01:47:41] [Server thread/INFO]: Och8Z joined the game
+[01:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:48:35] [Server thread/INFO]: Wladomor[/127.6.187.21:54733] logged in with entity id 433 at (478.7642925134339, 62.073264263420526, 208.15618361272234)
+[01:48:35] [Server thread/INFO]: Wladomor joined the game
+[01:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3577ms or 71 ticks behind
+[01:49:23] [Server thread/INFO]: Peter_rola14[/127.227.82.151:36977] logged in with entity id 985 at (160.5, 82.0, 232.5)
+[01:49:23] [Server thread/INFO]: Peter_rola14 joined the game
+[01:49:31] [Server thread/INFO]: Dercsas[/127.58.54.12:40251] logged in with entity id 1110 at (-376.348434388187, 68.0, 170.64352314683327)
+[01:49:31] [Server thread/INFO]: Dercsas joined the game
+[01:49:34] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
+[01:49:34] [Server thread/INFO]: Peter_rola14 left the game
+[01:49:39] [Server thread/INFO]: alejandro946[/127.160.163.203:39047] logged in with entity id 1395 at (-25.969900454468434, 72.0, 771.7613098861302)
+[01:49:39] [Server thread/INFO]: alejandro946 joined the game
+[01:51:48] [Server thread/INFO]: peter_rola14[/127.227.82.151:43919] logged in with entity id 2541 at (-97.14993945299078, 69.0, 776.4914252876002)
+[01:51:48] [Server thread/INFO]: peter_rola14 joined the game
+[01:55:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4527, l='ServerLevel[world]', x=-684.89, y=75.00, z=308.21]
