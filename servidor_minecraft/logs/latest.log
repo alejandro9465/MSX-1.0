@@ -1,97 +1,58 @@
-[18:46:54] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[18:46:55] [main/INFO]: Loading 6 mods:
+[20:58:00] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[20:58:01] [main/INFO]: Loading 6 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
 	- lithium 0.6.6
 	- minecraft 1.16.5
 	- phosphor 0.8.0
-[18:46:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:46:56] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
-[18:46:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:47:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:47:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:47:10] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
-[18:47:13] [Worker-Main-2/INFO]: Loaded 7 recipes
-[18:47:13] [Worker-Main-2/INFO]: Loaded 927 advancements
-[18:47:16] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[18:47:16] [Server thread/INFO]: Loading properties
-[18:47:16] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
-[18:47:16] [Server thread/INFO]: Default game type: SURVIVAL
-[18:47:16] [Server thread/INFO]: Generating keypair
-[18:47:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:47:17] [Server thread/INFO]: Using epoll channel type
-[18:47:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:47:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:47:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:47:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:47:18] [Server thread/INFO]: Preparing level "world"
-[18:47:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:47:24] [Server thread/INFO]: Time elapsed: 4464 ms
-[18:47:24] [Server thread/INFO]: Done (5.797s)! For help, type "help"
-[18:47:50] [Server thread/INFO]: Och8Z[/127.27.2.94:39729] logged in with entity id 117 at (0.6999999880790706, 34.0, 642.5349492252948)
-[18:47:50] [Server thread/INFO]: Och8Z joined the game
-[19:05:27] [Server thread/INFO]: Och8Z has reached the goal [Zombie Doctor]
-[19:10:00] [Server thread/INFO]: Peter_rola14[/127.227.82.151:45411] logged in with entity id 3399 at (-1915.2648266967171, 27.0, 879.3695170650137)
-[19:10:00] [Server thread/INFO]: Peter_rola14 joined the game
-[19:10:08] [Server thread/INFO]: <Och8Z> los recupere a todos
-[19:12:10] [Server thread/INFO]: <Och8Z> estas para vc?
-[19:12:16] [Server thread/INFO]: <Och8Z> o nao
-[19:12:17] [Server thread/INFO]: <Peter_rola14> pera
-[19:12:24] [Server thread/INFO]: <Peter_rola14> ando arreglando algo
-[19:12:29] [Server thread/INFO]: <Och8Z> okas
-[19:12:39] [Server thread/INFO]: <Och8Z> a oe
-[19:12:54] [Server thread/INFO]: <Peter_rola14> uh
-[19:12:57] [Server thread/INFO]: <Och8Z> tenemos un doble spawn debajo de la casa
-[19:13:57] [Server thread/INFO]: Peter_rola14 lost connection: Disconnected
-[19:13:57] [Server thread/INFO]: Peter_rola14 left the game
-[19:15:27] [Server thread/INFO]: Peter_rola14[/127.227.82.151:39477] logged in with entity id 5131 at (-85.62412665146121, 68.875, 770.8827083850796)
-[19:15:27] [Server thread/INFO]: Peter_rola14 joined the game
-[19:16:44] [Server thread/INFO]: <Peter_rola14> mi humildad absoluta
-[19:17:13] [Server thread/INFO]: <Peter_rola14> voi pal vc ya arregle
-[19:24:13] [Server thread/INFO]: Och8Z has reached the goal [The Next Generation]
-[19:26:08] [Server thread/WARN]: Peter_rola14 moved too quickly! -4.270006980928329,-1.044812420399012,9.239988027206664
-[19:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[19:26:21] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:26:21] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[19:26:51] [Server thread/INFO]: Peter_rola14 has made the advancement [Diamonds!]
-[19:37:37] [Server thread/INFO]: Och8Z lost connection: Disconnected
-[19:37:37] [Server thread/INFO]: Och8Z left the game
-[20:06:03] [Server thread/INFO]: Och8Z[/127.27.2.94:58485] logged in with entity id 38030 at (-93.24106348283804, 68.0, 779.1020869351984)
-[20:06:03] [Server thread/INFO]: Och8Z joined the game
-[20:10:25] [Server thread/INFO]: CanelitaAnto[/127.34.213.15:49555] logged in with entity id 40970 at (163.5, 81.0, 235.5)
-[20:10:25] [Server thread/INFO]: CanelitaAnto joined the game
-[20:12:16] [Server thread/INFO]: CanelitaAnto was shot by Skeleton
-[20:14:17] [Server thread/INFO]: CanelitaAnto has made the advancement [Monster Hunter]
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 0.39216839759853883
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 0.8187638355651643
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 1.272832931186303
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 1.7766781496013884
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 0.6776411931059148
-[20:14:40] [Server thread/WARN]: Horse (vehicle of Peter_rola14) moved wrongly! 0.8774245267701524
-[20:20:32] [Server thread/INFO]: alejandro946[/127.160.163.203:60271] logged in with entity id 49116 at (-1850.7089235052235, 60.0, 723.7017620153825)
-[20:20:32] [Server thread/INFO]: alejandro946 joined the game
-[20:24:03] [Server thread/INFO]: CanelitaAnto has made the advancement [Sweet Dreams]
-[20:24:25] [Server thread/INFO]: CanelitaAnto has made the advancement [Diamonds!]
-[20:26:06] [Server thread/INFO]: CanelitaAnto has made the advancement [We Need to Go Deeper]
-[20:33:41] [Server thread/INFO]: [alejandro946: Set own game mode to Creative Mode]
-[20:34:44] [Server thread/INFO]: CanelitaAnto has made the advancement [Stone Age]
-[20:35:29] [Server thread/INFO]: [alejandro946: Set own game mode to Survival Mode]
-[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
-[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
-[20:44:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-56, y=67, z=838} class_2338{x=-56, y=66, z=838}
-[20:45:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-53, y=63, z=830} class_2338{x=-53, y=62, z=832}
-[20:45:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-53, y=63, z=830} class_2338{x=-53, y=62, z=832}
-[20:49:15] [Server thread/INFO]: Villager class_1646['Villager'/61327, l='ServerLevel[world]', x=332.30, y=67.00, z=-871.70] died, message: 'Villager suffocated in a wall'
+[20:58:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:58:01] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[20:58:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:58:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:58:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:58:09] [main/INFO]: Reloading ResourceManager: Default, OnePlayerSleepV3_1.zip
+[20:58:11] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:58:11] [Worker-Main-2/INFO]: Loaded 927 advancements
+[20:58:13] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:58:13] [Server thread/INFO]: Loading properties
+[20:58:13] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[20:58:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:58:13] [Server thread/INFO]: Generating keypair
+[20:58:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:58:14] [Server thread/INFO]: Using epoll channel type
+[20:58:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:58:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:58:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:58:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:58:14] [Server thread/INFO]: Preparing level "world"
+[20:58:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:58:18] [Server thread/INFO]: Time elapsed: 3058 ms
+[20:58:18] [Server thread/INFO]: Done (3.853s)! For help, type "help"
+[20:58:26] [Server thread/INFO]: CanelitaAnto[/127.34.213.15:42987] logged in with entity id 106 at (208.51722209024268, 64.0, -772.4624676410336)
+[20:58:26] [Server thread/INFO]: CanelitaAnto joined the game
+[20:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:58:51] [Server thread/INFO]: Och8Z[/127.27.2.94:33805] logged in with entity id 387 at (295.14686930264355, 7.245888941015285, -9.448321649785925)
+[20:58:51] [Server thread/INFO]: Och8Z joined the game
+[20:59:00] [Server thread/INFO]: Peter_rola14[/127.227.82.151:45865] logged in with entity id 398 at (254.88172745145383, 1.0, -7.2668582258457235)
+[20:59:00] [Server thread/INFO]: Peter_rola14 joined the game
+[20:59:35] [Server thread/INFO]: alejandro946[/127.160.163.203:43639] logged in with entity id 498 at (-11.600366961139242, 72.0, 80.19700359187709)
+[20:59:35] [Server thread/INFO]: alejandro946 joined the game
+[20:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[21:00:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:00:05] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:00:13] [Server thread/INFO]: Villager class_1646['Nitwit'/231, l='ServerLevel[world]', x=301.49, y=80.00, z=-824.33] died, message: 'Nitwit was slain by Zombie'
+[21:00:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1734, l='ServerLevel[world]', x=1.51, y=77.01, z=720.86]
+[21:01:04] [Server thread/INFO]: Villager class_1646['Villager'/196, l='ServerLevel[world]', x=304.02, y=85.05, z=-822.70] died, message: 'Villager was slain by Zombie'
+[21:01:17] [Server thread/INFO]: Villager class_1646['Villager'/197, l='ServerLevel[world]', x=300.85, y=85.00, z=-822.70] died, message: 'Villager was slain by Zombie'
+[21:06:54] [Server thread/INFO]: Peter_rola14 has made the advancement [Hidden in the Depths]
