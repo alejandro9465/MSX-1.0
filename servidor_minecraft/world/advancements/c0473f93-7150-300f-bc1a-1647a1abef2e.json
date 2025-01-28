@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-28 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 00:59:04 +0000"
@@ -412,8 +418,10 @@
       "cooked_porkchop": "2025-01-25 23:06:32 +0000",
       "cooked_mutton": "2025-01-25 01:58:35 +0000",
       "cooked_beef": "2025-01-25 02:56:55 +0000",
+      "chorus_fruit": "2025-01-28 03:51:36 +0000",
       "porkchop": "2025-01-25 02:40:10 +0000",
-      "cooked_chicken": "2025-01-25 01:22:08 +0000"
+      "cooked_chicken": "2025-01-25 01:22:08 +0000",
+      "carrot": "2025-01-28 03:53:55 +0000"
     },
     "done": false
   },
@@ -1831,6 +1839,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-25 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-28 03:50:27 +0000"
     },
     "done": true
   },
