@@ -930,6 +930,7 @@
       "minecraft:skeleton": "2025-01-25 04:17:03 +0000",
       "minecraft:spider": "2025-01-25 04:41:27 +0000",
       "minecraft:creeper": "2025-01-28 03:20:11 +0000",
+      "minecraft:shulker": "2025-01-28 04:01:33 +0000",
       "minecraft:cave_spider": "2025-01-28 02:22:18 +0000",
       "minecraft:enderman": "2025-01-28 03:44:13 +0000",
       "minecraft:silverfish": "2025-01-28 02:17:35 +0000",
@@ -1537,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-28 04:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-25 00:54:56 +0000"
@@ -1612,6 +1619,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-25 01:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-28 04:01:13 +0000"
     },
     "done": true
   },

@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-28 04:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-25 00:58:04 +0000"
@@ -531,6 +537,7 @@
       "minecraft:creeper": "2025-01-25 01:06:07 +0000",
       "minecraft:wither": "2025-01-27 03:25:59 +0000",
       "minecraft:wither_skeleton": "2025-01-25 22:46:48 +0000",
+      "minecraft:shulker": "2025-01-28 04:09:42 +0000",
       "minecraft:piglin": "2025-01-25 22:40:39 +0000",
       "minecraft:enderman": "2025-01-28 03:52:05 +0000",
       "minecraft:zombie": "2025-01-25 01:01:29 +0000",
@@ -2406,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-28 04:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-25 22:47:53 +0000"
@@ -2451,6 +2464,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-25 01:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-28 04:09:27 +0000"
     },
     "done": true
   },
