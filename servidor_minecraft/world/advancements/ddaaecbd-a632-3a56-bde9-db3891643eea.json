@@ -775,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-25 06:06:25 +0000"
@@ -850,6 +856,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-25 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
     },
     "done": true
   },
@@ -1340,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-25 00:58:08 +0000"
@@ -1692,6 +1710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-25 01:56:54 +0000"
@@ -1940,6 +1964,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-25 03:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
     },
     "done": true
   },
@@ -2780,6 +2810,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2025-01-25 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-28 22:09:36 +0000"
     },
     "done": true
   },
