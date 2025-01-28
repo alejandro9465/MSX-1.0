@@ -86,3 +86,11 @@
 [02:27:25] [Server thread/INFO]: peter_rola14[/127.227.82.151:36865] logged in with entity id 31762 at (-84.5, 68.5625, 772.5)
 [02:27:25] [Server thread/INFO]: peter_rola14 joined the game
 [02:27:41] [Server thread/INFO]: <peter_rola14> zzz
+[02:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=73, z=57} class_2338{x=-21, y=73, z=57}
+[02:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=73, z=57} class_2338{x=-21, y=73, z=57}
+[02:33:26] [Server thread/INFO]: peter_rola14 lost connection: Disconnected
+[02:33:26] [Server thread/INFO]: peter_rola14 left the game
+[02:35:21] [Server thread/INFO]: peter_rola14[/127.227.82.151:59969] logged in with entity id 40010 at (-371.49683552390553, 66.0, 158.66175422154268)
+[02:35:21] [Server thread/INFO]: peter_rola14 joined the game
+[02:35:42] [Server thread/INFO]: Dercsas was slain by Cave Spider
+[02:37:47] [Server thread/INFO]: <Dercsas> -344 11 190

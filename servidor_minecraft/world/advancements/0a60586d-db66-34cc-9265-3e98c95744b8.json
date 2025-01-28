@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-28 02:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-25 01:36:04 +0000"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-28 02:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-01-28 02:23:24 +0000"
@@ -953,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-28 02:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-25 01:46:00 +0000"
@@ -966,6 +984,7 @@
       "minecraft:spider": "2025-01-25 04:00:45 +0000",
       "minecraft:creeper": "2025-01-25 03:48:23 +0000",
       "minecraft:slime": "2025-01-25 02:32:29 +0000",
+      "minecraft:witch": "2025-01-28 02:31:18 +0000",
       "minecraft:cave_spider": "2025-01-28 02:21:03 +0000",
       "minecraft:enderman": "2025-01-25 02:26:10 +0000",
       "minecraft:silverfish": "2025-01-28 02:17:30 +0000",
@@ -1809,6 +1828,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-25 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-28 02:30:36 +0000"
     },
     "done": true
   },
