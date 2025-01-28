@@ -1787,6 +1787,7 @@
       "cooked_mutton": "2025-01-25 05:42:11 +0000",
       "cooked_beef": "2025-01-25 01:05:17 +0000",
       "bread": "2025-01-25 01:00:07 +0000",
+      "golden_apple": "2025-01-28 19:08:25 +0000",
       "golden_carrot": "2025-01-25 20:43:51 +0000",
       "carrot": "2025-01-25 03:58:04 +0000"
     },
@@ -2533,6 +2534,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-01-26 20:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-01-28 19:05:27 +0000"
     },
     "done": true
   },
