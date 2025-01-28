@@ -65,3 +65,14 @@
 [21:14:08] [Server thread/INFO]: Wladomor joined the game
 [21:18:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Soul Sand'/23010, l='ServerLevel[world]', x=-1910.56, y=27.00, z=878.88]
 [21:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[21:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[21:31:31] [Server thread/WARN]: Och8Z moved too quickly! 2016.1739755643564,20.464159374955443,-884.4087383115698
+[21:31:31] [Server thread/WARN]: Entity class_3222['Och8Z'/387, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[21:32:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=168, y=62, z=1561} class_2338{x=168, y=61, z=1561}
+[21:34:48] [Server thread/INFO]: Peter_rola14 has made the advancement [Tactical Fishing]
+[21:38:08] [Server thread/INFO]: CanelitaAnto has made the advancement [Acquire Hardware]
+[21:38:08] [Server thread/INFO]: Dercsas[/127.58.54.12:37133] logged in with entity id 44894 at (-374.0643225094264, 62.0, 170.34117696963554)
+[21:38:08] [Server thread/INFO]: Dercsas joined the game
+[21:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[21:38:45] [Server thread/WARN]: Wladomor moved too quickly! -6.6369771344792525,0.0,7.547778309354612
+[21:39:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=672, y=38, z=1920} class_2338{x=672, y=37, z=1920}

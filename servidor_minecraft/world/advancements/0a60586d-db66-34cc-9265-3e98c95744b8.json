@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-01-25 01:43:50 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-28 21:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 01:45:50 +0000"
@@ -260,6 +272,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-25 01:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
     },
     "done": true
   },
@@ -374,6 +392,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-25 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-28 21:32:00 +0000"
     },
     "done": true
   },
@@ -948,9 +972,12 @@
       "minecraft:birch_forest": "2025-01-28 03:22:59 +0000",
       "minecraft:jungle_hills": "2025-01-25 02:35:19 +0000",
       "minecraft:bamboo_jungle": "2025-01-25 02:34:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-28 21:34:27 +0000",
       "minecraft:savanna_plateau": "2025-01-25 02:46:41 +0000",
+      "minecraft:beach": "2025-01-28 21:31:20 +0000",
       "minecraft:dark_forest": "2025-01-25 02:53:23 +0000",
       "minecraft:river": "2025-01-25 01:23:45 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-28 21:32:07 +0000",
       "minecraft:wooded_mountains": "2025-01-25 02:10:48 +0000",
       "minecraft:bamboo_jungle_hills": "2025-01-25 03:15:43 +0000",
       "minecraft:wooded_hills": "2025-01-25 01:26:47 +0000",
@@ -1059,6 +1086,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-25 01:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-28 21:32:00 +0000"
     },
     "done": true
   },
@@ -1490,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-25 02:09:57 +0000"
@@ -1523,6 +1562,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-25 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
     },
     "done": true
   },
@@ -1910,6 +1955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-25 01:25:49 +0000"
@@ -2021,6 +2072,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 01:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
     },
     "done": true
   },
@@ -2405,6 +2462,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-25 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-28 21:32:56 +0000"
     },
     "done": true
   },
