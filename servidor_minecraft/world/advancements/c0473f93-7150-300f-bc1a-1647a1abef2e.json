@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-25 06:07:29 +0000"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-25 01:15:44 +0000"
@@ -468,6 +480,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
     },
     "done": true
   },
@@ -982,6 +1000,7 @@
       "minecraft:ghast": "2025-01-28 02:25:57 +0000",
       "minecraft:spider": "2025-01-25 01:49:03 +0000",
       "minecraft:creeper": "2025-01-25 23:31:14 +0000",
+      "minecraft:enderman": "2025-01-28 03:43:03 +0000",
       "minecraft:zombie": "2025-01-25 01:54:14 +0000",
       "minecraft:drowned": "2025-01-27 03:54:46 +0000"
     },
@@ -1050,6 +1069,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-25 05:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
     },
     "done": true
   },
@@ -1317,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-28 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-25 01:00:35 +0000"
@@ -1359,9 +1390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-25 01:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-28 03:38:33 +0000"
     },
     "done": true
   },
@@ -2102,6 +2145,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-25 02:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-28 03:40:54 +0000"
     },
     "done": true
   },
