@@ -867,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-28 02:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-25 02:20:14 +0000"
@@ -1598,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-28 02:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-25 00:54:42 +0000"
@@ -2090,7 +2102,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-01-25 06:11:08 +0000",
       "minecraft:soul_sand_valley": "2025-01-28 02:04:51 +0000",
-      "minecraft:warped_forest": "2025-01-25 06:07:29 +0000"
+      "minecraft:warped_forest": "2025-01-25 06:07:29 +0000",
+      "minecraft:basalt_deltas": "2025-01-28 02:15:26 +0000"
     },
     "done": false
   },
