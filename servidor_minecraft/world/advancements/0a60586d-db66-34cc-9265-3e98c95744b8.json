@@ -292,6 +292,7 @@
       "minecraft:taiga": "2025-02-07 02:14:58 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:41:28 +0000",
       "minecraft:savanna_plateau": "2025-02-06 20:19:19 +0000",
+      "minecraft:beach": "2025-02-07 20:35:41 +0000",
       "minecraft:stony_peaks": "2025-02-06 20:20:51 +0000",
       "minecraft:dark_forest": "2025-02-07 02:44:27 +0000",
       "minecraft:sparse_jungle": "2025-02-06 21:23:05 +0000",
@@ -5724,9 +5725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-07 20:38:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-07 20:38:54 +0000"
     },
     "done": true
   },
@@ -5754,6 +5767,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 20:38:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
@@ -5769,6 +5788,12 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-07 20:38:54 +0000"
     },
     "done": true
   },
@@ -5793,6 +5818,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-07 20:38:35 +0000"
     },
     "done": true
   },
@@ -5838,6 +5869,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-07 20:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-07 19:45:55 +0000"
@@ -5865,6 +5902,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-07 20:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-07 20:38:54 +0000"
     },
     "done": true
   },
@@ -5961,6 +6004,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-07 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-07 20:38:35 +0000"
     },
     "done": true
   },
