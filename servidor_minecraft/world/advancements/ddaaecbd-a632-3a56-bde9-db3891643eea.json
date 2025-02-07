@@ -976,6 +976,7 @@
       "minecraft:wither_skeleton": "2025-02-07 02:12:58 +0000",
       "minecraft:husk": "2025-02-06 21:25:29 +0000",
       "minecraft:cave_spider": "2025-02-07 03:05:01 +0000",
+      "minecraft:piglin": "2025-02-07 19:43:20 +0000",
       "minecraft:zombie": "2025-02-06 20:08:18 +0000",
       "minecraft:zombie_villager": "2025-02-07 00:30:50 +0000"
     },
@@ -4373,21 +4374,69 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
+      "has_magma_cream": "2025-02-07 18:54:23 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
+      "has_glowstone_dust": "2025-02-07 18:55:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+      "has_glowstone_dust": "2025-02-07 18:55:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-02-07 19:03:06 +0000"
     },
     "done": true
   },
@@ -4397,9 +4446,273 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-07 19:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-07 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-07 19:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-02-07 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-07 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-07 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-07 19:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-07 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-07 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-07 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-07 19:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
     },
     "done": true
   },
@@ -4421,63 +4734,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-07 19:28:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-07 19:17:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-07 19:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
     },
     "done": true
   },
@@ -4493,54 +4752,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-07 19:09:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
@@ -4553,39 +4764,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-02-07 19:28:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-07 19:27:40 +0000"
     },
     "done": true
   },
@@ -4601,27 +4782,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 18:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-07 19:09:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
     },
     "done": true
   },
@@ -4631,81 +4794,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-02-07 18:54:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-07 19:04:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-07 19:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-07 19:04:40 +0000"
     },
     "done": true
   },
@@ -4715,63 +4806,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-02-07 19:07:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-07 19:25:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
     },
     "done": true
   },
@@ -4781,57 +4818,27 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/dark_boat": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
+      "has_bow": "2025-02-07 19:27:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
+      "shot_arrow": "2025-02-07 19:28:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
+      "killed_by": "2025-02-07 19:28:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
-      "has_basalt": "2025-02-07 19:09:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 18:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-07 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2025-02-07 19:03:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-02-07 19:09:08 +0000"
+      "soul_fortress": "2025-02-07 19:39:24 +0000"
     },
     "done": true
   },
