@@ -656,3 +656,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 19:50:07.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
 [07Feb2025 19:50:07.948] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
 [07Feb2025 19:52:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Withered Abomination
+[07Feb2025 19:57:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [Hot Tourist Destinations]
+[07Feb2025 20:01:46.550] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[07Feb2025 20:01:46.553] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[07Feb2025 20:01:48.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=50, z=-336} BlockPos{x=103, y=48, z=-336}
+[07Feb2025 20:04:13.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [This Boat Has Legs]
+[07Feb2025 20:08:37.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 20:09:30.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Those Were the Days]
+[07Feb2025 20:09:37.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Piglin Brute
+[07Feb2025 20:13:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z tried to swim in lava
+[07Feb2025 20:17:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Chest Slayer]
+[07Feb2025 20:17:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Amateur Archaeologist]
+[07Feb2025 20:19:26.233] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Feb2025 20:20:19.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Dercsas to alejandro946]
+[07Feb2025 20:20:26.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [Amateur Archaeologist]
+[07Feb2025 20:21:05.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [War Pigs]
+[07Feb2025 20:22:31.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Who is Cutting Onions?]
+[07Feb2025 20:25:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Piglin Brute
+[07Feb2025 20:30:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 tried to swim in lava
+[07Feb2025 20:30:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas tried to swim in lava
+[07Feb2025 20:30:45.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Enchanter]
+[07Feb2025 20:35:14.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was slain by Och8Z
