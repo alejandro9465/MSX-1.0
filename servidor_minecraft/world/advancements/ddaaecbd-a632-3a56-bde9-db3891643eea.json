@@ -5333,6 +5333,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-07 21:16:57 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6230,6 +6236,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-07 21:17:52 +0000"
     },
     "done": true
   },
