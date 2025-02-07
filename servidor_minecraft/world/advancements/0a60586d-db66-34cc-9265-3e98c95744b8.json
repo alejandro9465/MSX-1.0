@@ -5707,6 +5707,12 @@
     },
     "done": true
   },
+  "refinedstorage:better_than_a_barrel": {
+    "criteria": {
+      "storage_monitor_in_inventory": "2025-02-07 20:58:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-07 20:15:17 +0000"
@@ -5806,6 +5812,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-02-07 20:57:09 +0000"
     },
     "done": true
   },

@@ -684,3 +684,25 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 20:53:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Better than a barrel]
 [07Feb2025 20:53:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Voluntary Exile]
 [07Feb2025 20:57:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Connecting]
+[07Feb2025 20:57:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Refined Storage]
+[07Feb2025 20:58:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Better than a barrel]
+[07Feb2025 20:59:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Connecting]
+[07Feb2025 21:02:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Storing externally]
+[07Feb2025 21:02:44.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:60213] logged in with entity id 36822 at (260.99773570944456, 59.0, -422.8027803735929)
+[07Feb2025 21:02:44.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:02:44.188] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:02:48.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[07Feb2025 21:03:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[07Feb2025 21:03:14.515] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 21:03:29.427] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 21:03:36.430] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 21:03:44.901] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 21:04:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Storing externally]
+[07Feb2025 21:04:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[07Feb2025 21:07:04.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ola
+[07Feb2025 21:07:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ola
+[07Feb2025 21:07:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> que acontece
+[07Feb2025 21:07:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> nose
+[07Feb2025 21:07:29.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:07:29.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
+[07Feb2025 21:07:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
