@@ -644,3 +644,15 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 19:39:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [The Soul Fortress]
 [07Feb2025 19:42:28.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
 [07Feb2025 19:42:48.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
+[07Feb2025 19:45:11.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[07Feb2025 19:45:31.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
+[07Feb2025 19:46:37.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved wrongly!
+[07Feb2025 19:48:19.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [A Terrible Fortress]
+[07Feb2025 19:48:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was shot by Skeleton
+[07Feb2025 19:49:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z was kicked for floating too long!
+[07Feb2025 19:49:46.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Flying is not enabled on this server
+[07Feb2025 19:49:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[07Feb2025 19:50:07.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:36141] logged in with entity id 7279 at (31.748765984696185, 56.00133597911215, 447.7200280152283)
+[07Feb2025 19:50:07.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[07Feb2025 19:50:07.948] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[07Feb2025 19:52:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Withered Abomination

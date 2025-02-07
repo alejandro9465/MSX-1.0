@@ -4363,6 +4363,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-02-07 18:43:45 +0000",
+      "minecraft:soul_sand_valley": "2025-02-07 19:50:20 +0000",
       "minecraft:basalt_deltas": "2025-02-07 18:43:54 +0000",
       "minecraft:warped_forest": "2025-02-07 18:42:57 +0000"
     },
@@ -4839,6 +4840,12 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-02-07 19:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-07 19:48:19 +0000"
     },
     "done": true
   },
