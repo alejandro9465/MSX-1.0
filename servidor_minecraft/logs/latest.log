@@ -681,3 +681,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 20:36:56.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
 [07Feb2025 20:39:58.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell from a high place
 [07Feb2025 20:43:07.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=84, z=-1329} BlockPos{x=-249, y=83, z=-1330}
+[07Feb2025 20:53:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Better than a barrel]
+[07Feb2025 20:53:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Voluntary Exile]
+[07Feb2025 20:57:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Connecting]

@@ -966,6 +966,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-07 20:53:37 +0000",
       "minecraft:skeleton": "2025-02-06 19:55:18 +0000",
       "minecraft:ghast": "2025-02-07 19:25:14 +0000",
       "minecraft:hoglin": "2025-02-07 02:13:02 +0000",
@@ -4864,9 +4865,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-07 20:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-07 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:better_than_a_barrel": {
+    "criteria": {
+      "storage_monitor_in_inventory": "2025-02-07 20:53:16 +0000"
     },
     "done": true
   },
