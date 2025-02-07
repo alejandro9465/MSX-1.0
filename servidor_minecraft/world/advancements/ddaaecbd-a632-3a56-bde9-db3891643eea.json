@@ -980,6 +980,7 @@
       "minecraft:cave_spider": "2025-02-07 03:05:01 +0000",
       "minecraft:piglin": "2025-02-07 19:43:20 +0000",
       "minecraft:enderman": "2025-02-07 19:56:18 +0000",
+      "minecraft:silverfish": "2025-02-07 22:56:09 +0000",
       "minecraft:zombie": "2025-02-06 20:08:18 +0000",
       "minecraft:zombie_villager": "2025-02-07 00:30:50 +0000"
     },
@@ -4853,9 +4854,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-07 20:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-02-07 20:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-07 20:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-07 20:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-07 20:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-07 20:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-07 20:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-07 20:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-07 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-07 20:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-07 20:24:11 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:better_than_a_barrel": {
+    "criteria": {
+      "storage_monitor_in_inventory": "2025-02-07 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-07 20:53:37 +0000"
     },
     "done": true
   },
@@ -4868,12 +4983,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-02-07 21:53:13 +0000"
     },
     "done": true
   },
@@ -4925,12 +5034,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-02-07 21:53:13 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -4946,18 +5049,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/acacia_banister": {
-    "criteria": {
-      "has_item": "2025-02-07 21:25:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -4997,12 +5088,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5012,12 +5097,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
-    "criteria": {
-      "has_item": "2025-02-07 21:47:01 +0000"
     },
     "done": true
   },
@@ -5039,12 +5118,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5063,21 +5136,9 @@
     },
     "done": true
   },
-  "twilightforest:arborist": {
-    "criteria": {
-      "canopy_log": "2025-02-07 21:38:36 +0000"
-    },
-    "done": false
-  },
   "refinedstorage:recipes/misc/coloring_recipes/crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -5096,18 +5157,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-02-07 21:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -5165,21 +5214,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
     },
     "done": true
   },
@@ -5219,27 +5256,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:storing_externally": {
-    "criteria": {
-      "external_storage_in_inventory": "2025-02-07 21:02:42 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-07 20:53:37 +0000"
     },
     "done": true
   },
@@ -5291,12 +5310,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-02-07 21:45:41 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5306,12 +5319,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/lime_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -5327,12 +5334,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-07 20:22:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5345,21 +5346,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:better_than_a_barrel": {
-    "criteria": {
-      "storage_monitor_in_inventory": "2025-02-07 20:53:16 +0000"
     },
     "done": true
   },
@@ -5372,12 +5361,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
     },
     "done": true
   },
@@ -5399,12 +5382,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5416,12 +5393,6 @@
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2025-02-07 21:50:57 +0000"
-    },
-    "done": false
   },
   "refinedstorage:recipes/misc/coloring_recipes/black_crafter_manager": {
     "criteria": {
@@ -5438,12 +5409,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/lime_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-07 21:16:57 +0000"
     },
     "done": true
   },
@@ -5474,18 +5439,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2025-02-07 21:49:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
     },
     "done": true
   },
@@ -5549,12 +5502,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-02-07 22:00:03 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/green_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5570,12 +5517,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/green_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -5597,12 +5538,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5621,18 +5556,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2025-02-07 21:45:43 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5642,12 +5565,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-02-07 20:21:05 +0000"
     },
     "done": true
   },
@@ -5663,21 +5580,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-02-07 20:21:55 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/red_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
     },
     "done": true
   },
@@ -5687,21 +5592,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2025-02-07 21:50:57 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
     },
     "done": true
   },
@@ -5729,45 +5622,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-02-07 21:45:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-02-07 21:38:36 +0000"
     },
     "done": true
   },
@@ -5780,12 +5637,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/brown_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-02-07 22:00:03 +0000"
     },
     "done": true
   },
@@ -5813,39 +5664,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:connecting": {
-    "criteria": {
-      "cable_in_inventory": "2025-02-07 20:59:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2025-02-07 21:45:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-07 21:51:26 +0000"
     },
     "done": true
   },
@@ -5858,12 +5679,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -5891,27 +5706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-02-07 20:01:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-07 20:22:31 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-02-07 21:45:41 +0000"
     },
     "done": true
   },
@@ -5927,12 +5724,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-02-07 21:24:39 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -5945,27 +5736,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-02-07 20:23:27 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
     },
     "done": true
   },
@@ -5990,24 +5763,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/cyan_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "deer": "2025-02-07 21:40:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-02-07 21:27:13 +0000"
     },
     "done": true
   },
@@ -6041,27 +5796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-07 22:01:48 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-02-07 21:53:13 +0000"
     },
     "done": true
   },
@@ -6071,21 +5808,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-02-07 20:24:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/ride_strider": {
-    "criteria": {
-      "used_warped_fungus_on_a_stick": "2025-02-07 20:04:13 +0000"
     },
     "done": true
   },
@@ -6101,21 +5826,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
     },
     "done": true
   },
@@ -6143,21 +5856,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_relay": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
     },
     "done": true
   },
@@ -6179,12 +5880,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:08 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6194,12 +5889,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -6221,27 +5910,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-02-07 22:01:48 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-02-07 22:01:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
     },
     "done": true
   },
@@ -6305,12 +5976,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6332,12 +5997,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/cyan_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
-    "criteria": {
-      "has_item": "2025-02-07 21:47:01 +0000"
     },
     "done": true
   },
@@ -6365,12 +6024,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6380,12 +6033,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-02-07 22:01:48 +0000"
     },
     "done": true
   },
@@ -6437,18 +6084,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-02-07 22:01:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-07 21:24:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/red_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6491,18 +6126,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6515,27 +6138,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-02-07 20:22:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-02-07 21:43:21 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/red_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -6548,12 +6153,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -6605,18 +6204,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-07 20:23:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
-    "criteria": {
-      "has_item": "2025-02-07 21:50:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6635,12 +6222,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2025-02-07 22:00:03 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6653,12 +6234,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-02-07 21:17:52 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6668,12 +6243,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
-    "criteria": {
-      "has_item": "2025-02-07 21:38:36 +0000"
     },
     "done": true
   },
@@ -6713,12 +6282,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-02-07 22:01:48 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/security_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
@@ -6728,18 +6291,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/gray_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-02-07 20:09:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
     },
     "done": true
   },
@@ -6776,12 +6327,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet": {
-    "criteria": {
-      "has_pink_wool": "2025-02-07 21:45:43 +0000"
     },
     "done": true
   },
@@ -6833,39 +6378,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-02-07 21:48:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
     },
     "done": true
   },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2025-02-07 21:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-02-07 20:21:55 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
     },
     "done": true
   },
@@ -6896,6 +6417,777 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-07 20:57:42 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-02-07 20:59:42 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2025-02-07 21:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-07 21:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-07 21:17:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-07 21:24:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-07 21:24:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-02-07 21:25:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-07 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-02-07 21:38:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-02-07 22:53:48 +0000",
+      "twilight_oak_chest": "2025-02-07 22:14:24 +0000",
+      "canopy_log": "2025-02-07 21:38:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-02-07 21:38:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-02-07 21:38:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-02-07 21:40:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-02-07 21:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-02-07 21:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-07 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-02-07 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-02-07 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-02-07 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-07 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-02-07 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-02-07 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-07 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-07 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:12:56 +0000",
+      "kill_naga": "2025-02-07 21:50:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-02-07 21:50:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-07 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-07 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-07 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-07 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-07 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-07 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-02-07 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-07 22:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-07 22:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-07 22:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-07 22:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-07 22:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-07 22:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-07 22:21:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-02-07 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-02-07 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-02-07 22:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-02-07 22:17:58 +0000"
     },
     "done": true
   },
