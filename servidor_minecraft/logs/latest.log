@@ -808,3 +808,44 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 21:28:13.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dercsas> ni vole
 [07Feb2025 21:28:18.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> viste
 [07Feb2025 21:28:20.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> XD
+[07Feb2025 21:31:22.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> 8 queri ser mi amigaso de aventura
+[07Feb2025 21:31:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> donde
+[07Feb2025 21:31:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ven a mi casa
+[07Feb2025 21:31:48.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -9.175061785494165,-2.252203340253729,3.889080065682947
+[07Feb2025 21:31:48.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[07Feb2025 21:33:31.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> osea
+[07Feb2025 21:33:37.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> a mi casa del juego
+[07Feb2025 21:33:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> va caminando
+[07Feb2025 21:33:55.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ven volando
+[07Feb2025 21:33:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> a la irl
+[07Feb2025 21:34:15.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:34:15.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
+[07Feb2025 21:34:15.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:34:16.020] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Feb2025 21:34:38.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:59387] logged in with entity id 52994 at (-283.21204031605293, 103.54029611871941, -1280.7586571448378)
+[07Feb2025 21:34:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:34:38.583] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:34:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> NO VOLE SERVER CULIAO
+[07Feb2025 21:35:11.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> cuando se reinicie se arregla
+[07Feb2025 21:35:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> te vine a buscar bb
+[07Feb2025 21:36:00.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ya funciona?
+[07Feb2025 21:36:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> la maquina
+[07Feb2025 21:36:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> si
+[07Feb2025 21:36:13.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> god
+[07Feb2025 21:36:20.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> donde vamos
+[07Feb2025 21:36:22.323] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 21:36:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> al bosque
+[07Feb2025 21:36:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> tuailai
+[07Feb2025 21:36:41.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> oh yeah
+[07Feb2025 21:36:45.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> quiero madera
+[07Feb2025 21:36:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> vamo
+[07Feb2025 21:36:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> vamo
+[07Feb2025 21:37:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> donde tai 8
+[07Feb2025 21:38:09.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> aca
+[07Feb2025 21:38:12.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> a bacan
+[07Feb2025 21:38:12.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> ya tienen portal?
+[07Feb2025 21:38:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> o pa hacerlo
+[07Feb2025 21:38:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ven a mi casa po
+[07Feb2025 21:38:30.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -10.029096547212646,1.5813359922251635,1.4157877070952054
+[07Feb2025 21:38:30.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[07Feb2025 21:38:38.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -2455.987265802076,-115.92159999847412,-8585.01450884274

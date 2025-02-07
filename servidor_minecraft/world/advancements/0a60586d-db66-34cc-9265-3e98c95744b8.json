@@ -1492,6 +1492,7 @@
     "criteria": {
       "cooked_mutton": "2025-02-06 20:43:07 +0000",
       "sweet_berries": "2025-02-06 21:27:01 +0000",
+      "cooked_beef": "2025-02-07 21:30:29 +0000",
       "beetroot_soup": "2025-02-06 21:29:56 +0000",
       "apple": "2025-02-06 20:35:30 +0000",
       "pumpkin_pie": "2025-02-06 21:34:07 +0000",
@@ -5728,6 +5729,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-07 21:25:03 +0000"
     },
     "done": true
   },
