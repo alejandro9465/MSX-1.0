@@ -706,3 +706,59 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 21:07:29.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
 [07Feb2025 21:07:29.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
 [07Feb2025 21:07:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:07:47.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:32989] logged in with entity id 38826 at (177.39264314433697, 47.62000000476837, -356.96067919198595)
+[07Feb2025 21:07:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:07:47.781] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:07:54.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -1.8908013366116734,-9.904893780457492,-0.9712613562988963
+[07Feb2025 21:08:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 tried to swim in lava
+[07Feb2025 21:08:07.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> xd
+[07Feb2025 21:08:21.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:08:21.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
+[07Feb2025 21:08:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:08:36.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:55067] logged in with entity id 39466 at (-298.7416450873226, 125.49550413542775, -1255.9610581310822)
+[07Feb2025 21:08:36.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:08:36.209] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:08:50.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:08:50.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[07Feb2025 21:08:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:08:50.073] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Feb2025 21:09:08.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:44369] logged in with entity id 39705 at (-298.7416450873226, 114.68897802541876, -1255.9610581310822)
+[07Feb2025 21:09:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:09:09.132] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:09:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ...
+[07Feb2025 21:09:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> q paso
+[07Feb2025 21:09:30.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> de casualidad pusiste algo mauri
+[07Feb2025 21:09:45.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> no
+[07Feb2025 21:09:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> la wea me kikeo en el nether por caerme
+[07Feb2025 21:09:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> me dijo que no puedo volar xd
+[07Feb2025 21:10:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ola nenas
+[07Feb2025 21:10:38.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Feb2025 21:11:34.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> yo no tengo de ese color
+[07Feb2025 21:11:49.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:11:49.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
+[07Feb2025 21:11:49.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:12:02.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:39409] logged in with entity id 41203 at (-198.4854409294405, 86.32447312596213, -1263.5375230268608)
+[07Feb2025 21:12:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:12:02.603] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:12:20.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> joder
+[07Feb2025 21:12:24.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> no puedo volar
+[07Feb2025 21:12:24.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> vc
+[07Feb2025 21:13:07.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[07Feb2025 21:13:15.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[07Feb2025 21:13:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> mira mau
+[07Feb2025 21:13:34.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> es aspecto igneo gratis
+[07Feb2025 21:13:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> diavlo
+[07Feb2025 21:14:29.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dercsas> ta bkn mi katana
+[07Feb2025 21:16:11.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> si me kikea de nuevo lloro
+[07Feb2025 21:16:16.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 was kicked for floating too long!
+[07Feb2025 21:16:16.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Flying is not enabled on this server
+[07Feb2025 21:16:16.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 21:16:18.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> XD
+[07Feb2025 21:16:40.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:45693] logged in with entity id 44365 at (-169.33144229321883, 86.45925825308167, -1260.1327399802858)
+[07Feb2025 21:16:40.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[07Feb2025 21:16:40.446] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[07Feb2025 21:16:51.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> :c
+[07Feb2025 21:16:57.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Hot Stuff]
+[07Feb2025 21:17:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> la vida ya no tiene sentido
+[07Feb2025 21:17:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> no se puede como desactivar el kikeo por volar
+[07Feb2025 21:17:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dercsas> no podi dejar de volar?
