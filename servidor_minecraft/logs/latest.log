@@ -948,3 +948,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 22:09:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
 [07Feb2025 22:09:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich and Zombie had better aim than Och8Z
 [07Feb2025 22:09:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas succumbed to the Lich's explosive magic
+[07Feb2025 22:09:38.042] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[07Feb2025 22:09:38.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Feb2025 22:09:38.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Feb2025 22:09:38.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Server closed
+[07Feb2025 22:09:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 22:09:38.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Server closed
+[07Feb2025 22:09:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[07Feb2025 22:09:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Feb2025 22:09:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Feb2025 22:09:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Feb2025 22:09:46.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Feb2025 22:09:46.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Feb2025 22:09:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Feb2025 22:09:46.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Feb2025 22:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Feb2025 22:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Feb2025 22:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Feb2025 22:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Feb2025 22:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
