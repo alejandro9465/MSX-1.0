@@ -6377,3 +6377,78 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Feb2025 18:01:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Welcome To The Machine]
 [07Feb2025 18:02:29.088] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5fc1cd1c for service interface com.blamejared.clumps.platform.IEventHelper
 [07Feb2025 18:02:29.089] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@6897bd4d for service interface com.blamejared.clumps.platform.IPlatformHelper
+[07Feb2025 18:03:04.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> estas en la maquina voladora coso?
+[07Feb2025 18:03:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> o es otra
+[07Feb2025 18:03:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Cover Me with Diamonds]
+[07Feb2025 18:03:21.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[07Feb2025 18:04:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> voy a ver el tuto pa cachar
+[07Feb2025 18:06:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> verda
+[07Feb2025 18:06:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> faltaria algo tipo asi tumbas
+[07Feb2025 18:06:19.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ya no hay keep ?
+[07Feb2025 18:06:20.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:06:20.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:06:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> sigue igual
+[07Feb2025 18:06:41.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> pero podriamo instalar un coso de tumbas
+[07Feb2025 18:06:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> y ya lo quitaria
+[07Feb2025 18:06:48.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> see
+[07Feb2025 18:06:58.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ese que tiene la llave con enderperl
+[07Feb2025 18:07:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> creo que falta guarzo
+[07Feb2025 18:09:00.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was shot by Skeleton
+[07Feb2025 18:09:01.492] [Server thread/DEBUG] [twilightforest/]: Player peter_rola14 (a4143ab4-aa13-3831-9aa5-42746fc858bc) respawned and received items held in storage
+[07Feb2025 18:09:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> nomames
+[07Feb2025 18:09:15.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> no se puede usar
+[07Feb2025 18:09:20.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> no tenemos mod de energia
+[07Feb2025 18:09:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> ...
+[07Feb2025 18:09:40.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> necesitamos algun mod que nos de algun tipo de energia
+[07Feb2025 18:09:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> el loco esta usando
+[07Feb2025 18:09:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> paneles solares
+[07Feb2025 18:09:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> creo que en el video que mande
+[07Feb2025 18:09:56.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> dice el nombre
+[07Feb2025 18:09:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> se
+[07Feb2025 18:10:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> lo voy a ir haciendo igual
+[07Feb2025 18:11:20.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:11:20.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:12:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> necesitamos mucho quarzo
+[07Feb2025 18:12:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> waa
+[07Feb2025 18:12:47.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[07Feb2025 18:12:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[07Feb2025 18:12:49.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Gearling
+[07Feb2025 18:12:50.992] [Server thread/DEBUG] [twilightforest/]: Player peter_rola14 (a4143ab4-aa13-3831-9aa5-42746fc858bc) respawned and received items held in storage
+[07Feb2025 18:16:03.745] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[07Feb2025 18:16:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server voy a reiniciar
+[07Feb2025 18:16:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> oka
+[07Feb2025 18:16:18.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Feb2025 18:16:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: con el mod de solar coso<--[HERE]
+[07Feb2025 18:16:20.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:16:20.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:16:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Feb2025 18:16:25.165] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[07Feb2025 18:16:25.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Feb2025 18:16:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Feb2025 18:16:25.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Server closed
+[07Feb2025 18:16:25.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[07Feb2025 18:16:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Feb2025 18:16:25.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Feb2025 18:16:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Feb2025 18:16:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Feb2025 18:16:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Feb2025 18:16:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07Feb2025 18:16:26.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 18:16:26.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 18:16:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Feb2025 18:16:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Feb2025 18:16:26.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Feb2025 18:16:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Feb2025 18:16:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07Feb2025 18:16:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Feb2025 18:16:26.848] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07Feb2025 18:16:26.848] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07Feb2025 18:16:27.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07Feb2025 18:16:27.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07Feb2025 18:16:27.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07Feb2025 18:16:27.098] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07Feb2025 18:16:27.099] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[07Feb2025 18:16:27.099] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[07Feb2025 18:16:27.099] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[07Feb2025 18:16:27.099] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[07Feb2025 18:16:27.105] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
