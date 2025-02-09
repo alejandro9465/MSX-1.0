@@ -307,6 +307,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:45:21 +0000",
       "minecraft:flower_forest": "2025-02-07 22:59:32 +0000",
       "minecraft:frozen_peaks": "2025-02-07 02:06:33 +0000",
+      "minecraft:deep_dark": "2025-02-09 22:47:24 +0000",
       "minecraft:meadow": "2025-02-06 19:40:10 +0000",
       "minecraft:plains": "2025-02-06 19:36:06 +0000"
     },
@@ -6391,9 +6392,27 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+  "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "has_item": "2025-02-07 22:28:32 +0000"
+      "kill_lich": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:14:19 +0000"
     },
     "done": true
   },
@@ -6403,7 +6422,43 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-02-07 22:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-07 22:26:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-02-07 22:28:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-02-07 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-07 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-02-07 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2025-02-07 22:28:32 +0000"
     },
@@ -6421,63 +6476,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-02-07 22:26:11 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
     "criteria": {
       "has_item": "2025-02-07 22:55:34 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "has_item": "2025-02-07 22:14:19 +0000"
+      "deep_dark": "2025-02-09 22:47:24 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+  "deeperdarker:main/find_ancient_city": {
     "criteria": {
-      "has_item": "2025-02-07 22:28:32 +0000"
+      "ancient_city": "2025-02-09 22:47:24 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_trophy_pedestal": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "kill_lich": "2025-02-07 22:12:56 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-02-07 22:12:56 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2025-02-07 22:28:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-02-07 22:19:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-02-07 22:12:56 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
-    "criteria": {
-      "has_item": "2025-02-07 22:28:32 +0000"
+      "avoid_vibration": "2025-02-09 22:48:03 +0000"
     },
     "done": true
   },

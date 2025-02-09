@@ -866,6 +866,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-09 22:36:44 +0000",
       "minecraft:skeleton": "2025-02-06 19:56:26 +0000",
       "minecraft:magma_cube": "2025-02-07 18:55:19 +0000",
       "minecraft:spider": "2025-02-06 20:14:25 +0000",
@@ -4265,7 +4266,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-07 19:09:08 +0000",
       "minecraft:nether_wastes": "2025-02-07 18:45:55 +0000",
-      "minecraft:warped_forest": "2025-02-07 18:44:45 +0000"
+      "minecraft:warped_forest": "2025-02-07 18:44:45 +0000",
+      "minecraft:basalt_deltas": "2025-02-09 22:46:32 +0000"
     },
     "done": false
   },
@@ -4929,6 +4931,42 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-07 22:25:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-07 22:35:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-02-07 22:35:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:45:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-07 22:45:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-07 22:45:36 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-02-07 22:47:51 +0000"
@@ -4947,18 +4985,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-07 22:52:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2025-02-07 22:35:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-07 22:51:46 +0000"
@@ -4971,45 +4997,45 @@
     },
     "done": true
   },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-02-07 22:45:36 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-02-07 22:45:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-07 22:51:46 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2025-02-07 22:35:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-02-07 22:45:36 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-02-07 22:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-07 22:51:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-07 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-09 22:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-09 22:38:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-09 22:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-09 22:38:06 +0000"
     },
     "done": true
   },

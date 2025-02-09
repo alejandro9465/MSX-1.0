@@ -310,6 +310,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:00:03 +0000",
       "minecraft:windswept_savanna": "2025-02-06 23:44:10 +0000",
       "minecraft:frozen_peaks": "2025-02-07 02:02:48 +0000",
+      "minecraft:deep_dark": "2025-02-09 22:43:22 +0000",
       "minecraft:meadow": "2025-02-06 19:43:05 +0000",
       "minecraft:savanna": "2025-02-06 23:13:31 +0000",
       "minecraft:plains": "2025-02-06 19:42:28 +0000"
@@ -6903,162 +6904,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2025-02-07 22:26:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-02-07 22:21:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fortification_scepter": {
-    "criteria": {
-      "has_item": "2025-02-07 22:46:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2025-02-07 22:26:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-02-07 22:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-07 22:21:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-07 22:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-02-07 22:21:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
-    "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-07 22:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-02-07 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_banner": {
-    "criteria": {
-      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
-    "criteria": {
-      "has_item": "2025-02-07 22:52:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/twilight_scepter": {
-    "criteria": {
-      "has_item": "2025-02-07 22:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2025-02-07 22:26:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
-    "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
-    "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-02-07 22:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-02-07 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-02-07 22:21:41 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2025-02-07 22:12:56 +0000"
@@ -7071,9 +6916,21 @@
     },
     "done": false
   },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
+      "previous_progression": "2025-02-07 22:12:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-07 22:13:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:13:08 +0000"
     },
     "done": true
   },
@@ -7083,39 +6940,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed": {
-    "criteria": {
-      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2025-02-07 22:17:58 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+  "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
+      "has_food": "2025-02-07 22:17:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_carpet": {
+  "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
-      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+  "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
-      "has_item": "2025-02-07 22:53:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+      "has_magenta_wool": "2025-02-07 22:18:45 +0000"
     },
     "done": true
   },
@@ -7125,15 +6970,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
+  "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
-      "has_red_wool": "2025-02-07 22:27:30 +0000"
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-02-07 22:22:17 +0000"
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-07 22:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-02-07 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-07 22:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
     },
     "done": true
   },
@@ -7149,6 +7036,138 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-07 22:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-07 22:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-02-07 22:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-02-07 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-07 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-02-07 22:52:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-07 22:53:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-02-07 22:53:48 +0000"
@@ -7161,33 +7180,63 @@
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-02-07 22:12:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_magenta_dye": "2025-02-07 22:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-07 22:29:34 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2025-02-07 22:53:48 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smoked_venison": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_food": "2025-02-07 22:17:58 +0000"
+      "has_item": "2025-02-07 22:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-09 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-02-09 22:36:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-09 22:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-02-09 22:45:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-09 22:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-09 22:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-09 22:44:59 +0000"
     },
     "done": true
   },
