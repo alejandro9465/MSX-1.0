@@ -290,6 +290,7 @@
       "minecraft:snowy_slopes": "2025-02-07 03:08:38 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-07 02:08:26 +0000",
       "minecraft:taiga": "2025-02-07 02:14:53 +0000",
+      "minecraft:deep_ocean": "2025-02-10 03:27:49 +0000",
       "minecraft:frozen_river": "2025-02-10 01:45:23 +0000",
       "minecraft:cherry_grove": "2025-02-06 20:07:23 +0000",
       "minecraft:sunflower_plains": "2025-02-10 02:52:43 +0000",
@@ -310,11 +311,13 @@
       "minecraft:jagged_peaks": "2025-02-07 02:13:22 +0000",
       "minecraft:cold_ocean": "2025-02-10 01:27:30 +0000",
       "minecraft:forest": "2025-02-06 20:18:12 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-10 03:28:34 +0000",
       "minecraft:desert": "2025-02-07 00:02:30 +0000",
       "minecraft:ocean": "2025-02-06 19:44:45 +0000",
       "minecraft:jungle": "2025-02-06 21:51:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:10:03 +0000",
       "minecraft:windswept_savanna": "2025-02-10 00:22:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-10 03:26:22 +0000",
       "minecraft:flower_forest": "2025-02-06 19:40:31 +0000",
       "minecraft:frozen_peaks": "2025-02-07 02:06:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-06 22:06:34 +0000",
@@ -5678,6 +5681,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-10 03:20:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 02:50:29 +0000"
@@ -5750,6 +5759,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-10 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 03:30:54 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_helmet_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:06:10 +0000"
@@ -5798,6 +5819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-10 03:30:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 02:50:29 +0000"
@@ -5843,6 +5870,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-10 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-10 03:25:23 +0000"
     },
     "done": true
   },
@@ -5903,6 +5936,12 @@
   "deeperdarker:recipes/combat/warden_boots_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-02-10 03:30:58 +0000"
     },
     "done": true
   },

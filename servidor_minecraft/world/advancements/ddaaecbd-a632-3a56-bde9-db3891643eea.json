@@ -314,6 +314,7 @@
       "minecraft:jungle": "2025-02-10 02:14:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:00:03 +0000",
       "minecraft:windswept_savanna": "2025-02-06 23:44:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-10 03:27:31 +0000",
       "minecraft:flower_forest": "2025-02-09 22:58:05 +0000",
       "minecraft:frozen_peaks": "2025-02-07 02:02:48 +0000",
       "minecraft:deep_dark": "2025-02-09 22:43:22 +0000",
@@ -7895,6 +7896,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-02-10 03:29:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/warden_leggings_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:05:32 +0000"
@@ -7904,6 +7911,12 @@
   "deeperdarker:recipes/combat/warden_sword_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:05:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 03:33:58 +0000"
     },
     "done": true
   },
@@ -7943,6 +7956,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-10 03:21:42 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/tools/warden_shovel_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:05:32 +0000"
@@ -7961,9 +7980,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-10 03:36:41 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-02-10 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-10 03:36:41 +0000"
     },
     "done": true
   },

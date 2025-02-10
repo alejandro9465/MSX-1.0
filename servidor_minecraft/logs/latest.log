@@ -712,3 +712,41 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 03:05:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sculk Engineer]
 [10Feb2025 03:06:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Sculk Engineer]
 [10Feb2025 03:08:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sculk Engineer]
+[10Feb2025 03:11:52.993] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:11:52.993] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[10Feb2025 03:21:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [What a Deal!]
+[10Feb2025 03:25:23.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Enchanter]
+[10Feb2025 03:26:20.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved wrongly!
+[10Feb2025 03:27:04.507] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[10Feb2025 03:27:04.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[10Feb2025 03:27:10.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-579, y=50, z=-1561} BlockPos{x=-579, y=51, z=-1561}
+[10Feb2025 03:27:14.493] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 03:29:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [You Are A Pirate]
+[10Feb2025 03:31:11.469] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[10Feb2025 03:34:14.659] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-3342, y=209, z=-4864}
+[10Feb2025 03:34:23.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 03:34:43.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Cloud Golem
+[10Feb2025 03:35:21.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:36:51.545] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[10Feb2025 03:36:51.547] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[10Feb2025 03:36:54.859] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[10Feb2025 03:36:54.860] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[10Feb2025 03:38:12.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
+[10Feb2025 03:38:18.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:38:36.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
+[10Feb2025 03:38:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:38:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
+[10Feb2025 03:39:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:39:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
+[10Feb2025 03:39:20.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -3.6514136374407826,0.0,-10.228089198261841
+[10Feb2025 03:39:24.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:41:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
+[10Feb2025 03:41:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:42:09.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Living Armor]
