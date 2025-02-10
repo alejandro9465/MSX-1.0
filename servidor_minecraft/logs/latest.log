@@ -1,33 +1,33 @@
-[10Feb2025 02:21:01.300] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10Feb2025 02:21:01.307] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Feb2025 02:21:02.842] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Feb2025 02:21:02.905] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Feb2025 02:21:03.335] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[10Feb2025 02:21:03.337] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Feb2025 02:21:03.338] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Feb2025 02:21:03.339] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Feb2025 02:21:03.585] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[10Feb2025 02:21:06.374] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Feb2025 02:21:06.449] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[10Feb2025 02:21:06.451] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[10Feb2025 02:21:06.500] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10Feb2025 02:21:07.286] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[10Feb2025 02:21:07.304] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[10Feb2025 02:21:07.308] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[10Feb2025 02:21:07.309] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[10Feb2025 02:21:07.311] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[10Feb2025 02:21:07.317] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[10Feb2025 02:21:07.318] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[10Feb2025 02:21:07.320] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[10Feb2025 02:21:07.747] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[10Feb2025 02:21:07.748] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin
-[10Feb2025 02:21:08.548] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[10Feb2025 02:21:08.548] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[10Feb2025 02:21:09.103] [main/INFO] [portb.biggerstacks.TransformerEngine/]: refinedstorage is installed, applying patches
-[10Feb2025 02:21:09.205] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[10Feb2025 02:21:09.205] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[10Feb2025 02:21:09.440] [main/WARN] [mixin/]: Error loading class: appeng/api/networking/energy/IAEPowerStorage (java.lang.ClassNotFoundException: appeng.api.networking.energy.IAEPowerStorage)
-[10Feb2025 02:21:09.440] [main/ERROR] [mixin/]: Prepare error for mixins.solarflux.json:compat.ae2.SolarPanelTileMixin during activity: [Prepare method -> <init>(Lnet/minecraft/world/level/block/entity/BlockEntityType;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V]
+[10Feb2025 17:46:47.531] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Feb2025 17:46:47.547] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Feb2025 17:46:49.984] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Feb2025 17:46:50.056] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Feb2025 17:46:50.502] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[10Feb2025 17:46:50.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Feb2025 17:46:50.508] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Feb2025 17:46:50.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Feb2025 17:46:50.774] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[10Feb2025 17:46:55.143] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Feb2025 17:46:55.393] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[10Feb2025 17:46:55.395] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[10Feb2025 17:46:55.466] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Feb2025 17:46:56.589] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[10Feb2025 17:46:56.605] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[10Feb2025 17:46:56.611] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[10Feb2025 17:46:56.619] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[10Feb2025 17:46:56.622] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[10Feb2025 17:46:56.627] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[10Feb2025 17:46:56.636] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[10Feb2025 17:46:56.642] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[10Feb2025 17:46:57.306] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[10Feb2025 17:46:57.311] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin
+[10Feb2025 17:46:58.821] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[10Feb2025 17:46:58.824] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[10Feb2025 17:46:59.003] [main/INFO] [portb.biggerstacks.TransformerEngine/]: refinedstorage is installed, applying patches
+[10Feb2025 17:46:59.198] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[10Feb2025 17:46:59.200] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[10Feb2025 17:46:59.253] [main/WARN] [mixin/]: Error loading class: appeng/api/networking/energy/IAEPowerStorage (java.lang.ClassNotFoundException: appeng.api.networking.energy.IAEPowerStorage)
+[10Feb2025 17:46:59.256] [main/ERROR] [mixin/]: Prepare error for mixins.solarflux.json:compat.ae2.SolarPanelTileMixin during activity: [Prepare method -> <init>(Lnet/minecraft/world/level/block/entity/BlockEntityType;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V]
 org.spongepowered.asm.mixin.transformer.throwables.MixinPreProcessorException: Prepare error for mixins.solarflux.json:compat.ae2.SolarPanelTileMixin during activity: [Prepare method -> <init>(Lnet/minecraft/world/level/block/entity/BlockEntityType;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:200) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validateChanges(MixinInfo.java:442) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
@@ -73,179 +73,179 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepareMethod(MixinPreProcessorStandard.java:218) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:187) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	... 35 more
-[10Feb2025 02:21:09.573] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[10Feb2025 02:21:19.587] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[10Feb2025 02:21:21.262] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10Feb2025 02:21:21.270] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[10Feb2025 02:21:21.274] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[10Feb2025 02:21:21.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[10Feb2025 02:21:21.294] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[10Feb2025 02:21:21.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[10Feb2025 02:21:21.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[10Feb2025 02:21:21.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[10Feb2025 02:21:21.326] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@209f092
-[10Feb2025 02:21:21.328] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@719b662a
-[10Feb2025 02:21:21.328] [modloading-worker-0/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
-[10Feb2025 02:21:21.349] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/TileTestMachine; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.350] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/RecipeTestMachine; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.350] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/BlockTestMachine; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.350] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/WaterBottleReplacer; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.350] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/RemainingReplacerRegistrar; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.351] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/SourceTypesHL; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.352] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/RecipesHL; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.352] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/LevelActionTypesHL; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.352] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/ItemsHL; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.352] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/GearsHL; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.353] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/api/forge/ContainerAPI; from hammerlib to register it's stuff.
-[10Feb2025 02:21:21.353] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.net.Network
-[10Feb2025 02:21:21.367] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[10Feb2025 02:21:21.538] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/TilesSF; from solarflux to register it's stuff.
-[10Feb2025 02:21:21.539] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/SolarPanelsSF; from solarflux to register it's stuff.
-[10Feb2025 02:21:21.539] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/ItemsSF; from solarflux to register it's stuff.
-[10Feb2025 02:21:21.900] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[10Feb2025 02:21:21.901] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[10Feb2025 02:21:22.145] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[10Feb2025 02:21:22.150] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[10Feb2025 02:21:22.695] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[10Feb2025 02:21:28.002] [modloading-worker-0/INFO] [HammerLib/]: Setup HammerLib networking!
-[10Feb2025 02:21:28.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[10Feb2025 02:21:28.539] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined constant(0xFFFFFF0F) foil provider
-[10Feb2025 02:21:28.540] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined dynamic(org.zeith.hammerlib.client.CustomFoilConfigs$$Lambda$14463/0x0000755e69ad4240@1ae553f6) foil provider
-[10Feb2025 02:21:28.544] [modloading-worker-0/INFO] [org.zeith.solarflux.SolarFlux/]: Registered 8 upgrades for Solar Panels.
-[10Feb2025 02:21:28.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[10Feb2025 02:21:28.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Starting version check at https://api.modrinth.com/updates/PlkSuVtM/forge_updates.json
-[10Feb2025 02:21:29.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Found status: AHEAD Current: 20.1.48 Target: null
-[10Feb2025 02:21:29.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solarflux] Starting version check at https://api.modrinth.com/updates/4QG5lev4/forge_updates.json
-[10Feb2025 02:21:29.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solarflux] Found status: UP_TO_DATE Current: 20.1.8 Target: null
-[10Feb2025 02:21:29.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[10Feb2025 02:21:29.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[10Feb2025 02:21:29.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[10Feb2025 02:21:29.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[10Feb2025 02:21:29.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[10Feb2025 02:21:29.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
-[10Feb2025 02:21:29.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/b916e3981957f1e6f2de99ea0aa328fa/raw
-[10Feb2025 02:21:29.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Found status: UP_TO_DATE Current: 7.0.8 Target: null
-[10Feb2025 02:21:29.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Feb2025 02:21:30.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[10Feb2025 02:21:30.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[10Feb2025 02:21:30.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[10Feb2025 02:21:30.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[10Feb2025 02:21:30.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.1 Target: null
-[10Feb2025 02:21:36.159] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Feb2025 02:21:41.018] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[10Feb2025 02:21:41.019] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[10Feb2025 02:21:42.990] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[10Feb2025 02:21:43.014] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_number_provider_type
-[10Feb2025 02:21:43.015] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/root_placer_type
-[10Feb2025 02:21:43.022] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/forge/structure_modifier
-[10Feb2025 02:21:43.023] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_processor
-[10Feb2025 02:21:43.028] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:command_argument_type
-[10Feb2025 02:21:43.030] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_score_provider_type
-[10Feb2025 02:21:43.031] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:block_entity_type
-[10Feb2025 02:21:43.032] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/restrictions
-[10Feb2025 02:21:43.033] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function
-[10Feb2025 02:21:43.034] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/position_source_type
-[10Feb2025 02:21:43.035] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:schedule
-[10Feb2025 02:21:43.035] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry twilightforest:dwarf_rabbit_variant
-[10Feb2025 02:21:43.036] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/foliage_placer_type
-[10Feb2025 02:21:43.037] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry forge:entity_data_serializers
-[10Feb2025 02:21:43.038] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:memory_module_type
-[10Feb2025 02:21:43.036] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/height_provider_type
-[10Feb2025 02:21:43.038] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/world_preset
-[10Feb2025 02:21:43.039] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:sound_event
-[10Feb2025 02:21:43.040] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:recipe_serializer
-[10Feb2025 02:21:43.040] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/wood_palettes
-[10Feb2025 02:21:43.041] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/biome_source
-[10Feb2025 02:21:43.043] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/lionfishapi/modded_biome_slices
-[10Feb2025 02:21:43.044] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/block_state_provider_type
-[10Feb2025 02:21:43.041] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/chat_type
-[10Feb2025 02:21:43.044] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:stat_type
-[10Feb2025 02:21:43.045] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:attribute
-[10Feb2025 02:21:43.046] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_block_entity_modifier
-[10Feb2025 02:21:43.047] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension_type
-[10Feb2025 02:21:43.047] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/multi_noise_biome_source_parameter_list
-[10Feb2025 02:21:43.047] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry twilightforest:tiny_bird_variant
-[10Feb2025 02:21:43.050] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:villager_profession
-[10Feb2025 02:21:43.051] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/game_events
-[10Feb2025 02:21:43.052] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:chunk_status
-[10Feb2025 02:21:43.058] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/banner_pattern
-[10Feb2025 02:21:43.065] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise
-[10Feb2025 02:21:43.065] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/damage_type
-[10Feb2025 02:21:43.067] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/custom_stat
-[10Feb2025 02:21:43.068] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/int_provider_type
-[10Feb2025 02:21:43.069] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function_type
-[10Feb2025 02:21:43.070] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_pool_entry_type
-[10Feb2025 02:21:43.073] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/pos_rule_test
-[10Feb2025 02:21:43.073] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:menu
-[10Feb2025 02:21:43.075] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_rule
-[10Feb2025 02:21:43.076] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_piece
-[10Feb2025 02:21:43.078] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_condition_type
-[10Feb2025 02:21:43.079] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_placement
-[10Feb2025 02:21:43.081] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:fluid
-[10Feb2025 02:21:43.081] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise_settings
-[10Feb2025 02:21:43.084] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_carver
-[10Feb2025 02:21:43.087] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/decorated_pot_patterns
-[10Feb2025 02:21:43.090] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_set
-[10Feb2025 02:21:43.098] [Worker-Main-3/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure
-[10Feb2025 02:21:43.100] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/forge/biome_modifier
-[10Feb2025 02:21:43.114] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:entity_type
-[10Feb2025 02:21:43.117] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:point_of_interest_type
-[10Feb2025 02:21:43.118] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/creative_mode_tab
-[10Feb2025 02:21:43.120] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_nbt_provider_type
-[10Feb2025 02:21:43.121] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/instrument
-[10Feb2025 02:21:43.122] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_pool_element
-[10Feb2025 02:21:43.146] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/biome
-[10Feb2025 02:21:43.149] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
-[10Feb2025 02:21:43.151] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/tree_decorator_type
-[10Feb2025 02:21:43.152] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:potion
-[10Feb2025 02:21:43.153] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:particle_type
-[10Feb2025 02:21:43.154] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:recipe_type
-[10Feb2025 02:21:43.155] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/villager_type
-[10Feb2025 02:21:43.156] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_test
-[10Feb2025 02:21:43.159] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/trunk_placer_type
-[10Feb2025 02:21:43.162] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry forge:fluid_type
-[10Feb2025 02:21:43.163] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placement_modifier_type
-[10Feb2025 02:21:43.165] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placed_feature
-[10Feb2025 02:21:43.166] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_condition
-[10Feb2025 02:21:43.167] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/trim_pattern
-[10Feb2025 02:21:43.168] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/processor_list
-[10Feb2025 02:21:43.171] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:mob_effect
-[10Feb2025 02:21:43.176] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/magic_paintings
-[10Feb2025 02:21:43.178] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/feature_size_type
-[10Feb2025 02:21:43.179] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:sensor_type
-[10Feb2025 02:21:43.180] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_feature
-[10Feb2025 02:21:43.181] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/frog_variant
-[10Feb2025 02:21:43.185] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/biome_layer_stack
-[10Feb2025 02:21:43.192] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:enchantment
-[10Feb2025 02:21:43.195] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/template_pool
-[10Feb2025 02:21:43.202] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_type
-[10Feb2025 02:21:43.203] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/cat_variant
-[10Feb2025 02:21:43.205] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/chunk_generator
-[10Feb2025 02:21:43.206] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_function_type
-[10Feb2025 02:21:43.214] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry forge:global_loot_modifier_serializers
-[10Feb2025 02:21:43.215] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension
-[10Feb2025 02:21:43.216] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/float_provider_type
-[10Feb2025 02:21:43.217] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/feature
-[10Feb2025 02:21:43.218] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/trim_material
-[10Feb2025 02:21:43.219] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/carver
-[10Feb2025 02:21:43.220] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/flat_level_generator_preset
-[10Feb2025 02:21:43.222] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/block_predicate_type
-[10Feb2025 02:21:43.223] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:activity
-[10Feb2025 02:21:43.224] [Worker-Main-2/INFO] [HammerLib/]: Built tags for registry minecraft:painting_variant
-[10Feb2025 02:21:43.239] [Worker-Main-3/INFO] [HammerLib/]: Built tags for registry minecraft:block
-[10Feb2025 02:21:43.240] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:item
-[10Feb2025 02:21:43.254] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
+[10Feb2025 17:46:59.447] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[10Feb2025 17:47:12.171] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[10Feb2025 17:47:14.623] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@26c99c33
+[10Feb2025 17:47:14.625] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@7c27c2b3
+[10Feb2025 17:47:14.626] [modloading-worker-0/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[10Feb2025 17:47:14.652] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/TileTestMachine; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.653] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/RecipeTestMachine; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.654] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/BlockTestMachine; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.656] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/WaterBottleReplacer; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.656] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/RemainingReplacerRegistrar; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.657] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/SourceTypesHL; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.657] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/RecipesHL; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.657] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/LevelActionTypesHL; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.658] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/ItemsHL; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.658] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/GearsHL; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.659] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/api/forge/ContainerAPI; from hammerlib to register it's stuff.
+[10Feb2025 17:47:14.659] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.net.Network
+[10Feb2025 17:47:14.733] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/TilesSF; from solarflux to register it's stuff.
+[10Feb2025 17:47:14.733] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/SolarPanelsSF; from solarflux to register it's stuff.
+[10Feb2025 17:47:14.733] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/solarflux/init/ItemsSF; from solarflux to register it's stuff.
+[10Feb2025 17:47:16.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Feb2025 17:47:16.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Feb2025 17:47:16.108] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Feb2025 17:47:16.109] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Feb2025 17:47:16.119] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Feb2025 17:47:16.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Feb2025 17:47:16.121] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Feb2025 17:47:16.122] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Feb2025 17:47:16.703] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[10Feb2025 17:47:17.524] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[10Feb2025 17:47:17.557] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[10Feb2025 17:47:17.557] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[10Feb2025 17:47:17.936] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Feb2025 17:47:19.210] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[10Feb2025 17:47:25.644] [modloading-worker-0/INFO] [HammerLib/]: Setup HammerLib networking!
+[10Feb2025 17:47:25.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[10Feb2025 17:47:26.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[10Feb2025 17:47:26.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Starting version check at https://api.modrinth.com/updates/PlkSuVtM/forge_updates.json
+[10Feb2025 17:47:26.451] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined constant(0xFFFFFF0F) foil provider
+[10Feb2025 17:47:26.452] [modloading-worker-0/INFO] [HammerLib/]: Performed registerFoil from hammerlib. Determined dynamic(org.zeith.hammerlib.client.CustomFoilConfigs$$Lambda$14557/0x0000794999af6be8@63962d70) foil provider
+[10Feb2025 17:47:26.465] [modloading-worker-0/INFO] [org.zeith.solarflux.SolarFlux/]: Registered 8 upgrades for Solar Panels.
+[10Feb2025 17:47:26.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Found status: AHEAD Current: 20.1.48 Target: null
+[10Feb2025 17:47:26.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solarflux] Starting version check at https://api.modrinth.com/updates/4QG5lev4/forge_updates.json
+[10Feb2025 17:47:26.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [solarflux] Found status: UP_TO_DATE Current: 20.1.8 Target: null
+[10Feb2025 17:47:26.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[10Feb2025 17:47:26.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[10Feb2025 17:47:26.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[10Feb2025 17:47:27.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[10Feb2025 17:47:27.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[10Feb2025 17:47:27.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[10Feb2025 17:47:27.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/b916e3981957f1e6f2de99ea0aa328fa/raw
+[10Feb2025 17:47:27.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pizzacraft] Found status: UP_TO_DATE Current: 7.0.8 Target: null
+[10Feb2025 17:47:27.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Feb2025 17:47:27.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[10Feb2025 17:47:27.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[10Feb2025 17:47:27.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[10Feb2025 17:47:27.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[10Feb2025 17:47:27.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.1 Target: null
+[10Feb2025 17:47:35.664] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Feb2025 17:47:41.217] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[10Feb2025 17:47:41.218] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[10Feb2025 17:47:43.867] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Feb2025 17:47:43.899] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:recipe_serializer
+[10Feb2025 17:47:43.910] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/decorated_pot_patterns
+[10Feb2025 17:47:43.917] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:enchantment
+[10Feb2025 17:47:43.920] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:activity
+[10Feb2025 17:47:43.946] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/damage_type
+[10Feb2025 17:47:43.948] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/biome_source
+[10Feb2025 17:47:43.955] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_carver
+[10Feb2025 17:47:43.958] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension
+[10Feb2025 17:47:43.960] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/wood_palettes
+[10Feb2025 17:47:43.961] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/creative_mode_tab
+[10Feb2025 17:47:43.963] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/world_preset
+[10Feb2025 17:47:43.964] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placed_feature
+[10Feb2025 17:47:43.965] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/float_provider_type
+[10Feb2025 17:47:43.966] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_type
+[10Feb2025 17:47:43.973] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_set
+[10Feb2025 17:47:43.975] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:block_entity_type
+[10Feb2025 17:47:43.977] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/restrictions
+[10Feb2025 17:47:43.978] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:villager_profession
+[10Feb2025 17:47:43.979] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:schedule
+[10Feb2025 17:47:43.980] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:chunk_status
+[10Feb2025 17:47:43.981] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry forge:entity_data_serializers
+[10Feb2025 17:47:43.983] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/pos_rule_test
+[10Feb2025 17:47:43.984] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry forge:fluid_type
+[10Feb2025 17:47:43.985] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/trunk_placer_type
+[10Feb2025 17:47:43.986] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_processor
+[10Feb2025 17:47:43.987] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/root_placer_type
+[10Feb2025 17:47:43.989] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:memory_module_type
+[10Feb2025 17:47:43.990] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_score_provider_type
+[10Feb2025 17:47:43.993] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/banner_pattern
+[10Feb2025 17:47:43.994] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:menu
+[10Feb2025 17:47:43.996] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/instrument
+[10Feb2025 17:47:43.997] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_condition
+[10Feb2025 17:47:44.001] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:fluid
+[10Feb2025 17:47:44.003] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/flat_level_generator_preset
+[10Feb2025 17:47:44.004] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:sensor_type
+[10Feb2025 17:47:44.005] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/lionfishapi/modded_biome_slices
+[10Feb2025 17:47:44.008] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_test
+[10Feb2025 17:47:44.009] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:sound_event
+[10Feb2025 17:47:44.011] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise_settings
+[10Feb2025 17:47:44.012] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/foliage_placer_type
+[10Feb2025 17:47:44.014] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_function_type
+[10Feb2025 17:47:44.015] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:command_argument_type
+[10Feb2025 17:47:44.016] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:attribute
+[10Feb2025 17:47:44.018] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/carver
+[10Feb2025 17:47:44.019] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/villager_type
+[10Feb2025 17:47:44.021] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_feature
+[10Feb2025 17:47:44.022] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/position_source_type
+[10Feb2025 17:47:44.024] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/biome_layer_stack
+[10Feb2025 17:47:44.025] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry forge:global_loot_modifier_serializers
+[10Feb2025 17:47:44.027] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/int_provider_type
+[10Feb2025 17:47:44.028] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:potion
+[10Feb2025 17:47:44.030] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:painting_variant
+[10Feb2025 17:47:44.032] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_block_entity_modifier
+[10Feb2025 17:47:44.033] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/twilight/magic_paintings
+[10Feb2025 17:47:44.035] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/feature_size_type
+[10Feb2025 17:47:44.036] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/multi_noise_biome_source_parameter_list
+[10Feb2025 17:47:44.038] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/feature
+[10Feb2025 17:47:44.039] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/block_predicate_type
+[10Feb2025 17:47:44.041] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry twilightforest:dwarf_rabbit_variant
+[10Feb2025 17:47:44.042] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_number_provider_type
+[10Feb2025 17:47:44.067] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/biome
+[10Feb2025 17:47:44.071] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[10Feb2025 17:47:44.084] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_placement
+[10Feb2025 17:47:44.087] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise
+[10Feb2025 17:47:44.089] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/chat_type
+[10Feb2025 17:47:44.094] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/height_provider_type
+[10Feb2025 17:47:44.097] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placement_modifier_type
+[10Feb2025 17:47:44.099] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/tree_decorator_type
+[10Feb2025 17:47:44.102] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/forge/structure_modifier
+[10Feb2025 17:47:44.104] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:mob_effect
+[10Feb2025 17:47:44.106] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_nbt_provider_type
+[10Feb2025 17:47:44.295] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:block
+[10Feb2025 17:47:44.351] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry twilightforest:tiny_bird_variant
+[10Feb2025 17:47:44.354] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/processor_list
+[10Feb2025 17:47:44.356] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_pool_entry_type
+[10Feb2025 17:47:44.358] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_pool_element
+[10Feb2025 17:47:44.362] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/game_events
+[10Feb2025 17:47:44.364] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:worldgen/block_state_provider_type
+[10Feb2025 17:47:44.370] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure
+[10Feb2025 17:47:44.372] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/custom_stat
+[10Feb2025 17:47:44.374] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/trim_material
+[10Feb2025 17:47:44.375] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:particle_type
+[10Feb2025 17:47:44.377] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:point_of_interest_type
+[10Feb2025 17:47:44.379] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_rule
+[10Feb2025 17:47:44.479] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:item
+[10Feb2025 17:47:44.489] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag eldritch_end:etyr_armor as it is missing following references: samurai_dynasty:etyrite_samurai_helmet (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_chestplate (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_leggings (from samurai_dynasty-0.0.48-1.20.1-neo.jar), 
 	samurai_dynasty:etyrite_samurai_boots (from samurai_dynasty-0.0.48-1.20.1-neo.jar)
-[10Feb2025 02:21:44.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
-[10Feb2025 02:21:44.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
-[10Feb2025 02:21:44.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
-[10Feb2025 02:21:44.514] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[10Feb2025 02:21:44.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
-[10Feb2025 02:21:44.536] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
-[10Feb2025 02:21:44.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
-[10Feb2025 02:21:44.550] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
+[10Feb2025 17:47:44.499] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function_type
+[10Feb2025 17:47:44.503] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/trim_pattern
+[10Feb2025 17:47:44.505] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_piece
+[10Feb2025 17:47:44.508] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/frog_variant
+[10Feb2025 17:47:44.510] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function
+[10Feb2025 17:47:44.512] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_condition_type
+[10Feb2025 17:47:44.530] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:entity_type
+[10Feb2025 17:47:44.534] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/cat_variant
+[10Feb2025 17:47:44.535] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/forge/biome_modifier
+[10Feb2025 17:47:44.538] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/template_pool
+[10Feb2025 17:47:44.539] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:stat_type
+[10Feb2025 17:47:44.540] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension_type
+[10Feb2025 17:47:44.543] [Worker-Main-1/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/chunk_generator
+[10Feb2025 17:47:44.545] [Worker-Main-1/INFO] [HammerLib/]: Built tags for registry minecraft:recipe_type
+[10Feb2025 17:47:46.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_chestplate_ritual as it's serializer returned null
+[10Feb2025 17:47:46.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_chestplate as it's serializer returned null
+[10Feb2025 17:47:46.520] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_boots as it's serializer returned null
+[10Feb2025 17:47:46.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[10Feb2025 17:47:46.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_boots as it's serializer returned null
+[10Feb2025 17:47:46.549] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_chestplate_array as it's serializer returned null
+[10Feb2025 17:47:46.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_helmet as it's serializer returned null
+[10Feb2025 17:47:46.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_amethyst_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -278,11 +278,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_amethyst
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
-[10Feb2025 02:21:44.573] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
-[10Feb2025 02:21:44.581] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
-[10Feb2025 02:21:44.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
-[10Feb2025 02:21:44.600] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:samurai_guide
+[10Feb2025 17:47:46.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_chestplate as it's serializer returned null
+[10Feb2025 17:47:46.588] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_helmet as it's serializer returned null
+[10Feb2025 17:47:46.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_leggings_ritual as it's serializer returned null
+[10Feb2025 17:47:46.613] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_helmet_smithing as it's serializer returned null
+[10Feb2025 17:47:46.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:samurai_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -315,18 +315,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.611] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
-[10Feb2025 02:21:44.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
-[10Feb2025 02:21:44.622] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[10Feb2025 02:21:44.632] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[10Feb2025 02:21:44.637] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
-[10Feb2025 02:21:44.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
-[10Feb2025 02:21:44.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
-[10Feb2025 02:21:44.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
-[10Feb2025 02:21:44.655] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[10Feb2025 02:21:44.659] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
-[10Feb2025 02:21:44.667] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
-[10Feb2025 02:21:44.670] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
+[10Feb2025 17:47:46.636] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_helmet as it's serializer returned null
+[10Feb2025 17:47:46.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_helmet_ritual as it's serializer returned null
+[10Feb2025 17:47:46.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[10Feb2025 17:47:46.686] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[10Feb2025 17:47:46.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:dye_ars_nouveau_leggings as it's serializer returned null
+[10Feb2025 17:47:46.710] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_leggings as it's serializer returned null
+[10Feb2025 17:47:46.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_leggings as it's serializer returned null
+[10Feb2025 17:47:46.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:tyr_samurai_boots as it's serializer returned null
+[10Feb2025 17:47:46.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[10Feb2025 17:47:46.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_chestplate_smithing as it's serializer returned null
+[10Feb2025 17:47:46.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_leggings_array as it's serializer returned null
+[10Feb2025 17:47:46.736] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_netherite_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherite_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -359,7 +359,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_netherit
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.682] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[10Feb2025 17:47:46.757] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -397,7 +397,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.686] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
+[10Feb2025 17:47:46.767] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_quartz_samurai_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_samurai_helmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -430,7 +430,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.689] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[10Feb2025 17:47:46.774] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -459,7 +459,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.714] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[10Feb2025 17:47:46.817] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -492,10 +492,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
-[10Feb2025 02:21:44.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
-[10Feb2025 02:21:44.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
-[10Feb2025 02:21:44.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
+[10Feb2025 17:47:46.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:source_gem_samruai_boots_ritual as it's serializer returned null
+[10Feb2025 17:47:46.830] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_leggings_smithing as it's serializer returned null
+[10Feb2025 17:47:46.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:etyrite_samruai_boots_smithing as it's serializer returned null
+[10Feb2025 17:47:46.851] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe samurai_dynasty:mask_straw_hat
 com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_hat'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -528,13 +528,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[10Feb2025 02:21:44.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
-[10Feb2025 02:21:44.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
-[10Feb2025 02:21:44.743] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[10Feb2025 02:21:44.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[10Feb2025 02:21:44.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
-[10Feb2025 02:21:44.750] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[10Feb2025 17:47:46.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[10Feb2025 17:47:46.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_helmet as it's serializer returned null
+[10Feb2025 17:47:46.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:draco_samurai_chestplate as it's serializer returned null
+[10Feb2025 17:47:46.863] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[10Feb2025 17:47:46.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[10Feb2025 17:47:46.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe samurai_dynasty:living_samruai_boots_array as it's serializer returned null
+[10Feb2025 17:47:46.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.0-universal.jar%23176!/:?]
@@ -563,425 +563,88 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[10Feb2025 02:21:44.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[10Feb2025 02:21:44.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[10Feb2025 02:21:44.770] [main/ERROR] [HammerLib/]: Register attachment for RegisterRecipesEvent: org.zeith.hammerlib.core.test.HammerLibRecipeExtension.
-[10Feb2025 02:21:44.802] [main/INFO] [HammerLib/]: Reloading HammerLib recipes...
-[10Feb2025 02:21:44.802] [main/INFO] [HammerLib/]: HammerLib injected 49 recipes into recipe map. Removed 0 recipes from the game.
-[10Feb2025 02:21:44.816] [main/INFO] [HammerLib/]: Registered 49 additional recipes.
-[10Feb2025 02:21:44.818] [main/WARN] [HammerLib/]: Unable to find registry for tag directory tags/functions
-[10Feb2025 02:21:45.019] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3649 advancements
-[10Feb2025 02:21:45.038] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[10Feb2025 02:21:45.046] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[10Feb2025 02:21:45.050] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[10Feb2025 02:21:49.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10Feb2025 02:21:49.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Feb2025 02:21:49.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Feb2025 02:21:49.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Feb2025 02:21:49.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Feb2025 02:21:49.641] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Feb2025 02:21:49.735] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Feb2025 02:21:49.735] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Feb2025 02:21:49.736] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Feb2025 02:21:49.736] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Feb2025 02:21:49.975] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[10Feb2025 02:21:49.981] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[10Feb2025 02:21:49.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Feb2025 02:21:50.469] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:50.747] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:50.954] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:51.095] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:51.339] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:52.137] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:52.485] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:53.106] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:53.520] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:53.681] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:53.874] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Feb2025 02:21:56.706] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[10Feb2025 02:21:58.707] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:58.722] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:58.724] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:58.725] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:58.726] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:58.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:59.208] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:21:59.680] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:00.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:00.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:01.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:02.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:02.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:02.747] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:04.209] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:04.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:04.247] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Feb2025 02:22:04.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[10Feb2025 02:22:05.177] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[10Feb2025 02:22:05.524] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9347 ms
-[10Feb2025 02:22:05.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.769s)! For help, type "help"
-[10Feb2025 02:22:05.825] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Feb2025 02:22:08.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
-[10Feb2025 02:22:16.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:42377] logged in with entity id 99 at (114.96195647949693, 182.46384234296343, -1953.4165180293194)
-[10Feb2025 02:22:16.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
-[10Feb2025 02:22:16.678] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to alejandro946.
-[10Feb2025 02:22:36.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13463ms or 269 ticks behind
-[10Feb2025 02:22:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1160 block(s)]
-[10Feb2025 02:23:00.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 925 block(s)]
-[10Feb2025 02:23:11.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:51243] logged in with entity id 7980 at (162.89798970723888, 62.19680396185538, -2003.66708027189)
-[10Feb2025 02:23:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
-[10Feb2025 02:23:11.954] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
-[10Feb2025 02:23:16.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24890ms or 497 ticks behind
-[10Feb2025 02:23:26.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 1917 block(s)]
-[10Feb2025 02:23:33.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 316 block(s)]
-[10Feb2025 02:23:37.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 14 block(s)]
-[10Feb2025 02:23:49.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17789ms or 355 ticks behind
-[10Feb2025 02:23:53.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 726 block(s)]
-[10Feb2025 02:23:56.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 496 block(s)]
-[10Feb2025 02:23:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 618 block(s)]
-[10Feb2025 02:24:01.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 786 block(s)]
-[10Feb2025 02:24:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 585 block(s)]
-[10Feb2025 02:24:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 23 block(s)]
-[10Feb2025 02:24:18.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 12 block(s)]
-[10Feb2025 02:24:18.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:50401] logged in with entity id 8290 at (174.52062782615545, 62.64899061012195, -2013.0688557235658)
-[10Feb2025 02:24:19.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
-[10Feb2025 02:24:19.291] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
-[10Feb2025 02:24:20.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16327ms or 326 ticks behind
-[10Feb2025 02:24:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 84 block(s)]
-[10Feb2025 02:24:23.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 12 block(s)]
-[10Feb2025 02:24:29.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 3120 block(s)]
-[10Feb2025 02:24:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 4012 block(s)]
-[10Feb2025 02:24:34.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 7415 block(s)]
-[10Feb2025 02:24:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 5354 block(s)]
-[10Feb2025 02:24:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 7002 block(s)]
-[10Feb2025 02:24:38.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 5250 block(s)]
-[10Feb2025 02:24:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 4660 block(s)]
-[10Feb2025 02:24:41.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 7081 block(s)]
-[10Feb2025 02:24:43.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 4043 block(s)]
-[10Feb2025 02:24:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 134 block(s)]
-[10Feb2025 02:24:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 164 block(s)]
-[10Feb2025 02:24:59.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23476ms or 469 ticks behind
-[10Feb2025 02:25:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 198 block(s)]
-[10Feb2025 02:25:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 515 block(s)]
-[10Feb2025 02:25:12.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 2100 block(s)]
-[10Feb2025 02:25:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 254 block(s)]
-[10Feb2025 02:25:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 965 block(s)]
-[10Feb2025 02:25:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 596 block(s)]
-[10Feb2025 02:25:22.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 318 block(s)]
-[10Feb2025 02:25:28.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 62 block(s)]
-[10Feb2025 02:25:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 50 block(s)]
-[10Feb2025 02:25:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 22 block(s)]
-[10Feb2025 02:25:40.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25820ms or 516 ticks behind
-[10Feb2025 02:25:40.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 46 block(s)]
-[10Feb2025 02:25:44.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 41 block(s)]
-[10Feb2025 02:25:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10Feb2025 02:25:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 02:25:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 02:25:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 02:26:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10Feb2025 02:26:06.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 02:26:13.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <peter_rola14> borrren entidad
-[10Feb2025 02:26:21.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26488ms or 529 ticks behind
-[10Feb2025 02:26:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Skeleton
-[10Feb2025 02:26:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
-[10Feb2025 02:27:00.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23520ms or 470 ticks behind
-[10Feb2025 02:27:37.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22681ms or 453 ticks behind
-[10Feb2025 02:28:12.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19365ms or 387 ticks behind
-[10Feb2025 02:28:42.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15707ms or 314 ticks behind
-[10Feb2025 02:29:12.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14295ms or 285 ticks behind
-[10Feb2025 02:29:38.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11860ms or 237 ticks behind
-[10Feb2025 02:30:04.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10502ms or 210 ticks behind
-[10Feb2025 02:30:28.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9335ms or 186 ticks behind
-[10Feb2025 02:30:53.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9950ms or 199 ticks behind
-[10Feb2025 02:31:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Killed 2884 entities]
-[10Feb2025 02:31:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [It's an Emu!!!]
-[10Feb2025 02:32:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 02:32:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 02:33:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Jennifer Dumped Me]
-[10Feb2025 02:34:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
-[10Feb2025 02:36:26.989] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 02:40:14.644] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 02:40:18.096] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 02:42:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Ol' Betsy]
-[10Feb2025 02:44:12.845] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 02:51:59.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! 8.749985022932776,0.0,-6.72262330156741
-[10Feb2025 02:57:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z drowned
-[10Feb2025 03:02:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 03:04:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 03:05:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sculk Engineer]
-[10Feb2025 03:06:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Sculk Engineer]
-[10Feb2025 03:08:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sculk Engineer]
-[10Feb2025 03:11:52.993] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:11:52.993] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:11:52.994] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
-[10Feb2025 03:21:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [What a Deal!]
-[10Feb2025 03:25:23.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Enchanter]
-[10Feb2025 03:26:20.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved wrongly!
-[10Feb2025 03:27:04.507] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
-[10Feb2025 03:27:04.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
-[10Feb2025 03:27:10.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-579, y=50, z=-1561} BlockPos{x=-579, y=51, z=-1561}
-[10Feb2025 03:27:14.493] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 03:29:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [You Are A Pirate]
-[10Feb2025 03:31:11.469] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
-[10Feb2025 03:34:14.659] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-3342, y=209, z=-4864}
-[10Feb2025 03:34:23.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 03:34:43.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Cloud Golem
-[10Feb2025 03:35:21.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:36:51.545] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[10Feb2025 03:36:51.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[10Feb2025 03:36:51.547] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[10Feb2025 03:36:54.859] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[10Feb2025 03:36:54.860] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[10Feb2025 03:38:12.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
-[10Feb2025 03:38:18.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:38:36.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
-[10Feb2025 03:38:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:38:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
-[10Feb2025 03:39:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:39:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Vindicator
-[10Feb2025 03:39:20.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -3.6514136374407826,0.0,-10.228089198261841
-[10Feb2025 03:39:24.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:41:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
-[10Feb2025 03:41:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:42:09.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Living Armor]
-[10Feb2025 03:42:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Haunted Knight
-[10Feb2025 03:42:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Undead Guard]
-[10Feb2025 03:46:25.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
-[10Feb2025 03:46:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:46:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:46:53.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:47:00.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
-[10Feb2025 03:47:00.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -1.1775289828283348,-1.0013359791121559,9.979378800229824
-[10Feb2025 03:47:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Posessed Paladin
-[10Feb2025 03:47:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:49:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:49:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
-[10Feb2025 03:49:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [All Along The Watchtower]
-[10Feb2025 03:49:48.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
-[10Feb2025 03:49:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [All Along The Watchtower]
-[10Feb2025 03:49:49.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [All Along The Watchtower]
-[10Feb2025 03:50:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was killed by Witch using magic
-[10Feb2025 03:50:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 03:51:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie Villager
-[10Feb2025 03:52:48.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 03:53:45.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -10.767299613424257,0.0,1.6122883153002476E-4
-[10Feb2025 03:54:51.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Adventure Mode]
-[10Feb2025 03:54:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 03:55:41.621] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 03:56:08.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4504, y=57, z=-6233} BlockPos{x=-4504, y=57, z=-6232}
-[10Feb2025 03:56:29.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4500, y=49, z=-6234} BlockPos{x=-4500, y=50, z=-6234}
-[10Feb2025 03:56:38.555] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 03:57:23.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4498, y=22, z=-6242} BlockPos{x=-4498, y=21, z=-6242}
-[10Feb2025 03:57:31.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4490, y=21, z=-6242} BlockPos{x=-4490, y=18, z=-6244}
-[10Feb2025 03:57:33.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4492, y=17, z=-6246} BlockPos{x=-4493, y=18, z=-6248}
-[10Feb2025 03:57:36.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4486, y=15, z=-6252} BlockPos{x=-4485, y=15, z=-6252}
-[10Feb2025 03:57:36.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4486, y=15, z=-6252} BlockPos{x=-4484, y=14, z=-6252}
-[10Feb2025 03:57:46.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4482, y=14, z=-6254} BlockPos{x=-4483, y=14, z=-6254}
-[10Feb2025 03:58:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
-[10Feb2025 03:58:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 03:58:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:58:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:59:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:59:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:59:09.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:59:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:59:18.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:59:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
-[10Feb2025 03:59:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
-[10Feb2025 03:59:30.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [The Fallen Knight]
-[10Feb2025 04:00:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 04:02:47.124] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_mech_located (cataclysm:ancient_factory) took 0 ms
-[10Feb2025 04:03:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 04:03:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
-[10Feb2025 04:04:48.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6916} BlockPos{x=-8071, y=270, z=-6916}
-[10Feb2025 04:04:48.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6916} BlockPos{x=-8071, y=270, z=-6916}
-[10Feb2025 04:04:48.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6915} BlockPos{x=-8071, y=270, z=-6916}
-[10Feb2025 04:05:13.707] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:05:52.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to peter_rola14]
-[10Feb2025 04:06:04.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8060, y=269, z=-6918} BlockPos{x=-8060, y=268, z=-6918}
-[10Feb2025 04:06:04.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8060, y=269, z=-6918} BlockPos{x=-8060, y=268, z=-6918}
-[10Feb2025 04:06:15.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8061, y=269, z=-6919} BlockPos{x=-8062, y=269, z=-6920}
-[10Feb2025 04:06:22.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6924} BlockPos{x=-8072, y=268, z=-6925}
-[10Feb2025 04:06:22.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6924} BlockPos{x=-8072, y=268, z=-6925}
-[10Feb2025 04:06:22.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
-[10Feb2025 04:06:26.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8076, y=267, z=-6924} BlockPos{x=-8075, y=267, z=-6922}
-[10Feb2025 04:06:26.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=267, z=-6923} BlockPos{x=-8076, y=266, z=-6923}
-[10Feb2025 04:06:26.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=267, z=-6923} BlockPos{x=-8076, y=266, z=-6923}
-[10Feb2025 04:06:28.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:29.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=263, z=-6931} BlockPos{x=-8073, y=263, z=-6929}
-[10Feb2025 04:06:31.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:31.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=262, z=-6934} BlockPos{x=-8070, y=263, z=-6934}
-[10Feb2025 04:06:33.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=261, z=-6933} BlockPos{x=-8071, y=259, z=-6933}
-[10Feb2025 04:06:40.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=255, z=-6930} BlockPos{x=-8078, y=254, z=-6931}
-[10Feb2025 04:06:40.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8078, y=254, z=-6931}
-[10Feb2025 04:06:42.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:42.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:42.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:42.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:42.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:42.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
-[10Feb2025 04:06:49.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:49.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
-[10Feb2025 04:06:51.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:51.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:52.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
-[10Feb2025 04:06:53.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
-[10Feb2025 04:06:53.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
-[10Feb2025 04:06:53.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
-[10Feb2025 04:07:03.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=246, z=-6934} BlockPos{x=-8077, y=247, z=-6933}
-[10Feb2025 04:07:23.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8090, y=242, z=-6935} BlockPos{x=-8089, y=242, z=-6936}
-[10Feb2025 04:07:40.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8088, y=247, z=-6931} BlockPos{x=-8087, y=247, z=-6930}
-[10Feb2025 04:07:40.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8088, y=247, z=-6931} BlockPos{x=-8087, y=247, z=-6930}
-[10Feb2025 04:07:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Ancient Civilization]
-[10Feb2025 04:07:46.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Ancient Civilization]
-[10Feb2025 04:08:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
-[10Feb2025 04:08:00.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Ancient Civilization]
-[10Feb2025 04:09:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Sculk Cymbal]
-[10Feb2025 04:10:06.715] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:10:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Warden
-[10Feb2025 04:10:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
-[10Feb2025 04:11:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
-[10Feb2025 04:11:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
-[10Feb2025 04:11:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
-[10Feb2025 04:11:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Warden
-[10Feb2025 04:11:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
-[10Feb2025 04:13:44.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by The Prowler 's laser
-[10Feb2025 04:13:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
-[10Feb2025 04:17:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Spooky Scary Skeleton]
-[10Feb2025 04:17:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Spooky Scary Skeleton]
-[10Feb2025 04:19:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10Feb2025 04:19:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:20:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10Feb2025 04:20:10.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:20:44.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Hidden in the Depths]
-[10Feb2025 04:21:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
-[10Feb2025 04:21:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:23:59.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Mending to alejandro946's item]
-[10Feb2025 04:25:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Nether Star] to alejandro946]
-[10Feb2025 04:25:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z withered away whilst fighting The Harbinger
-[10Feb2025 04:26:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was exterminated by The Harbinger 's laser
-[10Feb2025 04:26:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by The Harbinger 's laser
-[10Feb2025 04:26:47.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [The Thing of Ancient Civilization]
-[10Feb2025 04:26:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 withered away
-[10Feb2025 04:26:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was blown up by The Harbinger
-[10Feb2025 04:28:18.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/95574, l='ServerLevel[world]', x=-8471.50, y=-22.00, z=-6977.50]
-[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95575, l='ServerLevel[world]', x=-8469.50, y=-22.00, z=-6977.50]
-[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95576, l='ServerLevel[world]', x=-8472.50, y=-22.00, z=-6975.50]
-[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95577, l='ServerLevel[world]', x=-8472.50, y=-22.00, z=-6979.50]
-[10Feb2025 04:28:22.521] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:28:37.143] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:28:40.840] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:31:51.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Meat Shredder] to alejandro946]
-[10Feb2025 04:31:51.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Meat Shredder] to alejandro946]
-[10Feb2025 04:32:16.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was shattered by alejandro946
-[10Feb2025 04:33:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Infernal Forge] to alejandro946]
-[10Feb2025 04:34:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:34:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:34:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Ignitium Chestplate] to alejandro946]
-[10Feb2025 04:34:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Elytra] to alejandro946]
-[10Feb2025 04:34:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Sky's the Limit]
-[10Feb2025 04:35:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:35:17.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:35:50.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:35:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:36:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Ignitium Elytra Chestplate] to alejandro946]
-[10Feb2025 04:36:23.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:37:02.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:37:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by Och8Z 's laser
-[10Feb2025 04:37:35.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [The Immolator] to alejandro946]
-[10Feb2025 04:37:40.593] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:37:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was exterminated by Och8Z 's laser
-[10Feb2025 04:37:51.341] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:38:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [The Immolator] to alejandro946]
-[10Feb2025 04:38:15.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved wrongly!
-[10Feb2025 04:38:41.539] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:38:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:38:56.339] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:38:58.891] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Feb2025 04:39:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:39:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Och8Z
-[10Feb2025 04:39:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
-[10Feb2025 04:41:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
-[10Feb2025 04:41:33.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
-[10Feb2025 04:41:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
-[10Feb2025 04:41:45.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
-[10Feb2025 04:41:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
-[10Feb2025 04:41:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[10Feb2025 04:41:53.637] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
-[10Feb2025 04:41:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Feb2025 04:41:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Feb2025 04:41:53.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Feb2025 04:41:54.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Feb2025 04:41:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[10Feb2025 04:41:55.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Feb2025 04:41:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Feb2025 04:41:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[10Feb2025 04:41:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Feb2025 04:41:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Feb2025 17:47:46.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[10Feb2025 17:47:46.899] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[10Feb2025 17:47:46.912] [main/ERROR] [HammerLib/]: Register attachment for RegisterRecipesEvent: org.zeith.hammerlib.core.test.HammerLibRecipeExtension.
+[10Feb2025 17:47:46.953] [main/INFO] [HammerLib/]: Reloading HammerLib recipes...
+[10Feb2025 17:47:46.954] [main/INFO] [HammerLib/]: HammerLib injected 49 recipes into recipe map. Removed 0 recipes from the game.
+[10Feb2025 17:47:46.975] [main/INFO] [HammerLib/]: Registered 49 additional recipes.
+[10Feb2025 17:47:46.977] [main/WARN] [HammerLib/]: Unable to find registry for tag directory tags/functions
+[10Feb2025 17:47:47.293] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3649 advancements
+[10Feb2025 17:47:47.318] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[10Feb2025 17:47:47.327] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[10Feb2025 17:47:47.372] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[10Feb2025 17:47:51.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Feb2025 17:47:51.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Feb2025 17:47:51.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Feb2025 17:47:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Feb2025 17:47:52.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Feb2025 17:47:52.304] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Feb2025 17:47:52.438] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Feb2025 17:47:52.439] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Feb2025 17:47:52.440] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Feb2025 17:47:52.441] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Feb2025 17:47:52.756] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[10Feb2025 17:47:52.774] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[10Feb2025 17:47:52.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Feb2025 17:48:05.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Feb2025 17:48:18.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.420] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.425] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.436] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.441] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.448] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.451] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.492] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.518] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.525] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.536] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:18.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:19.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:19.744] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:20.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:20.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Feb2025 17:48:21.575] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16334 ms
+[10Feb2025 17:48:21.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.116s)! For help, type "help"
+[10Feb2025 17:48:21.702] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Feb2025 17:48:24.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[10Feb2025 17:49:55.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@42c0d377[id=<null>,name=Och8Z,properties={},legacy=false] (/127.27.2.94:59647): Took too long to log in
+[10Feb2025 17:49:55.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42c0d377[id=<null>,name=Och8Z,properties={},legacy=false] (/127.27.2.94:59647) lost connection: Took too long to log in
+[10Feb2025 17:49:55.404] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 17:50:39.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38ba30b3[id=<null>,name=Och8Z,properties={},legacy=false] (/127.27.2.94:58527) lost connection: Disconnected
+[10Feb2025 17:51:11.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:51439] logged in with entity id 90 at (-8441.382556904075, -25.0, -6901.86565664479)
+[10Feb2025 17:51:11.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10Feb2025 17:51:11.356] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[10Feb2025 17:51:16.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
+[10Feb2025 17:51:34.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[10Feb2025 17:51:47.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 17:51:47.956] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[10Feb2025 17:51:47.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 17:51:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 17:51:50.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Feb2025 17:51:52.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Feb2025 17:51:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Feb2025 17:51:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Feb2025 17:51:52.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Feb2025 17:51:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Feb2025 17:51:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Feb2025 17:51:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 17:51:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 17:51:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 17:51:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
