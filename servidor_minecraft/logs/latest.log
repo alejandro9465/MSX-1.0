@@ -776,3 +776,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 19:59:25.568] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
 [10Feb2025 20:02:26.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
 [10Feb2025 20:02:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[10Feb2025 20:03:24.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:34849] logged in with entity id 47929 at (-1734.263283958832, -53.834777246681774, 145.69999998807907)
+[10Feb2025 20:03:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10Feb2025 20:03:24.125] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[10Feb2025 20:05:19.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z drowned
+[10Feb2025 20:05:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was shot by Skeleton
