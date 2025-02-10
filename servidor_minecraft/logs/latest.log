@@ -844,3 +844,21 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 21:39:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
 [10Feb2025 21:39:24.603] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
 [10Feb2025 21:41:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
+[10Feb2025 21:48:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Complex Curiosities]
+[10Feb2025 21:50:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Complex Curiosities]
+[10Feb2025 21:57:30.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [The Brass Age]
+[10Feb2025 21:57:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas has made the advancement [The Parrots and the Bats]
+[10Feb2025 21:59:56.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -1.7763259414087713,0.756759288177264,9.905622829430968
+[10Feb2025 21:59:57.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas moved too quickly! -6.4239179540286955,1.0244240882136921,-7.977355409817392
+[10Feb2025 22:00:01.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[10Feb2025 22:00:01.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[10Feb2025 22:00:21.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Timed out
+[10Feb2025 22:00:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[10Feb2025 22:00:26.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas lost connection: Timed out
+[10Feb2025 22:00:26.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas left the game
+[10Feb2025 22:01:15.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:58013] logged in with entity id 91934 at (-200.03351886839667, 81.0, -1332.699999988079)
+[10Feb2025 22:01:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[10Feb2025 22:01:15.452] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to alejandro946.
+[10Feb2025 22:01:28.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:60849] logged in with entity id 92365 at (-122.28128228068609, 76.49520087700593, -1463.7959653781506)
+[10Feb2025 22:01:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
+[10Feb2025 22:01:28.534] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
