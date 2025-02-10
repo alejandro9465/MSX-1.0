@@ -7892,6 +7892,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-02-10 21:15:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-02-10 20:47:08 +0000"
@@ -7913,6 +7919,12 @@
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-02-10 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-10 21:28:42 +0000"
     },
     "done": true
   },
@@ -7979,6 +7991,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-10 21:03:30 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-10 21:37:58 +0000"
     },
     "done": true
   },
@@ -8054,6 +8072,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-02-10 21:26:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-02-10 21:03:30 +0000"
@@ -8103,6 +8127,12 @@
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-10 21:28:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-02-10 20:47:08 +0000"
@@ -8133,6 +8163,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-02-10 21:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-10 20:23:07 +0000"
@@ -8160,6 +8196,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-02-10 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-10 21:28:42 +0000"
     },
     "done": true
   },

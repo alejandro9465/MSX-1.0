@@ -986,6 +986,7 @@
       "minecraft:spider": "2025-02-06 20:14:12 +0000",
       "minecraft:piglin_brute": "2025-02-07 20:19:45 +0000",
       "minecraft:creeper": "2025-02-06 20:55:37 +0000",
+      "minecraft:phantom": "2025-02-10 21:21:29 +0000",
       "minecraft:witch": "2025-02-07 01:12:49 +0000",
       "minecraft:wither_skeleton": "2025-02-07 02:12:58 +0000",
       "minecraft:husk": "2025-02-06 21:25:29 +0000",
@@ -7273,6 +7274,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-02-10 21:21:29 +0000",
       "warden": "2025-02-09 23:18:44 +0000"
     },
     "done": false
@@ -8633,9 +8635,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-10 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
     },
     "done": true
   },
@@ -8660,6 +8674,12 @@
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-02-10 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-10 21:16:07 +0000"
     },
     "done": true
   },
@@ -8693,6 +8713,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-02-10 20:20:24 +0000"
@@ -8717,9 +8743,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-10 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-10 21:28:45 +0000"
     },
     "done": true
   },
@@ -8732,6 +8770,12 @@
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-10 20:22:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
     },
     "done": true
   },
@@ -8801,6 +8845,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-02-10 20:22:01 +0000"
@@ -8822,6 +8872,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-02-10 20:19:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-02-10 21:28:58 +0000"
     },
     "done": true
   },
@@ -8849,9 +8905,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-10 21:41:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
     "criteria": {
       "has_waxed_cut_copper": "2025-02-10 20:18:50 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-10 21:29:32 +0000"
     },
     "done": true
   },
@@ -8921,6 +9001,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-02-10 21:19:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-10 20:19:42 +0000"
@@ -8930,6 +9016,12 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2025-02-10 20:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-10 21:41:45 +0000"
     },
     "done": true
   },
@@ -8976,6 +9068,12 @@
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-10 21:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-02-10 20:22:01 +0000"
@@ -8991,6 +9089,24 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-10 20:19:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-10 21:41:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-10 21:16:07 +0000"
     },
     "done": true
   },
@@ -9036,6 +9152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-10 21:41:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-02-10 20:18:19 +0000"
@@ -9057,6 +9179,18 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-02-10 20:50:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-02-10 21:19:21 +0000"
     },
     "done": true
   },
@@ -9096,6 +9230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-10 21:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-02-10 20:18:50 +0000"
@@ -9120,15 +9260,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-02-10 20:19:42 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-02-10 21:28:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2025-02-10 20:18:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-02-10 21:16:07 +0000"
     },
     "done": true
   },
@@ -9147,6 +9305,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-02-10 20:19:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-10 21:28:58 +0000"
     },
     "done": true
   },

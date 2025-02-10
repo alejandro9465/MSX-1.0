@@ -414,6 +414,7 @@
       "minecraft:skeleton": "2025-02-06 20:14:59 +0000",
       "minecraft:spider": "2025-02-06 21:58:55 +0000",
       "minecraft:creeper": "2025-02-07 01:31:49 +0000",
+      "minecraft:witch": "2025-02-10 21:22:16 +0000",
       "minecraft:wither_skeleton": "2025-02-07 03:12:20 +0000",
       "minecraft:husk": "2025-02-06 21:33:24 +0000",
       "minecraft:cave_spider": "2025-02-07 03:04:57 +0000",
@@ -4261,15 +4262,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-10 20:34:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-02-10 20:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-10 20:34:08 +0000"
     },
     "done": true
   },

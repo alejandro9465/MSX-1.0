@@ -835,3 +835,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 21:01:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
 [10Feb2025 21:06:03.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
 [10Feb2025 21:08:11.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was blown up by Creeper
+[10Feb2025 21:22:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
+[10Feb2025 21:36:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
+[10Feb2025 21:36:24.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas lost connection: Disconnected
+[10Feb2025 21:36:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas left the game
+[10Feb2025 21:39:01.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fdb6c1e[id=<null>,name=Dercsas,properties={},legacy=false] (/127.172.56.231:53515) lost connection: Disconnected
+[10Feb2025 21:39:24.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:55787] logged in with entity id 85058 at (-211.28079039868084, 85.72860926093821, -1329.649580033744)
+[10Feb2025 21:39:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
+[10Feb2025 21:39:24.603] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
+[10Feb2025 21:41:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
