@@ -862,3 +862,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 22:01:28.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:60849] logged in with entity id 92365 at (-122.28128228068609, 76.49520087700593, -1463.7959653781506)
 [10Feb2025 22:01:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
 [10Feb2025 22:01:28.534] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
+[10Feb2025 22:05:48.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:45919] logged in with entity id 93875 at (-206.35565355076832, 83.0, -1291.7233246175015)
+[10Feb2025 22:05:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10Feb2025 22:05:48.841] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[10Feb2025 22:09:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gamerule doInsomnia is now set to: false]
