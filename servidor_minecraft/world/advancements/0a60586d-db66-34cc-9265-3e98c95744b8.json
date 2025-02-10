@@ -8253,6 +8253,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-02-10 22:55:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-02-10 22:13:29 +0000"
@@ -8331,6 +8337,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-02-10 22:55:18 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-02-10 22:28:08 +0000"
@@ -8367,6 +8379,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-10 22:55:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/stockpile_switch": {
     "criteria": {
       "has_item": "2025-02-10 22:14:28 +0000"
@@ -8385,9 +8403,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-02-10 22:55:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-02-10 22:14:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-02-10 22:55:18 +0000"
     },
     "done": true
   },
@@ -8418,6 +8448,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-02-10 22:14:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-10 22:55:18 +0000"
     },
     "done": true
   },
