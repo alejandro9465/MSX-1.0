@@ -802,3 +802,33 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 20:22:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Dercsas to alejandro946]
 [10Feb2025 20:23:19.713] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/ifrm.nbt
 [10Feb2025 20:25:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Bonk!]
+[10Feb2025 20:39:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Nightmare Fuel]
+[10Feb2025 20:40:17.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-577, y=36, z=-126} BlockPos{x=-578, y=35, z=-126}
+[10Feb2025 20:41:11.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=40, z=-28} BlockPos{x=-651, y=39, z=-28}
+[10Feb2025 20:42:00.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [A Voltanic Place]
+[10Feb2025 20:42:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [Fiery Beast]
+[10Feb2025 20:43:45.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-960, y=45, z=165} BlockPos{x=-961, y=45, z=165}
+[10Feb2025 20:46:05.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved wrongly!
+[10Feb2025 20:46:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [The Soul Eater]
+[10Feb2025 20:48:22.312] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Feb2025 20:48:22.313] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Feb2025 20:49:27.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:27.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:49:28.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Feb2025 20:50:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [The Soul Forge]
+[10Feb2025 20:51:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Fetch Me Their Souls!]
+[10Feb2025 20:53:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
