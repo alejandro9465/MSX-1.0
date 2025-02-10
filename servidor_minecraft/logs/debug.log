@@ -8298,3 +8298,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 21:01:57.269] [Server thread/DEBUG] [twilightforest/]: Player Dercsas (e7c2df16-791a-3de2-8f19-13bc9f7b33e2) respawned and received items held in storage
 [10Feb2025 21:02:43.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Feb2025 21:02:43.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 21:06:03.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was shot by Skeleton
+[10Feb2025 21:06:04.293] [Server thread/DEBUG] [twilightforest/]: Player Dercsas (e7c2df16-791a-3de2-8f19-13bc9f7b33e2) respawned and received items held in storage
+[10Feb2025 21:07:43.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 21:07:43.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 21:08:11.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas was blown up by Creeper
+[10Feb2025 21:08:14.431] [Server thread/DEBUG] [twilightforest/]: Player Dercsas (e7c2df16-791a-3de2-8f19-13bc9f7b33e2) respawned and received items held in storage
+[10Feb2025 21:12:43.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 21:12:43.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

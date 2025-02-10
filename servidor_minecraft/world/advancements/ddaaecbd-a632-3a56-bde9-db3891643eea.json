@@ -8855,6 +8855,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-10 21:06:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-02-10 20:19:42 +0000"
@@ -8965,9 +8971,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-02-10 21:05:01 +0000",
       "1": "2025-02-10 21:01:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
