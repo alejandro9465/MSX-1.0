@@ -705,3 +705,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 02:40:18.096] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [10Feb2025 02:42:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Ol' Betsy]
 [10Feb2025 02:44:12.845] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 02:51:59.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! 8.749985022932776,0.0,-6.72262330156741
+[10Feb2025 02:57:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z drowned
+[10Feb2025 03:02:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 03:04:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 03:05:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sculk Engineer]
+[10Feb2025 03:06:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Sculk Engineer]
+[10Feb2025 03:08:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Sculk Engineer]
