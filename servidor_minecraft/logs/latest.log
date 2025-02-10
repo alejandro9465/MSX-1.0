@@ -632,3 +632,118 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 18:39:22.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8407, y=-26, z=-6871} BlockPos{x=-8409, y=-26, z=-6872}
 [10Feb2025 18:39:25.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8412, y=-23, z=-6874} BlockPos{x=-8412, y=-24, z=-6873}
 [10Feb2025 18:40:02.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8404, y=-20, z=-6873} BlockPos{x=-8403, y=-19, z=-6872}
+[10Feb2025 18:41:10.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8426, y=-23, z=-6863} BlockPos{x=-8427, y=-22, z=-6863}
+[10Feb2025 18:41:24.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8432, y=-18, z=-6863} BlockPos{x=-8433, y=-18, z=-6863}
+[10Feb2025 18:42:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [It Spreads]
+[10Feb2025 18:45:44.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 18:46:04.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 18:47:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Stalker
+[10Feb2025 18:50:03.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 18:50:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 18:50:51.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Stalker
+[10Feb2025 18:51:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Jorogumo
+[10Feb2025 18:51:12.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:36111] logged in with entity id 6119 at (-8441.382556904075, -25.0, -6901.86565664479)
+[10Feb2025 18:51:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10Feb2025 18:51:12.103] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[10Feb2025 18:52:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ola
+[10Feb2025 18:52:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> helo
+[10Feb2025 18:52:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was obliterated by a sonically-charged shriek
+[10Feb2025 18:52:47.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> o
+[10Feb2025 18:53:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Double Or Nothing!]
+[10Feb2025 18:53:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [You Monster...]
+[10Feb2025 18:53:43.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> eh?
+[10Feb2025 18:54:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> e un bicho de diamante
+[10Feb2025 18:54:09.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> me dio 2
+[10Feb2025 18:54:15.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> o
+[10Feb2025 18:55:29.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Sculk Cymbal]
+[10Feb2025 18:55:38.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> q wea
+[10Feb2025 18:55:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Kitsune
+[10Feb2025 18:56:23.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Jorogumo
+[10Feb2025 18:56:47.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Kitsune
+[10Feb2025 18:57:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Kitsune
+[10Feb2025 18:58:59.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was obliterated by a sonically-charged shriek
+[10Feb2025 18:59:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Jorogumo
+[10Feb2025 19:00:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Jorogumo
+[10Feb2025 19:00:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> kmierda
+[10Feb2025 19:01:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> q paso
+[10Feb2025 19:01:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> tengo cuero de kitsune para 6 mascaras
+[10Feb2025 19:01:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> encontre toda la familia
+[10Feb2025 19:01:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> XD
+[10Feb2025 19:03:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was obliterated by a sonically-charged shriek
+[10Feb2025 19:04:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Jorogumo
+[10Feb2025 19:04:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> cada ve que muero aparecen 2 kitsune y 2 jorogumo
+[10Feb2025 19:04:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Jorogumo
+[10Feb2025 19:06:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
+[10Feb2025 19:06:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> me voy a la casa
+[10Feb2025 19:06:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> que le den
+[10Feb2025 19:06:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:06:42.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> okei
+[10Feb2025 19:06:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:07:10.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> rompo cama?
+[10Feb2025 19:07:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> se
+[10Feb2025 19:07:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z tried to swim in lava
+[10Feb2025 19:08:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 fell from a high place
+[10Feb2025 19:08:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> voy a explorar o vemos create
+[10Feb2025 19:08:33.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ?
+[10Feb2025 19:08:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> diria explorar
+[10Feb2025 19:08:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> quiero artefacto
+[10Feb2025 19:08:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
+[10Feb2025 19:13:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 19:13:09.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:13:14.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:13:15.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 19:13:35.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[10Feb2025 19:13:37.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! 3.3515261007121353,0.0,-25.88696751627718
+[10Feb2025 19:13:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:13:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 19:17:29.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:18:02.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 19:19:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:19:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:20:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 19:21:39.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:21:40.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 19:21:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:22:16.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[10Feb2025 19:22:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was doomed to fall by Skeleton
+[10Feb2025 19:23:04.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was blown up by Creeper
+[10Feb2025 19:23:18.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1124, y=32, z=365} BlockPos{x=-1123, y=33, z=365}
+[10Feb2025 19:23:22.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1140, y=30, z=365} BlockPos{x=-1135, y=30, z=365}
+[10Feb2025 19:23:29.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:29.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:29.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:29.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:29.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:30.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=28, z=368} BlockPos{x=-1163, y=27, z=368}
+[10Feb2025 19:23:32.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1163, y=24, z=370} BlockPos{x=-1163, y=20, z=370}
+[10Feb2025 19:25:21.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Ice Scream]
+[10Feb2025 19:27:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> mauri
+[10Feb2025 19:27:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> wat
+[10Feb2025 19:27:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> puedo volar
+[10Feb2025 19:28:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> pero muy lento
+[10Feb2025 19:28:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> ilegalisimo
+[10Feb2025 19:28:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> mira
+[10Feb2025 19:28:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> tepeame
+[10Feb2025 19:28:24.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> estoy perdido
+[10Feb2025 19:28:29.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
+[10Feb2025 19:28:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> yo igual
+[10Feb2025 19:29:22.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> flamenco
+[10Feb2025 19:29:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> si
+[10Feb2025 19:30:59.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1670, y=60, z=-27} BlockPos{x=-1671, y=60, z=-28}
+[10Feb2025 19:31:38.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[10Feb2025 19:31:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[10Feb2025 19:39:20.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alejandro946[/127.160.163.203:35975] logged in with entity id 31714 at (-1580.699999988079, 96.0, -497.09391309981066)
+[10Feb2025 19:39:21.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 joined the game
+[10Feb2025 19:39:21.024] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to alejandro946.
+[10Feb2025 19:39:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> mauri
+[10Feb2025 19:39:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> q
+[10Feb2025 19:39:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ta quedando la caga
+[10Feb2025 19:39:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> en
+[10Feb2025 19:39:40.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> caen muchos rayos
+[10Feb2025 19:39:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> poir
+[10Feb2025 19:39:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ni puta idea
+[10Feb2025 19:40:35.168] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 19:40:35.169] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 19:40:35.172] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 19:40:35.173] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 19:40:38.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
