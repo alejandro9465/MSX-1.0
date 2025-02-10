@@ -292,6 +292,7 @@
       "minecraft:taiga": "2025-02-07 02:14:58 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:41:28 +0000",
       "minecraft:sunflower_plains": "2025-02-10 03:49:49 +0000",
+      "minecraft:birch_forest": "2025-02-10 19:47:14 +0000",
       "minecraft:savanna_plateau": "2025-02-06 20:19:19 +0000",
       "minecraft:beach": "2025-02-07 20:35:41 +0000",
       "minecraft:stony_peaks": "2025-02-06 20:20:51 +0000",
@@ -7789,6 +7790,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-10 18:42:44 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2025-02-10 18:53:36 +0000"
@@ -7801,27 +7808,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-10 19:31:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-02-10 19:17:39 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-02-10 19:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-02-10 19:31:17 +0000"
     },
     "done": true
   },
@@ -7831,15 +7820,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-02-10 19:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-02-10 19:25:25 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-02-10 18:42:44 +0000"
+      "has_ingredient": "2025-02-10 19:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-10 19:31:17 +0000"
     },
     "done": true
   },

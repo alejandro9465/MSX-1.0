@@ -747,3 +747,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 19:40:35.172] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [10Feb2025 19:40:35.173] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [10Feb2025 19:40:38.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
+[10Feb2025 19:44:53.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> por donde e la casa
+[10Feb2025 19:45:10.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> nose ni donde esetoy yo
+[10Feb2025 19:45:12.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> pero
+[10Feb2025 19:45:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> creo que detras de la casa del mono del primer dia
+[10Feb2025 19:46:14.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 19:46:45.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35986, l='ServerLevel[world]', x=-1251.44, y=124.00, z=59.49] died, message: 'Villager was slain by Tiger'
+[10Feb2025 19:46:49.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36010, l='ServerLevel[world]', x=-1212.70, y=128.00, z=89.26] died, message: 'Villager was slain by Tiger'
+[10Feb2025 19:47:01.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:01.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=-20, z=26} BlockPos{x=-1501, y=-21, z=25}
+[10Feb2025 19:47:13.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 moved too quickly! -8.383709550958201,-7.401957892367108,-20.041570591926416
+[10Feb2025 19:49:12.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 19:50:58.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1691, y=12, z=82} BlockPos{x=-1686, y=11, z=82}
+[10Feb2025 19:51:02.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1697, y=11, z=80} BlockPos{x=-1698, y=10, z=80}
+[10Feb2025 19:52:27.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> ya encontre casa
