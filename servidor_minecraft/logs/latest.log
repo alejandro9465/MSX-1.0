@@ -781,3 +781,23 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 20:03:24.125] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
 [10Feb2025 20:05:19.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z drowned
 [10Feb2025 20:05:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was shot by Skeleton
+[10Feb2025 20:15:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> oo
+[10Feb2025 20:15:11.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> ayudame a hacer un motor a vapor
+[10Feb2025 20:15:15.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> okas
+[10Feb2025 20:15:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> de mientra que hago el piso
+[10Feb2025 20:15:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> como chucha
+[10Feb2025 20:15:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> xd
+[10Feb2025 20:15:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> le digo al diego
+[10Feb2025 20:15:37.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> y entramos los 3 a vc
+[10Feb2025 20:15:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> ?
+[10Feb2025 20:15:43.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> oke
+[10Feb2025 20:16:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 20:17:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 20:17:05.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 20:17:43.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 20:19:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Ant Farm]
+[10Feb2025 20:20:44.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dercsas[/127.172.56.231:52897] logged in with entity id 55841 at (-4112.860145884263, 6.0, -8408.730184998314)
+[10Feb2025 20:20:44.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas joined the game
+[10Feb2025 20:20:44.265] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Dercsas.
+[10Feb2025 20:22:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Dercsas to alejandro946]
+[10Feb2025 20:23:19.713] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/ifrm.nbt
