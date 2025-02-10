@@ -7776,15 +7776,15 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-02-10 18:26:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-02-10 18:25:42 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-02-10 18:26:28 +0000"
     },
     "done": true
   },
