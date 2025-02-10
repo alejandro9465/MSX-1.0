@@ -6706,39 +6706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -6748,27 +6718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/acacia_banister": {
-    "criteria": {
-      "has_item": "2025-02-10 02:36:25 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -6778,75 +6730,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/mangrove_cabinet": {
-    "criteria": {
-      "has_mangrove_trapdoor": "2025-02-10 02:37:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-02-10 02:35:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_leggings_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_sword_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-02-10 02:40:00 +0000"
     },
     "done": true
   },
@@ -6856,27 +6742,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -6886,111 +6754,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-10 02:37:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-10 04:20:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2025-02-10 04:34:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/jungle_banister": {
-    "criteria": {
-      "has_item": "2025-02-10 03:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-10 02:37:39 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/obtain_reinforced_echo_shard": {
-    "criteria": {
-      "reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
@@ -7000,63 +6766,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/acacia_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_helmet_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematicannon": {
-    "criteria": {
-      "has_the_recipe": "2025-02-10 03:31:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
     },
     "done": true
   },
@@ -7072,45 +6784,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-02-10 02:35:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-02-10 04:34:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -7126,42 +6802,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/warden_axe_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -7171,12 +6811,6 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-02-10 02:35:50 +0000"
     },
     "done": true
   },
@@ -7192,33 +6826,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-02-10 02:35:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-10 02:37:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
     },
     "done": true
   },
@@ -7234,39 +6844,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-02-10 02:40:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-02-10 02:40:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-02-10 02:37:54 +0000"
     },
     "done": true
   },
@@ -7282,69 +6862,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-02-10 02:36:40 +0000"
-    },
-    "done": true
-  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-10 02:34:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-02-10 02:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7360,81 +6886,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
-    "criteria": {
-      "has_item": "2025-02-10 03:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-10 03:17:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-02-10 04:08:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
     },
     "done": true
   },
@@ -7444,45 +6898,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-02-10 04:25:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_table": {
-    "criteria": {
-      "has_the_recipe": "2025-02-10 03:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
     },
     "done": true
   },
@@ -7492,21 +6910,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
-    "criteria": {
-      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
     },
     "done": true
   },
@@ -7522,60 +6928,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/tools/warden_shovel_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/nether_star_hook": {
-    "criteria": {
-      "has_items": "2025-02-10 04:25:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-10 02:36:27 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/tools/warden_hoe_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/warden_boots_smithing": {
-    "criteria": {
-      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -7588,9 +6940,249 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_posessed_paladin": {
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
-      "ambusher": "2025-02-10 03:59:30 +0000"
+      "has_item": "2025-02-10 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-02-10 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-02-10 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-10 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-10 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-10 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-10 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 02:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-02-10 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-10 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-10 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-10 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-10 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-10 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-10 02:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
     },
     "done": true
   },
@@ -7606,75 +7198,93 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "wither_skull": "2025-02-10 04:17:31 +0000"
+      "fried_egg": "2025-02-10 02:40:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_lapis_block": "2025-02-10 04:20:27 +0000"
+      "fried_egg": "2025-02-10 02:40:00 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/cogwheel": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_item": "2025-02-10 02:34:37 +0000"
+      "has_egg": "2025-02-10 02:40:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "has_soul_sand": "2025-02-10 02:37:54 +0000"
+      "fried_egg": "2025-02-10 02:40:00 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_item": "2025-02-10 02:34:37 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
-      "has_planks": "2025-02-10 03:35:40 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "has_basalt": "2025-02-10 02:37:39 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
-      "has_planks": "2025-02-10 03:49:55 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "has_raw_iron_block": "2025-02-10 04:17:44 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "has_item": "2025-02-10 02:34:37 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "has_cabbage": "2025-02-10 03:17:30 +0000"
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
     },
     "done": true
   },
@@ -7684,9 +7294,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_windmill": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "location0": "2025-02-10 03:49:49 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-02-10 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab": {
+    "criteria": {
+      "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
     },
     "done": true
   },
@@ -7702,9 +7330,333 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-02-10 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 03:35:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-02-10 03:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-02-10 03:59:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-10 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-10 04:17:31 +0000"
     },
     "done": true
   },
@@ -7714,11 +7666,113 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "fried_egg": "2025-02-10 02:40:00 +0000"
+      "has_raw_iron_block": "2025-02-10 04:17:44 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-10 04:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-10 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-10 04:25:10 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-02-10 04:25:10 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-02-10 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-10 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-02-10 18:13:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-10 18:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-10 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-02-10 18:13:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-10 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-10 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-02-10 18:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-10 18:10:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-02-10 18:13:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
