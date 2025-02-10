@@ -694,3 +694,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 02:30:04.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10502ms or 210 ticks behind
 [10Feb2025 02:30:28.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9335ms or 186 ticks behind
 [10Feb2025 02:30:53.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9950ms or 199 ticks behind
+[10Feb2025 02:31:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Killed 2884 entities]
+[10Feb2025 02:31:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [It's an Emu!!!]
+[10Feb2025 02:32:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 02:32:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 02:33:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Jennifer Dumped Me]
+[10Feb2025 02:34:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
+[10Feb2025 02:36:26.989] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 02:40:14.644] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 02:40:18.096] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER

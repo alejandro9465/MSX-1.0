@@ -7745,9 +7745,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_juice": {
+  "legendary_monsters:defeat_posessed_paladin": {
     "criteria": {
-      "has_melon_slice": "2025-02-10 01:31:24 +0000"
+      "ambusher": "2025-02-10 01:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-10 01:08:07 +0000"
     },
     "done": true
   },
@@ -7757,9 +7763,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "has_item": "2025-02-10 02:05:57 +0000"
+      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-10 01:31:24 +0000"
     },
     "done": true
   },
@@ -7769,15 +7793,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_rabbit": "2025-02-10 01:44:22 +0000"
+      "has_melon": "2025-02-10 01:31:24 +0000"
     },
     "done": true
   },
-  "create:hand_crank_000": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "0": "2025-02-10 01:58:49 +0000"
+      "has_melon": "2025-02-10 01:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-10 01:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-10 01:44:22 +0000"
     },
     "done": true
   },
@@ -7793,21 +7829,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-10 01:44:22 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-02-10 01:46:57 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/propeller": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-10 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-02-10 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-02-10 02:05:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
+  "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
-      "has_melon": "2025-02-10 01:31:24 +0000"
+      "has_item": "2025-02-10 02:05:57 +0000"
     },
     "done": true
   },
@@ -7823,21 +7877,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_melon": "2025-02-10 01:31:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-02-10 01:08:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-02-10 01:44:22 +0000"
+      "has_redstone_block": "2025-02-10 02:14:22 +0000"
     },
     "done": true
   },
@@ -7847,45 +7889,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_wither_rose": "2025-02-10 01:49:55 +0000"
+      "has_emerald_block": "2025-02-10 02:23:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "mowziesmobs:kill_foliaath": {
     "criteria": {
-      "has_redstone_block": "2025-02-10 02:14:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-02-10 01:31:24 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_posessed_paladin": {
-    "criteria": {
-      "ambusher": "2025-02-10 01:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-10 01:25:19 +0000"
+      "foliaath": "2025-02-10 02:33:42 +0000"
     },
     "done": true
   },
