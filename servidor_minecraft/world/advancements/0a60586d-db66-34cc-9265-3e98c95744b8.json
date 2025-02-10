@@ -291,6 +291,7 @@
       "minecraft:old_growth_pine_taiga": "2025-02-07 02:08:06 +0000",
       "minecraft:taiga": "2025-02-07 02:14:58 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:41:28 +0000",
+      "minecraft:sunflower_plains": "2025-02-10 03:49:49 +0000",
       "minecraft:savanna_plateau": "2025-02-06 20:19:19 +0000",
       "minecraft:beach": "2025-02-07 20:35:41 +0000",
       "minecraft:stony_peaks": "2025-02-06 20:20:51 +0000",
@@ -313,6 +314,7 @@
       "minecraft:frozen_peaks": "2025-02-07 02:06:33 +0000",
       "minecraft:deep_dark": "2025-02-09 22:47:24 +0000",
       "minecraft:meadow": "2025-02-06 19:40:10 +0000",
+      "minecraft:savanna": "2025-02-10 04:01:15 +0000",
       "minecraft:plains": "2025-02-06 19:36:06 +0000"
     },
     "done": false
@@ -6728,6 +6730,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -6752,6 +6766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -6767,6 +6787,12 @@
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 02:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
     },
     "done": true
   },
@@ -6830,6 +6856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -6839,6 +6871,12 @@
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -6860,6 +6898,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-10 04:20:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 02:36:27 +0000"
@@ -6869,6 +6913,12 @@
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -6896,6 +6946,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-02-10 04:34:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
       "has_item": "2025-02-10 03:35:44 +0000"
@@ -6905,6 +6961,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -6974,6 +7036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-02-10 03:31:31 +0000"
@@ -7028,9 +7096,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-10 04:34:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
     },
     "done": true
   },
@@ -7067,6 +7147,18 @@
   "deeperdarker:recipes/tools/warden_axe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7109,6 +7201,12 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7160,6 +7258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-02-10 02:37:54 +0000"
@@ -7196,6 +7300,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -7223,6 +7339,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-02-10 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7256,6 +7378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-10 03:35:40 +0000"
@@ -7286,6 +7414,18 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-10 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-10 04:20:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
@@ -7304,15 +7444,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-02-10 02:34:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-10 04:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_table": {
     "criteria": {
       "has_the_recipe": "2025-02-10 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7364,6 +7528,18 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-02-10 04:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-02-10 02:42:36 +0000"
@@ -7379,6 +7555,12 @@
   "deeperdarker:recipes/tools/warden_hoe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-02-10 03:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
     },
     "done": true
   },
@@ -7406,6 +7588,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-02-10 03:59:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
@@ -7415,6 +7603,18 @@
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-10 02:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-10 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-10 04:20:27 +0000"
     },
     "done": true
   },
@@ -7436,6 +7636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-10 03:35:40 +0000"
@@ -7445,6 +7651,18 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-10 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 03:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-10 04:17:44 +0000"
     },
     "done": true
   },
@@ -7466,6 +7684,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-02-10 03:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting": {
     "criteria": {
       "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
@@ -7475,6 +7699,18 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
     "criteria": {
       "has_weathered_cut_copper": "2025-02-10 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-10 04:17:31 +0000"
     },
     "done": true
   },

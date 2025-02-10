@@ -750,3 +750,238 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 03:41:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie
 [10Feb2025 03:41:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
 [10Feb2025 03:42:09.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Living Armor]
+[10Feb2025 03:42:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Haunted Knight
+[10Feb2025 03:42:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Undead Guard]
+[10Feb2025 03:46:25.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
+[10Feb2025 03:46:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:46:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:46:53.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:47:00.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
+[10Feb2025 03:47:00.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z moved too quickly! -1.1775289828283348,-1.0013359791121559,9.979378800229824
+[10Feb2025 03:47:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Posessed Paladin
+[10Feb2025 03:47:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:49:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:49:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
+[10Feb2025 03:49:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [All Along The Watchtower]
+[10Feb2025 03:49:48.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported 3 entities to peter_rola14]
+[10Feb2025 03:49:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [All Along The Watchtower]
+[10Feb2025 03:49:49.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [All Along The Watchtower]
+[10Feb2025 03:50:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was killed by Witch using magic
+[10Feb2025 03:50:32.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 03:51:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Zombie Villager
+[10Feb2025 03:52:48.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 03:53:45.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved too quickly! -10.767299613424257,0.0,1.6122883153002476E-4
+[10Feb2025 03:54:51.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Adventure Mode]
+[10Feb2025 03:54:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 03:55:41.621] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 03:56:08.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4504, y=57, z=-6233} BlockPos{x=-4504, y=57, z=-6232}
+[10Feb2025 03:56:29.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4500, y=49, z=-6234} BlockPos{x=-4500, y=50, z=-6234}
+[10Feb2025 03:56:38.555] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 03:57:23.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4498, y=22, z=-6242} BlockPos{x=-4498, y=21, z=-6242}
+[10Feb2025 03:57:31.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4490, y=21, z=-6242} BlockPos{x=-4490, y=18, z=-6244}
+[10Feb2025 03:57:33.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4492, y=17, z=-6246} BlockPos{x=-4493, y=18, z=-6248}
+[10Feb2025 03:57:36.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4486, y=15, z=-6252} BlockPos{x=-4485, y=15, z=-6252}
+[10Feb2025 03:57:36.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4486, y=15, z=-6252} BlockPos{x=-4484, y=14, z=-6252}
+[10Feb2025 03:57:46.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4482, y=14, z=-6254} BlockPos{x=-4483, y=14, z=-6254}
+[10Feb2025 03:58:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
+[10Feb2025 03:58:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 03:58:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:58:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:59:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:59:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:59:09.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:59:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:59:18.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:59:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Posessed Paladin
+[10Feb2025 03:59:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Posessed Paladin
+[10Feb2025 03:59:30.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has completed the challenge [The Fallen Knight]
+[10Feb2025 04:00:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 04:02:47.124] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_mech_located (cataclysm:ancient_factory) took 0 ms
+[10Feb2025 04:03:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 04:03:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Efficiency V to alejandro946's item]
+[10Feb2025 04:04:48.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6916} BlockPos{x=-8071, y=270, z=-6916}
+[10Feb2025 04:04:48.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6916} BlockPos{x=-8071, y=270, z=-6916}
+[10Feb2025 04:04:48.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=270, z=-6915} BlockPos{x=-8071, y=270, z=-6916}
+[10Feb2025 04:05:13.707] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:05:52.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to peter_rola14]
+[10Feb2025 04:06:04.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8060, y=269, z=-6918} BlockPos{x=-8060, y=268, z=-6918}
+[10Feb2025 04:06:04.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8060, y=269, z=-6918} BlockPos{x=-8060, y=268, z=-6918}
+[10Feb2025 04:06:15.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8061, y=269, z=-6919} BlockPos{x=-8062, y=269, z=-6920}
+[10Feb2025 04:06:22.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6924} BlockPos{x=-8072, y=268, z=-6925}
+[10Feb2025 04:06:22.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6924} BlockPos{x=-8072, y=268, z=-6925}
+[10Feb2025 04:06:22.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=268, z=-6925} BlockPos{x=-8070, y=268, z=-6926}
+[10Feb2025 04:06:26.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8076, y=267, z=-6924} BlockPos{x=-8075, y=267, z=-6922}
+[10Feb2025 04:06:26.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=267, z=-6923} BlockPos{x=-8076, y=266, z=-6923}
+[10Feb2025 04:06:26.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=267, z=-6923} BlockPos{x=-8076, y=266, z=-6923}
+[10Feb2025 04:06:28.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=264, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8071, y=266, z=-6930} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:29.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=263, z=-6931} BlockPos{x=-8073, y=263, z=-6929}
+[10Feb2025 04:06:31.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=263, z=-6933} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:31.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8070, y=262, z=-6934} BlockPos{x=-8070, y=263, z=-6934}
+[10Feb2025 04:06:33.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8072, y=261, z=-6933} BlockPos{x=-8071, y=259, z=-6933}
+[10Feb2025 04:06:40.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=255, z=-6930} BlockPos{x=-8078, y=254, z=-6931}
+[10Feb2025 04:06:40.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8078, y=254, z=-6931}
+[10Feb2025 04:06:42.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:42.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:42.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:42.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:42.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:42.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8078, y=253, z=-6931} BlockPos{x=-8079, y=252, z=-6931}
+[10Feb2025 04:06:49.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:49.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8080, y=254, z=-6927} BlockPos{x=-8079, y=254, z=-6928}
+[10Feb2025 04:06:51.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:51.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:52.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8083, y=252, z=-6929} BlockPos{x=-8082, y=252, z=-6930}
+[10Feb2025 04:06:53.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
+[10Feb2025 04:06:53.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
+[10Feb2025 04:06:53.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8085, y=251, z=-6927} BlockPos{x=-8085, y=250, z=-6928}
+[10Feb2025 04:07:03.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8077, y=246, z=-6934} BlockPos{x=-8077, y=247, z=-6933}
+[10Feb2025 04:07:23.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8090, y=242, z=-6935} BlockPos{x=-8089, y=242, z=-6936}
+[10Feb2025 04:07:40.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8088, y=247, z=-6931} BlockPos{x=-8087, y=247, z=-6930}
+[10Feb2025 04:07:40.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8088, y=247, z=-6931} BlockPos{x=-8087, y=247, z=-6930}
+[10Feb2025 04:07:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Ancient Civilization]
+[10Feb2025 04:07:46.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Ancient Civilization]
+[10Feb2025 04:08:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to Och8Z]
+[10Feb2025 04:08:00.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Ancient Civilization]
+[10Feb2025 04:09:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 has made the advancement [Sculk Cymbal]
+[10Feb2025 04:10:06.715] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:10:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Warden
+[10Feb2025 04:10:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported Och8Z to alejandro946]
+[10Feb2025 04:11:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
+[10Feb2025 04:11:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Warden
+[10Feb2025 04:11:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
+[10Feb2025 04:11:41.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was slain by Warden
+[10Feb2025 04:11:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was slain by Warden
+[10Feb2025 04:13:44.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by The Prowler 's laser
+[10Feb2025 04:13:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported alejandro946 to peter_rola14]
+[10Feb2025 04:17:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Spooky Scary Skeleton]
+[10Feb2025 04:17:51.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has made the advancement [Spooky Scary Skeleton]
+[10Feb2025 04:19:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 04:19:49.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:20:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 04:20:10.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:20:44.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Hidden in the Depths]
+[10Feb2025 04:21:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Spectator Mode]
+[10Feb2025 04:21:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:23:59.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Applied enchantment Mending to alejandro946's item]
+[10Feb2025 04:25:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Nether Star] to alejandro946]
+[10Feb2025 04:25:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z withered away whilst fighting The Harbinger
+[10Feb2025 04:26:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was exterminated by The Harbinger 's laser
+[10Feb2025 04:26:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by The Harbinger 's laser
+[10Feb2025 04:26:47.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z has completed the challenge [The Thing of Ancient Civilization]
+[10Feb2025 04:26:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 withered away
+[10Feb2025 04:26:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was blown up by The Harbinger
+[10Feb2025 04:28:18.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/95574, l='ServerLevel[world]', x=-8471.50, y=-22.00, z=-6977.50]
+[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95575, l='ServerLevel[world]', x=-8469.50, y=-22.00, z=-6977.50]
+[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95576, l='ServerLevel[world]', x=-8472.50, y=-22.00, z=-6975.50]
+[10Feb2025 04:28:18.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/95577, l='ServerLevel[world]', x=-8472.50, y=-22.00, z=-6979.50]
+[10Feb2025 04:28:22.521] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:28:37.143] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:28:40.840] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:31:51.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Meat Shredder] to alejandro946]
+[10Feb2025 04:31:51.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Meat Shredder] to alejandro946]
+[10Feb2025 04:32:16.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z was shattered by alejandro946
+[10Feb2025 04:33:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Infernal Forge] to alejandro946]
+[10Feb2025 04:34:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:34:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:34:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Ignitium Chestplate] to alejandro946]
+[10Feb2025 04:34:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Elytra] to alejandro946]
+[10Feb2025 04:34:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has reached the goal [Sky's the Limit]
+[10Feb2025 04:35:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:35:17.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:35:50.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:35:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:36:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Ignitium Elytra Chestplate] to alejandro946]
+[10Feb2025 04:36:23.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:37:02.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:37:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was exterminated by Och8Z 's laser
+[10Feb2025 04:37:35.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [The Immolator] to alejandro946]
+[10Feb2025 04:37:40.593] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:37:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 was exterminated by Och8Z 's laser
+[10Feb2025 04:37:51.341] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:38:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [The Immolator] to alejandro946]
+[10Feb2025 04:38:15.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 moved wrongly!
+[10Feb2025 04:38:41.539] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:38:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:38:56.339] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:38:58.891] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Feb2025 04:39:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:39:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 was slain by Och8Z
+[10Feb2025 04:39:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Creative Mode]
+[10Feb2025 04:41:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Set own game mode to Survival Mode]
+[10Feb2025 04:41:33.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[10Feb2025 04:41:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[10Feb2025 04:41:45.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: peter_rola14 lost connection: Disconnected
+[10Feb2025 04:41:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 left the game
+[10Feb2025 04:41:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 04:41:53.637] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[10Feb2025 04:41:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 04:41:53.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 04:41:53.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 04:41:54.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Feb2025 04:41:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Feb2025 04:41:55.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Feb2025 04:41:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Feb2025 04:41:55.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Feb2025 04:41:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Feb2025 04:41:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Feb2025 04:41:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
