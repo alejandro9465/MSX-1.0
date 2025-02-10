@@ -882,3 +882,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 22:43:42.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Waxed Cut Copper Stairs] to alejandro946]
 [10Feb2025 22:43:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Waxed Cut Copper Stairs] to alejandro946]
 [10Feb2025 22:45:16.594] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/steam_engine.nbt
+[10Feb2025 22:47:20.251] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/steam_engine.nbt
+[10Feb2025 22:54:08.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dercsas lost connection: Disconnected
+[10Feb2025 22:54:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dercsas left the game
+[10Feb2025 22:54:42.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peter_rola14[/127.227.82.151:42165] logged in with entity id 101950 at (-8437.068535862723, -24.4375, -6901.7222363307965)
+[10Feb2025 22:54:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peter_rola14 joined the game
+[10Feb2025 22:54:42.615] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to peter_rola14.
+[10Feb2025 22:55:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Teleported peter_rola14 to alejandro946]
