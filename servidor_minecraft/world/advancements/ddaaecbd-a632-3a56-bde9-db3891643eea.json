@@ -9410,5 +9410,11 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-10 22:21:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
