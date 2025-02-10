@@ -8140,3 +8140,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 20:22:43.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Feb2025 20:22:43.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Feb2025 20:23:19.713] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/ifrm.nbt
+[10Feb2025 20:25:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 has made the advancement [Bonk!]
+[10Feb2025 20:27:43.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 20:27:43.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 20:32:43.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 20:32:43.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
