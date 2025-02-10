@@ -1509,6 +1509,7 @@
       "bread": "2025-02-06 21:44:23 +0000",
       "golden_apple": "2025-02-06 22:49:55 +0000",
       "rotten_flesh": "2025-02-07 01:01:22 +0000",
+      "glow_berries": "2025-02-10 18:26:43 +0000",
       "melon_slice": "2025-02-10 03:18:45 +0000",
       "golden_carrot": "2025-02-06 23:39:17 +0000",
       "cooked_rabbit": "2025-02-06 21:46:06 +0000",
@@ -7720,27 +7721,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2025-02-10 18:13:56 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-02-10 18:11:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-02-10 18:10:09 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-02-10 18:13:56 +0000"
     },
     "done": true
   },
@@ -7756,23 +7739,54 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-02-10 18:13:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-02-10 18:10:09 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-10 18:11:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-02-10 18:13:54 +0000"
     },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "sculk_leech": "2025-02-10 18:26:28 +0000",
+      "warden": "2025-02-10 18:13:54 +0000"
+    },
     "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-02-10 18:13:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-02-10 18:13:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-02-10 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-10 18:25:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
