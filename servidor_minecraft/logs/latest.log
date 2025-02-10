@@ -766,3 +766,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Feb2025 19:50:58.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1691, y=12, z=82} BlockPos{x=-1686, y=11, z=82}
 [10Feb2025 19:51:02.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1697, y=11, z=80} BlockPos{x=-1698, y=10, z=80}
 [10Feb2025 19:52:27.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> ya encontre casa
+[10Feb2025 19:52:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> voy a hacer cosa del create
+[10Feb2025 19:52:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Och8Z> te ayudo?
+[10Feb2025 19:53:28.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alejandro946> no es necesario
+[10Feb2025 19:56:06.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[10Feb2025 19:56:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
+[10Feb2025 19:59:25.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Och8Z[/127.27.2.94:53069] logged in with entity id 45635 at (-1635.9420084018366, -28.0, -46.69999998807907)
+[10Feb2025 19:59:25.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z joined the game
+[10Feb2025 19:59:25.568] [Server thread/INFO] [org.zeith.solarflux.SolarFlux/]: Sending solar panels to Och8Z.
+[10Feb2025 20:02:26.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Och8Z lost connection: Disconnected
+[10Feb2025 20:02:26.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Och8Z left the game
