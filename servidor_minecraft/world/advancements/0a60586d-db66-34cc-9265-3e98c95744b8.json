@@ -8795,5 +8795,17 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-02-11 22:23:22 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2025-02-11 22:24:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
