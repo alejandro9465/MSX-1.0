@@ -5116,12 +5116,6 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-02-07 16:58:27 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-02-07 16:58:27 +0000"
@@ -7562,12 +7556,6 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-02-10 04:08:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-02-10 04:16:57 +0000"
@@ -8597,183 +8585,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots": {
-    "criteria": {
-      "has_item": "2025-02-11 19:12:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-02-11 19:22:18 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:upgrading": {
-    "criteria": {
-      "upgrade_in_inventory": "2025-02-11 20:02:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/glass_from_framed_glass": {
-    "criteria": {
-      "has_item": "2025-02-11 20:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-02-11 19:22:18 +0000"
-    },
-    "done": true
-  },
-  "create:hand_crank_000": {
-    "criteria": {
-      "0": "2025-02-11 19:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-02-11 19:24:07 +0000"
-    },
-    "done": true
-  },
-  "create:funnel": {
-    "criteria": {
-      "0": "2025-02-11 20:14:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-02-11 19:24:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-02-11 19:10:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-02-11 19:24:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-02-11 19:03:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2025-02-11 19:03:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
-    "criteria": {
-      "has_item": "2025-02-11 20:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-02-11 19:22:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_calcite_slab": "2025-02-11 19:35:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_pane": {
-    "criteria": {
-      "has_ingredient": "2025-02-11 20:28:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/spruce_window_pane": {
-    "criteria": {
-      "has_ingredient": "2025-02-11 20:20:41 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-02-11 19:17:42 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:drives": {
-    "criteria": {
-      "disk_drive_in_inventory": "2025-02-11 19:52:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
-    "criteria": {
-      "has_the_recipe": "2025-02-11 19:10:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-02-11 19:24:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-11 19:01:43 +0000"
-    },
-    "done": true
-  },
-  "create:arm_many_targets": {
-    "criteria": {
-      "0": "2025-02-11 19:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-02-11 19:24:07 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_arm": {
-    "criteria": {
-      "0": "2025-02-11 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-02-11 19:22:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
-    "criteria": {
-      "has_item": "2025-02-11 20:28:29 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:crafting_on_demand": {
-    "criteria": {
-      "upgrade_in_inventory": "2025-02-11 20:04:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-02-11 19:03:25 +0000"
     },
     "done": true
   },
@@ -8783,15 +8597,9 @@
     },
     "done": true
   },
-  "create:arm_blaze_burner": {
+  "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
-      "0": "2025-02-11 19:29:49 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-02-11 19:22:15 +0000"
+      "has_item": "2025-02-11 19:03:01 +0000"
     },
     "done": true
   },
@@ -8801,9 +8609,189 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-11 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-11 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-02-11 19:10:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-11 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-11 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-02-11 19:15:00 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-11 19:17:42 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-02-11 19:22:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-02-11 19:22:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-02-11 19:22:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-02-11 19:22:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-02-11 19:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-02-11 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2025-02-11 19:29:49 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-02-11 19:29:49 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-02-11 19:30:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_calcite_slab": "2025-02-11 19:35:18 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-02-11 19:52:35 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2025-02-11 20:02:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:crafting_on_demand": {
+    "criteria": {
+      "upgrade_in_inventory": "2025-02-11 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-02-11 20:14:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-11 20:20:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-02-11 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-02-11 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-11 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-11 20:28:29 +0000"
     },
     "done": true
   },

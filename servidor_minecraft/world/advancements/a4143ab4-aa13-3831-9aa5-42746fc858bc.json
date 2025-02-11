@@ -4148,12 +4148,6 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-02-07 17:55:45 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-02-07 17:55:45 +0000"
@@ -6020,12 +6014,6 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-02-10 03:56:30 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-02-10 04:07:46 +0000"
     },
     "done": true
   },
