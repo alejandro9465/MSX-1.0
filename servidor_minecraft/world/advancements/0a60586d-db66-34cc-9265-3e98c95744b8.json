@@ -293,6 +293,7 @@
       "minecraft:cherry_grove": "2025-02-06 19:41:28 +0000",
       "minecraft:sunflower_plains": "2025-02-10 03:49:49 +0000",
       "minecraft:birch_forest": "2025-02-10 19:47:14 +0000",
+      "minecraft:bamboo_jungle": "2025-02-12 00:36:35 +0000",
       "minecraft:savanna_plateau": "2025-02-06 20:19:19 +0000",
       "minecraft:beach": "2025-02-07 20:35:41 +0000",
       "minecraft:stony_peaks": "2025-02-06 20:20:51 +0000",
@@ -8805,6 +8806,24 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_calendar": "2025-02-11 22:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-02-12 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-12 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-12 00:31:15 +0000"
     },
     "done": true
   },
