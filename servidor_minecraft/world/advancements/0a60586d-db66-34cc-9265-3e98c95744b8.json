@@ -9116,6 +9116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-12 22:54:56 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-02-12 22:31:18 +0000"
@@ -9125,6 +9131,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-12 22:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-12 22:54:56 +0000"
     },
     "done": true
   },
