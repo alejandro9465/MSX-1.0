@@ -1339,6 +1339,7 @@
       "minecraft:pillager": "2025-02-07 02:23:51 +0000",
       "minecraft:skeleton": "2025-02-06 20:16:16 +0000",
       "minecraft:ravager": "2025-02-06 23:02:19 +0000",
+      "minecraft:ghast": "2025-02-12 22:46:05 +0000",
       "minecraft:hoglin": "2025-02-12 02:12:41 +0000",
       "minecraft:vindicator": "2025-02-10 01:28:22 +0000",
       "minecraft:spider": "2025-02-06 21:44:39 +0000",
@@ -5348,12 +5349,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-12 22:41:20 +0000",
       "minecraft:nether_wastes": "2025-02-07 18:44:09 +0000",
       "minecraft:soul_sand_valley": "2025-02-12 22:29:21 +0000",
       "minecraft:basalt_deltas": "2025-02-07 18:43:58 +0000",
       "minecraft:warped_forest": "2025-02-07 18:43:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -9084,6 +9086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-12 22:41:28 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-02-12 22:05:36 +0000"
@@ -9135,6 +9143,12 @@
   "stellarity:nether/a_piece_of_otherworld": {
     "criteria": {
       "criteria": "2025-02-12 22:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-12 22:41:28 +0000"
     },
     "done": true
   },
