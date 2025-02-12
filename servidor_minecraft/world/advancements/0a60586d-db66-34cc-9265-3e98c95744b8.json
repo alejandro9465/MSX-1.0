@@ -1342,11 +1342,13 @@
       "minecraft:hoglin": "2025-02-12 02:12:41 +0000",
       "minecraft:vindicator": "2025-02-10 01:28:22 +0000",
       "minecraft:spider": "2025-02-06 21:44:39 +0000",
+      "minecraft:piglin_brute": "2025-02-12 22:24:48 +0000",
       "minecraft:creeper": "2025-02-06 23:32:25 +0000",
       "minecraft:phantom": "2025-02-12 02:16:20 +0000",
       "minecraft:wither_skeleton": "2025-02-07 03:13:33 +0000",
       "minecraft:husk": "2025-02-06 21:26:29 +0000",
       "minecraft:cave_spider": "2025-02-07 00:59:38 +0000",
+      "minecraft:piglin": "2025-02-12 22:25:05 +0000",
       "minecraft:enderman": "2025-02-07 22:23:14 +0000",
       "minecraft:silverfish": "2025-02-12 04:35:30 +0000",
       "minecraft:zombie": "2025-02-06 20:09:05 +0000",
@@ -5347,6 +5349,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-02-07 18:44:09 +0000",
+      "minecraft:soul_sand_valley": "2025-02-12 22:29:21 +0000",
       "minecraft:basalt_deltas": "2025-02-07 18:43:58 +0000",
       "minecraft:warped_forest": "2025-02-07 18:43:02 +0000"
     },
@@ -9078,6 +9081,66 @@
   "twilightforest:recipes/misc/material/raw_ironwood": {
     "criteria": {
       "has_item": "2025-02-12 04:17:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-02-12 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-02-12 22:33:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-02-12 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-12 22:34:02 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-02-12 22:24:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-12 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-02-12 22:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-12 22:24:40 +0000"
     },
     "done": true
   },
