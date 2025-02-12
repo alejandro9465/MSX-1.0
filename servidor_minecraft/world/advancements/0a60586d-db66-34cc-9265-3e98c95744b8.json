@@ -309,6 +309,7 @@
       "minecraft:jagged_peaks": "2025-02-07 02:11:27 +0000",
       "minecraft:cold_ocean": "2025-02-10 01:27:43 +0000",
       "minecraft:forest": "2025-02-06 19:41:32 +0000",
+      "minecraft:lush_caves": "2025-02-12 02:20:13 +0000",
       "minecraft:ocean": "2025-02-06 19:49:35 +0000",
       "minecraft:jungle": "2025-02-06 23:24:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 02:45:21 +0000",
@@ -1338,13 +1339,16 @@
       "minecraft:pillager": "2025-02-07 02:23:51 +0000",
       "minecraft:skeleton": "2025-02-06 20:16:16 +0000",
       "minecraft:ravager": "2025-02-06 23:02:19 +0000",
+      "minecraft:hoglin": "2025-02-12 02:12:41 +0000",
       "minecraft:vindicator": "2025-02-10 01:28:22 +0000",
       "minecraft:spider": "2025-02-06 21:44:39 +0000",
       "minecraft:creeper": "2025-02-06 23:32:25 +0000",
+      "minecraft:phantom": "2025-02-12 02:16:20 +0000",
       "minecraft:wither_skeleton": "2025-02-07 03:13:33 +0000",
       "minecraft:husk": "2025-02-06 21:26:29 +0000",
       "minecraft:cave_spider": "2025-02-07 00:59:38 +0000",
       "minecraft:enderman": "2025-02-07 22:23:14 +0000",
+      "minecraft:silverfish": "2025-02-12 04:35:30 +0000",
       "minecraft:zombie": "2025-02-06 20:09:05 +0000",
       "minecraft:drowned": "2025-02-06 23:28:58 +0000",
       "minecraft:zombie_villager": "2025-02-07 02:08:16 +0000"
@@ -6059,6 +6063,7 @@
       "twilight_oak_log": "2025-02-07 21:43:19 +0000",
       "twilight_oak_wood": "2025-02-07 21:45:01 +0000",
       "twilight_oak_sapling": "2025-02-07 22:41:13 +0000",
+      "liveroot": "2025-02-12 04:17:50 +0000",
       "canopy_log": "2025-02-07 21:49:22 +0000"
     },
     "done": false
@@ -6408,15 +6413,17 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-02-12 04:10:48 +0000",
       "kill_lich": "2025-02-07 22:12:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-02-07 22:12:56 +0000"
+      "previous_progression": "2025-02-07 22:12:56 +0000",
+      "yeti": "2025-02-12 03:19:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/combat/equipment/twilight_scepter": {
     "criteria": {
@@ -6474,6 +6481,9 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2025-02-12 04:00:37 +0000",
+      "meef_stroganoff": "2025-02-12 04:10:48 +0000",
+      "cooked_meef": "2025-02-12 03:56:19 +0000",
       "torchberries": "2025-02-07 22:29:58 +0000"
     },
     "done": false
@@ -7752,6 +7762,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-02-12 02:16:20 +0000",
       "stalker": "2025-02-10 18:44:51 +0000",
       "sculk_leech": "2025-02-10 18:26:28 +0000",
       "warden": "2025-02-10 18:13:54 +0000"
@@ -8809,12 +8820,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-02-12 00:39:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-02-12 00:31:15 +0000"
@@ -8824,6 +8829,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-02-12 00:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-02-12 00:39:36 +0000"
     },
     "done": true
   },
@@ -8878,6 +8889,195 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-12 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-02-12 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-12 02:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-12 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-12 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-12 02:16:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_failure": {
+    "criteria": {
+      "sculptor_failure": "2025-02-12 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_challenge": {
+    "criteria": {
+      "sculptor_challenge": "2025-02-12 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-02-12 03:04:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2025-02-12 03:06:45 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-02-12 03:19:49 +0000",
+      "was_in_fight": "2025-02-12 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-12 03:30:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-12 03:30:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-02-12 03:31:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-12 03:39:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-02-12 04:12:41 +0000",
+      "snow_queen": "2025-02-12 03:40:38 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-02-12 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-02-12 03:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-12 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-12 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-12 03:57:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-12 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 03:59:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 03:59:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 03:59:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-02-12 04:05:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-02-12 04:10:48 +0000",
+      "was_in_fight": "2025-02-12 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/encased_fire_jet": {
+    "criteria": {
+      "has_item": "2025-02-12 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 04:14:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2025-02-12 04:17:50 +0000"
     },
     "done": true
   },

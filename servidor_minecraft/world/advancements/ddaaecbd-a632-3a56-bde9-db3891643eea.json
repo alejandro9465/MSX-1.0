@@ -290,6 +290,7 @@
       "minecraft:snowy_slopes": "2025-02-07 03:09:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-07 02:01:49 +0000",
       "minecraft:taiga": "2025-02-07 02:15:11 +0000",
+      "minecraft:deep_ocean": "2025-02-12 04:59:55 +0000",
       "minecraft:frozen_river": "2025-02-10 01:45:12 +0000",
       "minecraft:cherry_grove": "2025-02-06 20:06:27 +0000",
       "minecraft:sunflower_plains": "2025-02-06 23:25:59 +0000",
@@ -995,6 +996,7 @@
       "minecraft:enderman": "2025-02-07 19:56:18 +0000",
       "minecraft:silverfish": "2025-02-07 22:56:09 +0000",
       "minecraft:zombie": "2025-02-06 20:08:18 +0000",
+      "minecraft:drowned": "2025-02-12 05:00:30 +0000",
       "minecraft:zombie_villager": "2025-02-07 00:30:50 +0000"
     },
     "done": false
@@ -6528,7 +6530,19 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-02-07 22:53:48 +0000",
+      "mossy_towerwood": "2025-02-12 05:32:08 +0000",
+      "twilight_oak_sign": "2025-02-12 02:54:32 +0000",
+      "dark_planks": "2025-02-12 05:26:31 +0000",
+      "canopy_planks": "2025-02-12 04:23:07 +0000",
+      "towerwood": "2025-02-12 05:30:14 +0000",
+      "mangrove_log": "2025-02-12 04:17:35 +0000",
       "twilight_oak_chest": "2025-02-07 22:14:24 +0000",
+      "twilight_oak_wood": "2025-02-12 03:49:24 +0000",
+      "dark_log": "2025-02-12 05:26:09 +0000",
+      "huge_stalk": "2025-02-12 06:04:25 +0000",
+      "twilight_oak_sapling": "2025-02-12 03:48:52 +0000",
+      "giant_leaves": "2025-02-12 06:09:15 +0000",
+      "giant_log": "2025-02-12 05:54:44 +0000",
       "canopy_log": "2025-02-07 21:38:36 +0000"
     },
     "done": false
@@ -6914,21 +6928,24 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-02-07 22:12:56 +0000"
+      "kill_lich": "2025-02-07 22:12:56 +0000",
+      "trophy_pedestal": "2025-02-12 05:08:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-02-12 04:10:54 +0000",
       "kill_lich": "2025-02-07 22:12:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-02-07 22:12:56 +0000"
+      "previous_progression": "2025-02-07 22:12:56 +0000",
+      "yeti": "2025-02-12 03:26:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
@@ -9392,12 +9409,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-12 00:59:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
@@ -9452,24 +9463,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
@@ -9512,6 +9505,66 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-12 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-12 00:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-12 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 01:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-12 01:14:21 +0000"
@@ -9524,21 +9577,9 @@
     },
     "done": true
   },
-  "sereneseasons:recipes/redstone/season_sensor": {
-    "criteria": {
-      "has_calendar": "2025-02-12 01:15:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-12 01:14:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-02-12 00:59:50 +0000"
     },
     "done": true
   },
@@ -9548,33 +9589,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-12 01:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-12 01:14:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-02-12 00:59:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
     },
     "done": true
   },
@@ -9584,9 +9601,584 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+  "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
-      "has_stone_types_veridium": "2025-02-12 00:59:38 +0000"
+      "has_calendar": "2025-02-12 01:15:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-02-12 06:00:00 +0000",
+      "use_beans": "2025-02-12 06:03:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-02-12 03:57:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-02-12 05:48:39 +0000",
+      "lamp": "2025-02-12 06:00:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-02-12 04:12:41 +0000",
+      "snow_queen": "2025-02-12 03:40:38 +0000",
+      "ur_ghast": "2025-02-12 05:48:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-02-12 05:19:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 05:06:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-02-12 04:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-12 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_wood": {
+    "criteria": {
+      "has_item": "2025-02-12 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-02-12 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-02-12 04:10:54 +0000",
+      "experiment_115": "2025-02-12 05:32:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-12 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 04:03:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-12 03:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-02-12 03:26:04 +0000",
+      "was_in_fight": "2025-02-12 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 03:40:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-02-12 05:48:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-12 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-02-12 06:07:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 04:03:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-02-12 03:57:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-02-12 05:21:00 +0000",
+      "previous_progression": "2025-02-12 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-02-12 04:36:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-02-12 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mangrove_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 04:09:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-12 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-12 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-02-12 06:07:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-02-12 05:19:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-02-12 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/encased_fire_jet": {
+    "criteria": {
+      "has_item": "2025-02-12 04:14:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-02-12 05:48:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-12 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-02-12 05:05:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-02-12 05:48:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-02-12 05:57:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-02-12 04:12:41 +0000",
+      "stroganoff": "2025-02-12 04:10:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 02:13:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-02-12 05:08:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 04:03:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-12 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 02:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-02-12 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-02-12 05:21:00 +0000",
+      "ghast": "2025-02-12 05:48:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_sword": {
+    "criteria": {
+      "has_item": "2025-02-12 05:56:36 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-02-12 04:26:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-02-12 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-02-12 06:00:00 +0000",
+      "giant": "2025-02-12 05:54:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 05:54:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+    "criteria": {
+      "has_item": "2025-02-12 06:09:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-02-12 05:32:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 05:26:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-02-12 05:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-12 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 04:12:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-12 03:53:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:00:04 +0000",
+      "plateau": "2025-02-12 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-12 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-12 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-02-12 03:16:47 +0000"
     },
     "done": true
   },
