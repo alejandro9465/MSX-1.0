@@ -6692,3 +6692,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [13Feb2025 19:28:09.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Feb2025 19:30:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mossy Hammer] to alejandro946]
 [13Feb2025 19:30:52.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mossy Hammer] to alejandro946]
+[13Feb2025 19:32:59.072] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/filter/FilterSlot (target of net/minecraft/world/inventory/Slot)
+[13Feb2025 19:32:59.073] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/refinedmods/refinedstorage/container/slot/legacy/LegacyFilterSlot (target of net/minecraft/world/inventory/Slot)
+[13Feb2025 19:33:09.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Feb2025 19:33:09.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Feb2025 19:34:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 31 block(s)]
+[13Feb2025 19:35:00.099] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[13Feb2025 19:35:00.100] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[13Feb2025 19:37:04.254] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/xp_farm.nbt
+[13Feb2025 19:38:09.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Feb2025 19:38:09.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
