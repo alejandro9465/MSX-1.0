@@ -9170,6 +9170,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-02-12 23:54:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-02-12 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-13 00:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-13 00:02:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-02-13 00:14:36 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/black_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -9314,12 +9380,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-02-13 00:02:51 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -9347,12 +9407,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/gray_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/uncrafting_table": {
-    "criteria": {
-      "has_uncrafting_table": "2025-02-12 23:59:28 +0000"
     },
     "done": true
   },
@@ -9545,12 +9599,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2025-02-13 00:14:36 +0000"
     },
     "done": true
   },
@@ -9872,21 +9920,9 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/sabrewing": {
-    "criteria": {
-      "requirement": "2025-02-13 00:14:36 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-13 00:02:51 +0000"
     },
     "done": true
   },
@@ -10106,12 +10142,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
-    "criteria": {
-      "has_item": "2025-02-12 23:54:02 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -10184,12 +10214,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -10211,12 +10235,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
     },
     "done": true
   },
@@ -10355,12 +10373,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
     },
     "done": true
   },
@@ -10628,12 +10640,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/white_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -10664,12 +10670,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-02-12 23:25:38 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/green_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
@@ -10679,6 +10679,24 @@
   "refinedstorage:recipes/misc/coloring_recipes/yellow_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2025-02-13 00:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-02-13 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-02-13 19:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab": {
+    "criteria": {
+      "has_polished_cut_scorchia": "2025-02-13 19:27:35 +0000"
     },
     "done": true
   },
