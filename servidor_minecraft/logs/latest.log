@@ -603,3 +603,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [13Feb2025 19:30:52.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Gave 1 [Mossy Hammer] to alejandro946]
 [13Feb2025 19:34:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alejandro946: Successfully filled 31 block(s)]
 [13Feb2025 19:37:04.254] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: alejandro946/xp_farm.nbt
+[13Feb2025 19:42:54.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alejandro946 lost connection: Disconnected
+[13Feb2025 19:42:54.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alejandro946 left the game
+[13Feb2025 19:43:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Feb2025 19:43:22.556] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[13Feb2025 19:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Feb2025 19:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Feb2025 19:43:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Feb2025 19:43:22.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Feb2025 19:43:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Feb2025 19:43:23.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Feb2025 19:43:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Feb2025 19:43:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Feb2025 19:43:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Feb2025 19:43:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Feb2025 19:43:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Feb2025 19:43:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Feb2025 19:43:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Feb2025 19:43:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
