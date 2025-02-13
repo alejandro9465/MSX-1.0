@@ -10700,12 +10700,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2025-02-13 20:13:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
       "has_item": "2025-02-13 19:55:23 +0000"
@@ -10715,6 +10709,18 @@
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-13 20:06:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-02-13 20:13:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-13 20:47:45 +0000"
     },
     "done": true
   },
